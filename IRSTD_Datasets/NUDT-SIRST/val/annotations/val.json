@@ -1594,9 +1594,7 @@
     "annotations": [
         {
             "id": 1,
-            "iscrowd": 0,
             "image_id": "0006",
-            "category_id": 1,
             "keypoints": [
                 177.5104,
                 228.5056,
@@ -1615,9 +1613,7 @@
         },
         {
             "id": 2,
-            "iscrowd": 0,
             "image_id": "0017",
-            "category_id": 1,
             "keypoints": [
                 184.4992,
                 145.5104,
@@ -1636,9 +1632,7 @@
         },
         {
             "id": 3,
-            "iscrowd": 0,
             "image_id": "0019",
-            "category_id": 1,
             "keypoints": [
                 146.5088,
                 12.4928,
@@ -1657,9 +1651,7 @@
         },
         {
             "id": 4,
-            "iscrowd": 0,
             "image_id": "0024",
-            "category_id": 1,
             "keypoints": [
                 55.5008,
                 68.5056,
@@ -1678,9 +1670,7 @@
         },
         {
             "id": 5,
-            "iscrowd": 0,
             "image_id": "0029",
-            "category_id": 1,
             "keypoints": [
                 249.4976,
                 218.496,
@@ -1699,9 +1689,7 @@
         },
         {
             "id": 6,
-            "iscrowd": 0,
             "image_id": "0034",
-            "category_id": 1,
             "keypoints": [
                 200.4992,
                 195.5072,
@@ -1720,9 +1708,7 @@
         },
         {
             "id": 7,
-            "iscrowd": 0,
             "image_id": "0039",
-            "category_id": 1,
             "keypoints": [
                 5.504,
                 67.5072,
@@ -1741,9 +1727,7 @@
         },
         {
             "id": 8,
-            "iscrowd": 0,
             "image_id": "0041",
-            "category_id": 1,
             "keypoints": [
                 170.496,
                 206.4896,
@@ -1789,9 +1773,7 @@
         },
         {
             "id": 9,
-            "iscrowd": 0,
             "image_id": "0042",
-            "category_id": 1,
             "keypoints": [
                 157.4912,
                 128.512,
@@ -1810,9 +1792,7 @@
         },
         {
             "id": 10,
-            "iscrowd": 0,
             "image_id": "0057",
-            "category_id": 1,
             "keypoints": [
                 197.504,
                 30.4896,
@@ -1831,9 +1811,7 @@
         },
         {
             "id": 11,
-            "iscrowd": 0,
             "image_id": "0058",
-            "category_id": 1,
             "keypoints": [
                 32.512,
                 80.512,
@@ -1852,9 +1830,7 @@
         },
         {
             "id": 12,
-            "iscrowd": 0,
             "image_id": "0068",
-            "category_id": 1,
             "keypoints": [
                 40.4992,
                 53.504,
@@ -1882,9 +1858,7 @@
         },
         {
             "id": 13,
-            "iscrowd": 0,
             "image_id": "0071",
-            "category_id": 1,
             "keypoints": [
                 45.4912,
                 239.488,
@@ -1912,9 +1886,7 @@
         },
         {
             "id": 14,
-            "iscrowd": 0,
             "image_id": "0081",
-            "category_id": 1,
             "keypoints": [
                 110.4896,
                 210.5088,
@@ -1933,9 +1905,7 @@
         },
         {
             "id": 15,
-            "iscrowd": 0,
             "image_id": "0096",
-            "category_id": 1,
             "keypoints": [
                 171.4944,
                 245.9904,
@@ -1963,9 +1933,7 @@
         },
         {
             "id": 16,
-            "iscrowd": 0,
             "image_id": "0101",
-            "category_id": 1,
             "keypoints": [
                 59.4944,
                 201.4976,
@@ -1993,9 +1961,7 @@
         },
         {
             "id": 17,
-            "iscrowd": 0,
             "image_id": "0102",
-            "category_id": 1,
             "keypoints": [
                 246.5024,
                 52.5056,
@@ -2014,9 +1980,7 @@
         },
         {
             "id": 18,
-            "iscrowd": 0,
             "image_id": "0103",
-            "category_id": 1,
             "keypoints": [
                 192.512,
                 95.488,
@@ -2035,9 +1999,7 @@
         },
         {
             "id": 19,
-            "iscrowd": 0,
             "image_id": "0105",
-            "category_id": 1,
             "keypoints": [
                 217.4976,
                 204.4928,
@@ -2065,9 +2027,7 @@
         },
         {
             "id": 20,
-            "iscrowd": 0,
             "image_id": "0111",
-            "category_id": 1,
             "keypoints": [
                 198.9888,
                 84.992,
@@ -2095,9 +2055,7 @@
         },
         {
             "id": 21,
-            "iscrowd": 0,
             "image_id": "0117",
-            "category_id": 1,
             "keypoints": [
                 34.5088,
                 226.5088,
@@ -2125,9 +2083,7 @@
         },
         {
             "id": 22,
-            "iscrowd": 0,
             "image_id": "0120",
-            "category_id": 1,
             "keypoints": [
                 189.0048,
                 117.504,
@@ -2155,9 +2111,7 @@
         },
         {
             "id": 23,
-            "iscrowd": 0,
             "image_id": "0127",
-            "category_id": 1,
             "keypoints": [
                 196.5056,
                 52.5056,
@@ -2185,9 +2139,7 @@
         },
         {
             "id": 24,
-            "iscrowd": 0,
             "image_id": "0128",
-            "category_id": 1,
             "keypoints": [
                 209.5104,
                 250.0096,
@@ -2215,9 +2167,7 @@
         },
         {
             "id": 25,
-            "iscrowd": 0,
             "image_id": "0134",
-            "category_id": 1,
             "keypoints": [
                 251.008,
                 252.0064,
@@ -2245,9 +2195,7 @@
         },
         {
             "id": 26,
-            "iscrowd": 0,
             "image_id": "0137",
-            "category_id": 1,
             "keypoints": [
                 78.4896,
                 199.5008,
@@ -2275,9 +2223,7 @@
         },
         {
             "id": 27,
-            "iscrowd": 0,
             "image_id": "0139",
-            "category_id": 1,
             "keypoints": [
                 110.4896,
                 163.9936,
@@ -2305,9 +2251,7 @@
         },
         {
             "id": 28,
-            "iscrowd": 0,
             "image_id": "0141",
-            "category_id": 1,
             "keypoints": [
                 65.5104,
                 159.0016,
@@ -2335,9 +2279,7 @@
         },
         {
             "id": 29,
-            "iscrowd": 0,
             "image_id": "0143",
-            "category_id": 1,
             "keypoints": [
                 206.0032,
                 115.9936,
@@ -2365,9 +2307,7 @@
         },
         {
             "id": 30,
-            "iscrowd": 0,
             "image_id": "0149",
-            "category_id": 1,
             "keypoints": [
                 28.4928,
                 204.4928,
@@ -2395,9 +2335,7 @@
         },
         {
             "id": 31,
-            "iscrowd": 0,
             "image_id": "0152",
-            "category_id": 1,
             "keypoints": [
                 202.0096,
                 152.4992,
@@ -2425,9 +2363,7 @@
         },
         {
             "id": 32,
-            "iscrowd": 0,
             "image_id": "0154",
-            "category_id": 1,
             "keypoints": [
                 199.5008,
                 33.5104,
@@ -2455,9 +2391,7 @@
         },
         {
             "id": 33,
-            "iscrowd": 0,
             "image_id": "0158",
-            "category_id": 1,
             "keypoints": [
                 27.008,
                 225.9968,
@@ -2485,9 +2419,7 @@
         },
         {
             "id": 34,
-            "iscrowd": 0,
             "image_id": "0160",
-            "category_id": 1,
             "keypoints": [
                 126.4896,
                 129.5104,
@@ -2515,9 +2447,7 @@
         },
         {
             "id": 35,
-            "iscrowd": 0,
             "image_id": "0164",
-            "category_id": 1,
             "keypoints": [
                 43.008,
                 189.0048,
@@ -2545,9 +2475,7 @@
         },
         {
             "id": 36,
-            "iscrowd": 0,
             "image_id": "0166",
-            "category_id": 1,
             "keypoints": [
                 197.9904,
                 213.9904,
@@ -2575,9 +2503,7 @@
         },
         {
             "id": 37,
-            "iscrowd": 0,
             "image_id": "0167",
-            "category_id": 1,
             "keypoints": [
                 128.9984,
                 127.0016,
@@ -2605,9 +2531,7 @@
         },
         {
             "id": 38,
-            "iscrowd": 0,
             "image_id": "0173",
-            "category_id": 1,
             "keypoints": [
                 128.512,
                 15.0016,
@@ -2626,9 +2550,7 @@
         },
         {
             "id": 39,
-            "iscrowd": 0,
             "image_id": "0174",
-            "category_id": 1,
             "keypoints": [
                 128.0,
                 127.0016,
@@ -2656,9 +2578,7 @@
         },
         {
             "id": 40,
-            "iscrowd": 0,
             "image_id": "0177",
-            "category_id": 1,
             "keypoints": [
                 41.0112,
                 224.512,
@@ -2686,9 +2606,7 @@
         },
         {
             "id": 41,
-            "iscrowd": 0,
             "image_id": "0180",
-            "category_id": 1,
             "keypoints": [
                 206.4896,
                 231.9872,
@@ -2716,9 +2634,7 @@
         },
         {
             "id": 42,
-            "iscrowd": 0,
             "image_id": "0191",
-            "category_id": 1,
             "keypoints": [
                 210.9952,
                 140.4928,
@@ -2746,9 +2662,7 @@
         },
         {
             "id": 43,
-            "iscrowd": 0,
             "image_id": "0193",
-            "category_id": 1,
             "keypoints": [
                 102.5024,
                 150.5024,
@@ -2776,9 +2690,7 @@
         },
         {
             "id": 44,
-            "iscrowd": 0,
             "image_id": "0199",
-            "category_id": 1,
             "keypoints": [
                 174.0032,
                 191.0016,
@@ -2797,9 +2709,7 @@
         },
         {
             "id": 45,
-            "iscrowd": 0,
             "image_id": "0207",
-            "category_id": 1,
             "keypoints": [
                 128.0,
                 128.512,
@@ -2827,9 +2737,7 @@
         },
         {
             "id": 46,
-            "iscrowd": 0,
             "image_id": "0208",
-            "category_id": 1,
             "keypoints": [
                 153.0112,
                 227.5072,
@@ -2848,9 +2756,7 @@
         },
         {
             "id": 47,
-            "iscrowd": 0,
             "image_id": "0210",
-            "category_id": 1,
             "keypoints": [
                 49.5104,
                 225.5104,
@@ -2878,9 +2784,7 @@
         },
         {
             "id": 48,
-            "iscrowd": 0,
             "image_id": "0222",
-            "category_id": 1,
             "keypoints": [
                 118.5024,
                 164.5056,
@@ -2899,9 +2803,7 @@
         },
         {
             "id": 49,
-            "iscrowd": 0,
             "image_id": "0226",
-            "category_id": 1,
             "keypoints": [
                 32.9984,
                 70.5024,
@@ -2929,9 +2831,7 @@
         },
         {
             "id": 50,
-            "iscrowd": 0,
             "image_id": "0229",
-            "category_id": 1,
             "keypoints": [
                 128.512,
                 128.0,
@@ -2959,9 +2859,7 @@
         },
         {
             "id": 51,
-            "iscrowd": 0,
             "image_id": "0234",
-            "category_id": 1,
             "keypoints": [
                 109.0048,
                 174.4896,
@@ -2980,9 +2878,7 @@
         },
         {
             "id": 52,
-            "iscrowd": 0,
             "image_id": "0235",
-            "category_id": 1,
             "keypoints": [
                 164.5056,
                 134.9888,
@@ -3001,9 +2897,7 @@
         },
         {
             "id": 53,
-            "iscrowd": 0,
             "image_id": "0254",
-            "category_id": 1,
             "keypoints": [
                 127.488,
                 99.5072,
@@ -3031,9 +2925,7 @@
         },
         {
             "id": 54,
-            "iscrowd": 0,
             "image_id": "0256",
-            "category_id": 1,
             "keypoints": [
                 133.504,
                 128.9984,
@@ -3061,9 +2953,7 @@
         },
         {
             "id": 55,
-            "iscrowd": 0,
             "image_id": "0257",
-            "category_id": 1,
             "keypoints": [
                 51.9936,
                 107.008,
@@ -3082,9 +2972,7 @@
         },
         {
             "id": 56,
-            "iscrowd": 0,
             "image_id": "0267",
-            "category_id": 1,
             "keypoints": [
                 145.9968,
                 140.0064,
@@ -3112,9 +3000,7 @@
         },
         {
             "id": 57,
-            "iscrowd": 0,
             "image_id": "0272",
-            "category_id": 1,
             "keypoints": [
                 159.0016,
                 175.0016,
@@ -3142,9 +3028,7 @@
         },
         {
             "id": 58,
-            "iscrowd": 0,
             "image_id": "0282",
-            "category_id": 1,
             "keypoints": [
                 83.9936,
                 248.4992,
@@ -3163,9 +3047,7 @@
         },
         {
             "id": 59,
-            "iscrowd": 0,
             "image_id": "0285",
-            "category_id": 1,
             "keypoints": [
                 81.9968,
                 32.512,
@@ -3184,9 +3066,7 @@
         },
         {
             "id": 60,
-            "iscrowd": 0,
             "image_id": "0292",
-            "category_id": 1,
             "keypoints": [
                 87.5008,
                 217.4976,
@@ -3214,9 +3094,7 @@
         },
         {
             "id": 61,
-            "iscrowd": 0,
             "image_id": "0300",
-            "category_id": 1,
             "keypoints": [
                 192.0,
                 36.992,
@@ -3235,9 +3113,7 @@
         },
         {
             "id": 62,
-            "iscrowd": 0,
             "image_id": "0307",
-            "category_id": 1,
             "keypoints": [
                 220.0064,
                 5.9904,
@@ -3256,9 +3132,7 @@
         },
         {
             "id": 63,
-            "iscrowd": 0,
             "image_id": "0315",
-            "category_id": 1,
             "keypoints": [
                 228.992,
                 158.0032,
@@ -3277,9 +3151,7 @@
         },
         {
             "id": 64,
-            "iscrowd": 0,
             "image_id": "0320",
-            "category_id": 1,
             "keypoints": [
                 21.9904,
                 7.5008,
@@ -3298,9 +3170,7 @@
         },
         {
             "id": 65,
-            "iscrowd": 0,
             "image_id": "0321",
-            "category_id": 1,
             "keypoints": [
                 145.5104,
                 134.5024,
@@ -3328,9 +3198,7 @@
         },
         {
             "id": 66,
-            "iscrowd": 0,
             "image_id": "0322",
-            "category_id": 1,
             "keypoints": [
                 169.0112,
                 139.4944,
@@ -3349,9 +3217,7 @@
         },
         {
             "id": 67,
-            "iscrowd": 0,
             "image_id": "0329",
-            "category_id": 1,
             "keypoints": [
                 70.5024,
                 182.5024,
@@ -3370,9 +3236,7 @@
         },
         {
             "id": 68,
-            "iscrowd": 0,
             "image_id": "0330",
-            "category_id": 1,
             "keypoints": [
                 48.512,
                 64.512,
@@ -3391,9 +3255,7 @@
         },
         {
             "id": 69,
-            "iscrowd": 0,
             "image_id": "0346",
-            "category_id": 1,
             "keypoints": [
                 9.4976,
                 109.4912,
@@ -3412,9 +3274,7 @@
         },
         {
             "id": 70,
-            "iscrowd": 0,
             "image_id": "0358",
-            "category_id": 1,
             "keypoints": [
                 87.5008,
                 161.5104,
@@ -3442,9 +3302,7 @@
         },
         {
             "id": 71,
-            "iscrowd": 0,
             "image_id": "0363",
-            "category_id": 1,
             "keypoints": [
                 24.4992,
                 19.5072,
@@ -3463,9 +3321,7 @@
         },
         {
             "id": 72,
-            "iscrowd": 0,
             "image_id": "0365",
-            "category_id": 1,
             "keypoints": [
                 14.4896,
                 239.488,
@@ -3484,9 +3340,7 @@
         },
         {
             "id": 73,
-            "iscrowd": 0,
             "image_id": "0369",
-            "category_id": 1,
             "keypoints": [
                 105.4976,
                 123.4944,
@@ -3505,9 +3359,7 @@
         },
         {
             "id": 74,
-            "iscrowd": 0,
             "image_id": "0370",
-            "category_id": 1,
             "keypoints": [
                 144.512,
                 2.5088,
@@ -3526,9 +3378,7 @@
         },
         {
             "id": 75,
-            "iscrowd": 0,
             "image_id": "0380",
-            "category_id": 1,
             "keypoints": [
                 86.5024,
                 98.5088,
@@ -3547,9 +3397,7 @@
         },
         {
             "id": 76,
-            "iscrowd": 0,
             "image_id": "0381",
-            "category_id": 1,
             "keypoints": [
                 88.4992,
                 149.504,
@@ -3568,9 +3416,7 @@
         },
         {
             "id": 77,
-            "iscrowd": 0,
             "image_id": "0383",
-            "category_id": 1,
             "keypoints": [
                 137.4976,
                 9.4976,
@@ -3589,9 +3435,7 @@
         },
         {
             "id": 78,
-            "iscrowd": 0,
             "image_id": "0390",
-            "category_id": 1,
             "keypoints": [
                 244.5056,
                 252.4928,
@@ -3628,9 +3472,7 @@
         },
         {
             "id": 79,
-            "iscrowd": 0,
             "image_id": "0394",
-            "category_id": 1,
             "keypoints": [
                 3.5072,
                 131.5072,
@@ -3649,9 +3491,7 @@
         },
         {
             "id": 80,
-            "iscrowd": 0,
             "image_id": "0397",
-            "category_id": 1,
             "keypoints": [
                 231.5008,
                 184.4992,
@@ -3688,9 +3528,7 @@
         },
         {
             "id": 81,
-            "iscrowd": 0,
             "image_id": "0401",
-            "category_id": 1,
             "keypoints": [
                 129.9968,
                 141.4912,
@@ -3718,9 +3556,7 @@
         },
         {
             "id": 82,
-            "iscrowd": 0,
             "image_id": "0404",
-            "category_id": 1,
             "keypoints": [
                 229.9904,
                 182.5024,
@@ -3748,9 +3584,7 @@
         },
         {
             "id": 83,
-            "iscrowd": 0,
             "image_id": "0407",
-            "category_id": 1,
             "keypoints": [
                 32.9984,
                 251.4944,
@@ -3778,9 +3612,7 @@
         },
         {
             "id": 84,
-            "iscrowd": 0,
             "image_id": "0411",
-            "category_id": 1,
             "keypoints": [
                 20.5056,
                 65.9968,
@@ -3799,9 +3631,7 @@
         },
         {
             "id": 85,
-            "iscrowd": 0,
             "image_id": "0425",
-            "category_id": 1,
             "keypoints": [
                 44.0064,
                 25.0112,
@@ -3820,9 +3650,7 @@
         },
         {
             "id": 86,
-            "iscrowd": 0,
             "image_id": "0428",
-            "category_id": 1,
             "keypoints": [
                 229.9904,
                 65.9968,
@@ -3841,9 +3669,7 @@
         },
         {
             "id": 87,
-            "iscrowd": 0,
             "image_id": "0429",
-            "category_id": 1,
             "keypoints": [
                 128.0,
                 177.9968,
@@ -3871,9 +3697,7 @@
         },
         {
             "id": 88,
-            "iscrowd": 0,
             "image_id": "0432",
-            "category_id": 1,
             "keypoints": [
                 132.992,
                 129.9968,
@@ -3901,9 +3725,7 @@
         },
         {
             "id": 89,
-            "iscrowd": 0,
             "image_id": "0437",
-            "category_id": 1,
             "keypoints": [
                 77.0048,
                 116.5056,
@@ -3922,9 +3744,7 @@
         },
         {
             "id": 90,
-            "iscrowd": 0,
             "image_id": "0438",
-            "category_id": 1,
             "keypoints": [
                 115.5072,
                 177.5104,
@@ -3952,9 +3772,7 @@
         },
         {
             "id": 91,
-            "iscrowd": 0,
             "image_id": "0439",
-            "category_id": 1,
             "keypoints": [
                 61.4912,
                 207.488,
@@ -3982,9 +3800,7 @@
         },
         {
             "id": 92,
-            "iscrowd": 0,
             "image_id": "0455",
-            "category_id": 1,
             "keypoints": [
                 148.5056,
                 4.992,
@@ -4003,9 +3819,7 @@
         },
         {
             "id": 93,
-            "iscrowd": 0,
             "image_id": "0462",
-            "category_id": 1,
             "keypoints": [
                 240.9984,
                 44.0064,
@@ -4024,9 +3838,7 @@
         },
         {
             "id": 94,
-            "iscrowd": 0,
             "image_id": "0465",
-            "category_id": 1,
             "keypoints": [
                 244.992,
                 224.9984,
@@ -4054,9 +3866,7 @@
         },
         {
             "id": 95,
-            "iscrowd": 0,
             "image_id": "0467",
-            "category_id": 1,
             "keypoints": [
                 139.008,
                 188.0064,
@@ -4084,9 +3894,7 @@
         },
         {
             "id": 96,
-            "iscrowd": 0,
             "image_id": "0468",
-            "category_id": 1,
             "keypoints": [
                 73.4976,
                 125.4912,
@@ -4114,9 +3922,7 @@
         },
         {
             "id": 97,
-            "iscrowd": 0,
             "image_id": "0471",
-            "category_id": 1,
             "keypoints": [
                 19.9936,
                 151.5008,
@@ -4135,9 +3941,7 @@
         },
         {
             "id": 98,
-            "iscrowd": 0,
             "image_id": "0483",
-            "category_id": 1,
             "keypoints": [
                 11.008,
                 157.0048,
@@ -4156,9 +3960,7 @@
         },
         {
             "id": 99,
-            "iscrowd": 0,
             "image_id": "0493",
-            "category_id": 1,
             "keypoints": [
                 33.9968,
                 142.4896,
@@ -4186,9 +3988,7 @@
         },
         {
             "id": 100,
-            "iscrowd": 0,
             "image_id": "0501",
-            "category_id": 1,
             "keypoints": [
                 149.9904,
                 101.504,
@@ -4216,9 +4016,7 @@
         },
         {
             "id": 101,
-            "iscrowd": 0,
             "image_id": "0505",
-            "category_id": 1,
             "keypoints": [
                 47.488,
                 31.0016,
@@ -4237,9 +4035,7 @@
         },
         {
             "id": 102,
-            "iscrowd": 0,
             "image_id": "0513",
-            "category_id": 1,
             "keypoints": [
                 28.0064,
                 234.0096,
@@ -4267,9 +4063,7 @@
         },
         {
             "id": 103,
-            "iscrowd": 0,
             "image_id": "0519",
-            "category_id": 1,
             "keypoints": [
                 151.5008,
                 174.0032,
@@ -4288,9 +4082,7 @@
         },
         {
             "id": 104,
-            "iscrowd": 0,
             "image_id": "0522",
-            "category_id": 1,
             "keypoints": [
                 143.488,
                 88.4992,
@@ -4318,9 +4110,7 @@
         },
         {
             "id": 105,
-            "iscrowd": 0,
             "image_id": "0527",
-            "category_id": 1,
             "keypoints": [
                 238.4896,
                 118.5024,
@@ -4339,9 +4129,7 @@
         },
         {
             "id": 106,
-            "iscrowd": 0,
             "image_id": "0530",
-            "category_id": 1,
             "keypoints": [
                 216.4992,
                 220.0064,
@@ -4360,9 +4148,7 @@
         },
         {
             "id": 107,
-            "iscrowd": 0,
             "image_id": "0533",
-            "category_id": 1,
             "keypoints": [
                 76.4928,
                 152.4992,
@@ -4381,9 +4167,7 @@
         },
         {
             "id": 108,
-            "iscrowd": 0,
             "image_id": "0535",
-            "category_id": 1,
             "keypoints": [
                 168.4992,
                 71.5008,
@@ -4402,9 +4186,7 @@
         },
         {
             "id": 109,
-            "iscrowd": 0,
             "image_id": "0538",
-            "category_id": 1,
             "keypoints": [
                 111.0016,
                 48.512,
@@ -4423,9 +4205,7 @@
         },
         {
             "id": 110,
-            "iscrowd": 0,
             "image_id": "0543",
-            "category_id": 1,
             "keypoints": [
                 25.4976,
                 154.0096,
@@ -4444,9 +4224,7 @@
         },
         {
             "id": 111,
-            "iscrowd": 0,
             "image_id": "0550",
-            "category_id": 1,
             "keypoints": [
                 54.9888,
                 134.9888,
@@ -4465,9 +4243,7 @@
         },
         {
             "id": 112,
-            "iscrowd": 0,
             "image_id": "0553",
-            "category_id": 1,
             "keypoints": [
                 39.9872,
                 121.0112,
@@ -4486,9 +4262,7 @@
         },
         {
             "id": 113,
-            "iscrowd": 0,
             "image_id": "0554",
-            "category_id": 1,
             "keypoints": [
                 22.5024,
                 217.4976,
@@ -4507,9 +4281,7 @@
         },
         {
             "id": 114,
-            "iscrowd": 0,
             "image_id": "0557",
-            "category_id": 1,
             "keypoints": [
                 95.0016,
                 28.4928,
@@ -4528,9 +4300,7 @@
         },
         {
             "id": 115,
-            "iscrowd": 0,
             "image_id": "0560",
-            "category_id": 1,
             "keypoints": [
                 17.9968,
                 209.9968,
@@ -4549,9 +4319,7 @@
         },
         {
             "id": 116,
-            "iscrowd": 0,
             "image_id": "0565",
-            "category_id": 1,
             "keypoints": [
                 120.0128,
                 146.9952,
@@ -4570,9 +4338,7 @@
         },
         {
             "id": 117,
-            "iscrowd": 0,
             "image_id": "0566",
-            "category_id": 1,
             "keypoints": [
                 112.9984,
                 194.9952,
@@ -4591,9 +4357,7 @@
         },
         {
             "id": 118,
-            "iscrowd": 0,
             "image_id": "0567",
-            "category_id": 1,
             "keypoints": [
                 226.9952,
                 218.0096,
@@ -4612,9 +4376,7 @@
         },
         {
             "id": 119,
-            "iscrowd": 0,
             "image_id": "0569",
-            "category_id": 1,
             "keypoints": [
                 16.0,
                 151.5008,
@@ -4633,9 +4395,7 @@
         },
         {
             "id": 120,
-            "iscrowd": 0,
             "image_id": "0581",
-            "category_id": 1,
             "keypoints": [
                 157.4912,
                 219.008,
@@ -4654,9 +4414,7 @@
         },
         {
             "id": 121,
-            "iscrowd": 0,
             "image_id": "0582",
-            "category_id": 1,
             "keypoints": [
                 225.5104,
                 179.5072,
@@ -4675,9 +4433,7 @@
         },
         {
             "id": 122,
-            "iscrowd": 0,
             "image_id": "0588",
-            "category_id": 1,
             "keypoints": [
                 132.992,
                 128.512,
@@ -4696,9 +4452,7 @@
         },
         {
             "id": 123,
-            "iscrowd": 0,
             "image_id": "0591",
-            "category_id": 1,
             "keypoints": [
                 81.9968,
                 246.5024,
@@ -4717,9 +4471,7 @@
         },
         {
             "id": 124,
-            "iscrowd": 0,
             "image_id": "0593",
-            "category_id": 1,
             "keypoints": [
                 165.9904,
                 88.4992,
@@ -4738,9 +4490,7 @@
         },
         {
             "id": 125,
-            "iscrowd": 0,
             "image_id": "0598",
-            "category_id": 1,
             "keypoints": [
                 52.5056,
                 246.5024,
@@ -4759,9 +4509,7 @@
         },
         {
             "id": 126,
-            "iscrowd": 0,
             "image_id": "0599",
-            "category_id": 1,
             "keypoints": [
                 182.9888,
                 208.512,
@@ -4780,9 +4528,7 @@
         },
         {
             "id": 127,
-            "iscrowd": 0,
             "image_id": "0603",
-            "category_id": 1,
             "keypoints": [
                 157.0048,
                 56.4992,
@@ -4801,9 +4547,7 @@
         },
         {
             "id": 128,
-            "iscrowd": 0,
             "image_id": "0604",
-            "category_id": 1,
             "keypoints": [
                 135.5008,
                 131.9936,
@@ -4822,9 +4566,7 @@
         },
         {
             "id": 129,
-            "iscrowd": 0,
             "image_id": "0608",
-            "category_id": 1,
             "keypoints": [
                 134.9888,
                 132.5056,
@@ -4843,9 +4585,7 @@
         },
         {
             "id": 130,
-            "iscrowd": 0,
             "image_id": "0614",
-            "category_id": 1,
             "keypoints": [
                 134.9888,
                 130.9952,
@@ -4864,9 +4604,7 @@
         },
         {
             "id": 131,
-            "iscrowd": 0,
             "image_id": "0631",
-            "category_id": 1,
             "keypoints": [
                 211.5072,
                 164.5056,
@@ -4885,9 +4623,7 @@
         },
         {
             "id": 132,
-            "iscrowd": 0,
             "image_id": "0641",
-            "category_id": 1,
             "keypoints": [
                 75.008,
                 126.0032,
@@ -4915,9 +4651,7 @@
         },
         {
             "id": 133,
-            "iscrowd": 0,
             "image_id": "0645",
-            "category_id": 1,
             "keypoints": [
                 17.5104,
                 239.0016,
@@ -4945,9 +4679,7 @@
         },
         {
             "id": 134,
-            "iscrowd": 0,
             "image_id": "0668",
-            "category_id": 1,
             "keypoints": [
                 170.0096,
                 221.4912,
@@ -4975,9 +4707,7 @@
         },
         {
             "id": 135,
-            "iscrowd": 0,
             "image_id": "0669",
-            "category_id": 1,
             "keypoints": [
                 39.5008,
                 42.496,
@@ -5005,9 +4735,7 @@
         },
         {
             "id": 136,
-            "iscrowd": 0,
             "image_id": "0677",
-            "category_id": 1,
             "keypoints": [
                 136.4992,
                 200.4992,
@@ -5035,9 +4763,7 @@
         },
         {
             "id": 137,
-            "iscrowd": 0,
             "image_id": "0678",
-            "category_id": 1,
             "keypoints": [
                 156.0064,
                 254.0032,
@@ -5065,9 +4791,7 @@
         },
         {
             "id": 138,
-            "iscrowd": 0,
             "image_id": "0682",
-            "category_id": 1,
             "keypoints": [
                 86.9888,
                 231.9872,
@@ -5095,9 +4819,7 @@
         },
         {
             "id": 139,
-            "iscrowd": 0,
             "image_id": "0683",
-            "category_id": 1,
             "keypoints": [
                 224.0,
                 153.0112,
@@ -5125,9 +4847,7 @@
         },
         {
             "id": 140,
-            "iscrowd": 0,
             "image_id": "0686",
-            "category_id": 1,
             "keypoints": [
                 206.4896,
                 139.4944,
@@ -5155,9 +4875,7 @@
         },
         {
             "id": 141,
-            "iscrowd": 0,
             "image_id": "0691",
-            "category_id": 1,
             "keypoints": [
                 109.0048,
                 162.9952,
@@ -5185,9 +4903,7 @@
         },
         {
             "id": 142,
-            "iscrowd": 0,
             "image_id": "0693",
-            "category_id": 1,
             "keypoints": [
                 108.4928,
                 163.9936,
@@ -5206,9 +4922,7 @@
         },
         {
             "id": 143,
-            "iscrowd": 0,
             "image_id": "0698",
-            "category_id": 1,
             "keypoints": [
                 180.5056,
                 190.0032,
@@ -5236,9 +4950,7 @@
         },
         {
             "id": 144,
-            "iscrowd": 0,
             "image_id": "0705",
-            "category_id": 1,
             "keypoints": [
                 163.5072,
                 135.9872,
@@ -5266,9 +4978,7 @@
         },
         {
             "id": 145,
-            "iscrowd": 0,
             "image_id": "0718",
-            "category_id": 1,
             "keypoints": [
                 162.5088,
                 245.504,
@@ -5296,9 +5006,7 @@
         },
         {
             "id": 146,
-            "iscrowd": 0,
             "image_id": "0719",
-            "category_id": 1,
             "keypoints": [
                 39.5008,
                 162.5088,
@@ -5326,9 +5034,7 @@
         },
         {
             "id": 147,
-            "iscrowd": 0,
             "image_id": "0727",
-            "category_id": 1,
             "keypoints": [
                 17.5104,
                 234.496,
@@ -5356,9 +5062,7 @@
         },
         {
             "id": 148,
-            "iscrowd": 0,
             "image_id": "0728",
-            "category_id": 1,
             "keypoints": [
                 208.9984,
                 153.0112,
@@ -5386,9 +5090,7 @@
         },
         {
             "id": 149,
-            "iscrowd": 0,
             "image_id": "0732",
-            "category_id": 1,
             "keypoints": [
                 81.9968,
                 125.4912,
@@ -5407,9 +5109,7 @@
         },
         {
             "id": 150,
-            "iscrowd": 0,
             "image_id": "0747",
-            "category_id": 1,
             "keypoints": [
                 46.0032,
                 141.0048,
@@ -5437,9 +5137,7 @@
         },
         {
             "id": 151,
-            "iscrowd": 0,
             "image_id": "0754",
-            "category_id": 1,
             "keypoints": [
                 192.9984,
                 33.5104,
@@ -5458,9 +5156,7 @@
         },
         {
             "id": 152,
-            "iscrowd": 0,
             "image_id": "0756",
-            "category_id": 1,
             "keypoints": [
                 150.5024,
                 168.4992,
@@ -5488,9 +5184,7 @@
         },
         {
             "id": 153,
-            "iscrowd": 0,
             "image_id": "0758",
-            "category_id": 1,
             "keypoints": [
                 49.5104,
                 184.4992,
@@ -5518,9 +5212,7 @@
         },
         {
             "id": 154,
-            "iscrowd": 0,
             "image_id": "0760",
-            "category_id": 1,
             "keypoints": [
                 69.9904,
                 252.0064,
@@ -5548,9 +5240,7 @@
         },
         {
             "id": 155,
-            "iscrowd": 0,
             "image_id": "0764",
-            "category_id": 1,
             "keypoints": [
                 166.9888,
                 124.4928,
@@ -5578,9 +5268,7 @@
         },
         {
             "id": 156,
-            "iscrowd": 0,
             "image_id": "0766",
-            "category_id": 1,
             "keypoints": [
                 192.512,
                 2.5088,
@@ -5599,9 +5287,7 @@
         },
         {
             "id": 157,
-            "iscrowd": 0,
             "image_id": "0768",
-            "category_id": 1,
             "keypoints": [
                 47.488,
                 152.4992,
@@ -5629,9 +5315,7 @@
         },
         {
             "id": 158,
-            "iscrowd": 0,
             "image_id": "0772",
-            "category_id": 1,
             "keypoints": [
                 139.4944,
                 65.9968,
@@ -5659,9 +5343,7 @@
         },
         {
             "id": 159,
-            "iscrowd": 0,
             "image_id": "0783",
-            "category_id": 1,
             "keypoints": [
                 103.9872,
                 123.4944,
@@ -5680,9 +5362,7 @@
         },
         {
             "id": 160,
-            "iscrowd": 0,
             "image_id": "0785",
-            "category_id": 1,
             "keypoints": [
                 98.5088,
                 241.5104,
@@ -5710,9 +5390,7 @@
         },
         {
             "id": 161,
-            "iscrowd": 0,
             "image_id": "0787",
-            "category_id": 1,
             "keypoints": [
                 83.5072,
                 113.5104,
@@ -5731,9 +5409,7 @@
         },
         {
             "id": 162,
-            "iscrowd": 0,
             "image_id": "0790",
-            "category_id": 1,
             "keypoints": [
                 187.4944,
                 226.9952,
@@ -5761,9 +5437,7 @@
         },
         {
             "id": 163,
-            "iscrowd": 0,
             "image_id": "0791",
-            "category_id": 1,
             "keypoints": [
                 180.5056,
                 236.4928,
@@ -5791,9 +5465,7 @@
         },
         {
             "id": 164,
-            "iscrowd": 0,
             "image_id": "0794",
-            "category_id": 1,
             "keypoints": [
                 42.496,
                 34.5088,
@@ -5812,9 +5484,7 @@
         },
         {
             "id": 165,
-            "iscrowd": 0,
             "image_id": "0805",
-            "category_id": 1,
             "keypoints": [
                 21.9904,
                 1.9968,
@@ -5833,9 +5503,7 @@
         },
         {
             "id": 166,
-            "iscrowd": 0,
             "image_id": "0807",
-            "category_id": 1,
             "keypoints": [
                 236.0064,
                 128.512,
@@ -5863,9 +5531,7 @@
         },
         {
             "id": 167,
-            "iscrowd": 0,
             "image_id": "0808",
-            "category_id": 1,
             "keypoints": [
                 18.9952,
                 237.0048,
@@ -5893,9 +5559,7 @@
         },
         {
             "id": 168,
-            "iscrowd": 0,
             "image_id": "0811",
-            "category_id": 1,
             "keypoints": [
                 139.4944,
                 138.496,
@@ -5923,9 +5587,7 @@
         },
         {
             "id": 169,
-            "iscrowd": 0,
             "image_id": "0821",
-            "category_id": 1,
             "keypoints": [
                 31.488,
                 200.4992,
@@ -5953,9 +5615,7 @@
         },
         {
             "id": 170,
-            "iscrowd": 0,
             "image_id": "0827",
-            "category_id": 1,
             "keypoints": [
                 98.9952,
                 119.5008,
@@ -5983,9 +5643,7 @@
         },
         {
             "id": 171,
-            "iscrowd": 0,
             "image_id": "0834",
-            "category_id": 1,
             "keypoints": [
                 163.5072,
                 116.992,
@@ -6013,9 +5671,7 @@
         },
         {
             "id": 172,
-            "iscrowd": 0,
             "image_id": "0840",
-            "category_id": 1,
             "keypoints": [
                 42.0096,
                 162.9952,
@@ -6043,9 +5699,7 @@
         },
         {
             "id": 173,
-            "iscrowd": 0,
             "image_id": "0847",
-            "category_id": 1,
             "keypoints": [
                 78.4896,
                 187.4944,
@@ -6073,9 +5727,7 @@
         },
         {
             "id": 174,
-            "iscrowd": 0,
             "image_id": "0850",
-            "category_id": 1,
             "keypoints": [
                 25.4976,
                 200.4992,
@@ -6103,9 +5755,7 @@
         },
         {
             "id": 175,
-            "iscrowd": 0,
             "image_id": "0856",
-            "category_id": 1,
             "keypoints": [
                 81.9968,
                 93.0048,
@@ -6124,9 +5774,7 @@
         },
         {
             "id": 176,
-            "iscrowd": 0,
             "image_id": "0872",
-            "category_id": 1,
             "keypoints": [
                 55.5008,
                 35.5072,
@@ -6145,9 +5793,7 @@
         },
         {
             "id": 177,
-            "iscrowd": 0,
             "image_id": "0874",
-            "category_id": 1,
             "keypoints": [
                 13.0048,
                 122.0096,
@@ -6166,9 +5812,7 @@
         },
         {
             "id": 178,
-            "iscrowd": 0,
             "image_id": "0875",
-            "category_id": 1,
             "keypoints": [
                 243.9936,
                 200.4992,
@@ -6187,9 +5831,7 @@
         },
         {
             "id": 179,
-            "iscrowd": 0,
             "image_id": "0876",
-            "category_id": 1,
             "keypoints": [
                 75.4944,
                 12.4928,
@@ -6208,9 +5850,7 @@
         },
         {
             "id": 180,
-            "iscrowd": 0,
             "image_id": "0878",
-            "category_id": 1,
             "keypoints": [
                 170.0096,
                 138.496,
@@ -6229,9 +5869,7 @@
         },
         {
             "id": 181,
-            "iscrowd": 0,
             "image_id": "0880",
-            "category_id": 1,
             "keypoints": [
                 173.0048,
                 94.0032,
@@ -6250,9 +5888,7 @@
         },
         {
             "id": 182,
-            "iscrowd": 0,
             "image_id": "0883",
-            "category_id": 1,
             "keypoints": [
                 187.4944,
                 226.5088,
@@ -6271,9 +5907,7 @@
         },
         {
             "id": 183,
-            "iscrowd": 0,
             "image_id": "0890",
-            "category_id": 1,
             "keypoints": [
                 120.0128,
                 145.5104,
@@ -6292,9 +5926,7 @@
         },
         {
             "id": 184,
-            "iscrowd": 0,
             "image_id": "0892",
-            "category_id": 1,
             "keypoints": [
                 223.0016,
                 123.4944,
@@ -6313,9 +5945,7 @@
         },
         {
             "id": 185,
-            "iscrowd": 0,
             "image_id": "0900",
-            "category_id": 1,
             "keypoints": [
                 129.9968,
                 122.496,
@@ -6334,9 +5964,7 @@
         },
         {
             "id": 186,
-            "iscrowd": 0,
             "image_id": "0901",
-            "category_id": 1,
             "keypoints": [
                 233.0112,
                 71.9872,
@@ -6355,9 +5983,7 @@
         },
         {
             "id": 187,
-            "iscrowd": 0,
             "image_id": "0912",
-            "category_id": 1,
             "keypoints": [
                 48.9984,
                 83.9936,
@@ -6376,9 +6002,7 @@
         },
         {
             "id": 188,
-            "iscrowd": 0,
             "image_id": "0917",
-            "category_id": 1,
             "keypoints": [
                 242.9952,
                 66.9952,
@@ -6397,9 +6021,7 @@
         },
         {
             "id": 189,
-            "iscrowd": 0,
             "image_id": "0921",
-            "category_id": 1,
             "keypoints": [
                 130.9952,
                 81.9968,
@@ -6418,9 +6040,7 @@
         },
         {
             "id": 190,
-            "iscrowd": 0,
             "image_id": "0931",
-            "category_id": 1,
             "keypoints": [
                 186.0096,
                 84.992,
@@ -6439,9 +6059,7 @@
         },
         {
             "id": 191,
-            "iscrowd": 0,
             "image_id": "0933",
-            "category_id": 1,
             "keypoints": [
                 193.5104,
                 82.5088,
@@ -6460,9 +6078,7 @@
         },
         {
             "id": 192,
-            "iscrowd": 0,
             "image_id": "0936",
-            "category_id": 1,
             "keypoints": [
                 129.9968,
                 122.0096,
@@ -6481,9 +6097,7 @@
         },
         {
             "id": 193,
-            "iscrowd": 0,
             "image_id": "0953",
-            "category_id": 1,
             "keypoints": [
                 166.9888,
                 153.4976,
@@ -6502,9 +6116,7 @@
         },
         {
             "id": 194,
-            "iscrowd": 0,
             "image_id": "0955",
-            "category_id": 1,
             "keypoints": [
                 195.9936,
                 60.4928,
@@ -6523,9 +6135,7 @@
         },
         {
             "id": 195,
-            "iscrowd": 0,
             "image_id": "0957",
-            "category_id": 1,
             "keypoints": [
                 34.9952,
                 13.0048,
@@ -6544,9 +6154,7 @@
         },
         {
             "id": 196,
-            "iscrowd": 0,
             "image_id": "0959",
-            "category_id": 1,
             "keypoints": [
                 21.9904,
                 171.4944,
@@ -6565,9 +6173,7 @@
         },
         {
             "id": 197,
-            "iscrowd": 0,
             "image_id": "0962",
-            "category_id": 1,
             "keypoints": [
                 129.9968,
                 122.0096,
@@ -6586,9 +6192,7 @@
         },
         {
             "id": 198,
-            "iscrowd": 0,
             "image_id": "0970",
-            "category_id": 1,
             "keypoints": [
                 239.488,
                 89.0112,
@@ -6607,9 +6211,7 @@
         },
         {
             "id": 199,
-            "iscrowd": 0,
             "image_id": "0972",
-            "category_id": 1,
             "keypoints": [
                 119.5008,
                 177.9968,
@@ -6628,9 +6230,7 @@
         },
         {
             "id": 200,
-            "iscrowd": 0,
             "image_id": "0975",
-            "category_id": 1,
             "keypoints": [
                 159.0016,
                 51.9936,
@@ -6649,9 +6249,7 @@
         },
         {
             "id": 201,
-            "iscrowd": 0,
             "image_id": "0976",
-            "category_id": 1,
             "keypoints": [
                 177.9968,
                 70.9888,
@@ -6670,9 +6268,7 @@
         },
         {
             "id": 202,
-            "iscrowd": 0,
             "image_id": "0979",
-            "category_id": 1,
             "keypoints": [
                 164.5056,
                 237.0048,
@@ -6691,9 +6287,7 @@
         },
         {
             "id": 203,
-            "iscrowd": 0,
             "image_id": "0983",
-            "category_id": 1,
             "keypoints": [
                 206.4896,
                 86.9888,
@@ -6712,9 +6306,7 @@
         },
         {
             "id": 204,
-            "iscrowd": 0,
             "image_id": "0988",
-            "category_id": 1,
             "keypoints": [
                 207.0016,
                 188.4928,
@@ -6733,9 +6325,7 @@
         },
         {
             "id": 205,
-            "iscrowd": 0,
             "image_id": "0991",
-            "category_id": 1,
             "keypoints": [
                 182.9888,
                 58.0096,
@@ -6754,9 +6344,7 @@
         },
         {
             "id": 206,
-            "iscrowd": 0,
             "image_id": "1000",
-            "category_id": 1,
             "keypoints": [
                 240.9984,
                 186.496,
@@ -6775,9 +6363,7 @@
         },
         {
             "id": 207,
-            "iscrowd": 0,
             "image_id": "1010",
-            "category_id": 1,
             "keypoints": [
                 95.488,
                 103.9872,
@@ -6796,9 +6382,7 @@
         },
         {
             "id": 208,
-            "iscrowd": 0,
             "image_id": "1011",
-            "category_id": 1,
             "keypoints": [
                 185.0112,
                 16.0,
@@ -6817,9 +6401,7 @@
         },
         {
             "id": 209,
-            "iscrowd": 0,
             "image_id": "1012",
-            "category_id": 1,
             "keypoints": [
                 130.5088,
                 122.496,
@@ -6838,9 +6420,7 @@
         },
         {
             "id": 210,
-            "iscrowd": 0,
             "image_id": "1013",
-            "category_id": 1,
             "keypoints": [
                 129.9968,
                 123.008,
@@ -6859,9 +6439,7 @@
         },
         {
             "id": 211,
-            "iscrowd": 0,
             "image_id": "1016",
-            "category_id": 1,
             "keypoints": [
                 58.0096,
                 170.496,
@@ -6880,9 +6458,7 @@
         },
         {
             "id": 212,
-            "iscrowd": 0,
             "image_id": "1022",
-            "category_id": 1,
             "keypoints": [
                 94.0032,
                 35.5072,
@@ -6901,9 +6477,7 @@
         },
         {
             "id": 213,
-            "iscrowd": 0,
             "image_id": "1023",
-            "category_id": 1,
             "keypoints": [
                 214.9888,
                 79.488,
@@ -6922,9 +6496,7 @@
         },
         {
             "id": 214,
-            "iscrowd": 0,
             "image_id": "1024",
-            "category_id": 1,
             "keypoints": [
                 131.9936,
                 43.008,
@@ -6943,9 +6515,7 @@
         },
         {
             "id": 215,
-            "iscrowd": 0,
             "image_id": "1027",
-            "category_id": 1,
             "keypoints": [
                 129.5104,
                 122.496,
@@ -6964,9 +6534,7 @@
         },
         {
             "id": 216,
-            "iscrowd": 0,
             "image_id": "1030",
-            "category_id": 1,
             "keypoints": [
                 129.9968,
                 126.0032,
@@ -6985,9 +6553,7 @@
         },
         {
             "id": 217,
-            "iscrowd": 0,
             "image_id": "1037",
-            "category_id": 1,
             "keypoints": [
                 145.9968,
                 31.0016,
@@ -7006,9 +6572,7 @@
         },
         {
             "id": 218,
-            "iscrowd": 0,
             "image_id": "1039",
-            "category_id": 1,
             "keypoints": [
                 90.0096,
                 204.4928,
@@ -7027,9 +6591,7 @@
         },
         {
             "id": 219,
-            "iscrowd": 0,
             "image_id": "1046",
-            "category_id": 1,
             "keypoints": [
                 177.9968,
                 147.5072,
@@ -7048,9 +6610,7 @@
         },
         {
             "id": 220,
-            "iscrowd": 0,
             "image_id": "1061",
-            "category_id": 1,
             "keypoints": [
                 217.0112,
                 150.9888,
@@ -7069,9 +6629,7 @@
         },
         {
             "id": 221,
-            "iscrowd": 0,
             "image_id": "1062",
-            "category_id": 1,
             "keypoints": [
                 109.0048,
                 186.496,
@@ -7090,9 +6648,7 @@
         },
         {
             "id": 222,
-            "iscrowd": 0,
             "image_id": "1065",
-            "category_id": 1,
             "keypoints": [
                 161.5104,
                 189.0048,
@@ -7111,9 +6667,7 @@
         },
         {
             "id": 223,
-            "iscrowd": 0,
             "image_id": "1067",
-            "category_id": 1,
             "keypoints": [
                 195.9936,
                 105.0112,
@@ -7132,9 +6686,7 @@
         },
         {
             "id": 224,
-            "iscrowd": 0,
             "image_id": "1073",
-            "category_id": 1,
             "keypoints": [
                 178.9952,
                 164.5056,
@@ -7153,9 +6705,7 @@
         },
         {
             "id": 225,
-            "iscrowd": 0,
             "image_id": "1076",
-            "category_id": 1,
             "keypoints": [
                 149.504,
                 116.5056,
@@ -7174,9 +6724,7 @@
         },
         {
             "id": 226,
-            "iscrowd": 0,
             "image_id": "1080",
-            "category_id": 1,
             "keypoints": [
                 134.5024,
                 247.5008,
@@ -7195,9 +6743,7 @@
         },
         {
             "id": 227,
-            "iscrowd": 0,
             "image_id": "1093",
-            "category_id": 1,
             "keypoints": [
                 66.9952,
                 52.5056,
@@ -7216,9 +6762,7 @@
         },
         {
             "id": 228,
-            "iscrowd": 0,
             "image_id": "1100",
-            "category_id": 1,
             "keypoints": [
                 53.9904,
                 100.992,
@@ -7237,9 +6781,7 @@
         },
         {
             "id": 229,
-            "iscrowd": 0,
             "image_id": "1105",
-            "category_id": 1,
             "keypoints": [
                 102.5024,
                 209.5104,
@@ -7267,9 +6809,7 @@
         },
         {
             "id": 230,
-            "iscrowd": 0,
             "image_id": "1113",
-            "category_id": 1,
             "keypoints": [
                 98.5088,
                 67.5072,
@@ -7288,9 +6828,7 @@
         },
         {
             "id": 231,
-            "iscrowd": 0,
             "image_id": "1116",
-            "category_id": 1,
             "keypoints": [
                 70.5024,
                 141.4912,
@@ -7318,9 +6856,7 @@
         },
         {
             "id": 232,
-            "iscrowd": 0,
             "image_id": "1129",
-            "category_id": 1,
             "keypoints": [
                 122.496,
                 122.496,
@@ -7339,9 +6875,7 @@
         },
         {
             "id": 233,
-            "iscrowd": 0,
             "image_id": "1138",
-            "category_id": 1,
             "keypoints": [
                 246.5024,
                 150.5024,
@@ -7369,9 +6903,7 @@
         },
         {
             "id": 234,
-            "iscrowd": 0,
             "image_id": "1147",
-            "category_id": 1,
             "keypoints": [
                 121.4976,
                 65.5104,
@@ -7390,9 +6922,7 @@
         },
         {
             "id": 235,
-            "iscrowd": 0,
             "image_id": "1150",
-            "category_id": 1,
             "keypoints": [
                 89.4976,
                 88.4992,
@@ -7411,9 +6941,7 @@
         },
         {
             "id": 236,
-            "iscrowd": 0,
             "image_id": "1156",
-            "category_id": 1,
             "keypoints": [
                 252.4928,
                 176.512,
@@ -7432,9 +6960,7 @@
         },
         {
             "id": 237,
-            "iscrowd": 0,
             "image_id": "1161",
-            "category_id": 1,
             "keypoints": [
                 96.512,
                 101.504,
@@ -7453,9 +6979,7 @@
         },
         {
             "id": 238,
-            "iscrowd": 0,
             "image_id": "1168",
-            "category_id": 1,
             "keypoints": [
                 33.5104,
                 217.4976,
@@ -7474,9 +6998,7 @@
         },
         {
             "id": 239,
-            "iscrowd": 0,
             "image_id": "1183",
-            "category_id": 1,
             "keypoints": [
                 40.4992,
                 231.5008,
@@ -7495,9 +7017,7 @@
         },
         {
             "id": 240,
-            "iscrowd": 0,
             "image_id": "1184",
-            "category_id": 1,
             "keypoints": [
                 185.4976,
                 244.5056,
@@ -7516,9 +7036,7 @@
         },
         {
             "id": 241,
-            "iscrowd": 0,
             "image_id": "1185",
-            "category_id": 1,
             "keypoints": [
                 194.5088,
                 166.5024,
@@ -7546,9 +7064,7 @@
         },
         {
             "id": 242,
-            "iscrowd": 0,
             "image_id": "1190",
-            "category_id": 1,
             "keypoints": [
                 49.5104,
                 204.4928,
@@ -7594,9 +7110,7 @@
         },
         {
             "id": 243,
-            "iscrowd": 0,
             "image_id": "1205",
-            "category_id": 1,
             "keypoints": [
                 239.488,
                 100.5056,
@@ -7615,9 +7129,7 @@
         },
         {
             "id": 244,
-            "iscrowd": 0,
             "image_id": "1207",
-            "category_id": 1,
             "keypoints": [
                 138.496,
                 173.4912,
@@ -7645,9 +7157,7 @@
         },
         {
             "id": 245,
-            "iscrowd": 0,
             "image_id": "1209",
-            "category_id": 1,
             "keypoints": [
                 106.496,
                 144.512,
@@ -7684,9 +7194,7 @@
         },
         {
             "id": 246,
-            "iscrowd": 0,
             "image_id": "1216",
-            "category_id": 1,
             "keypoints": [
                 130.5088,
                 164.5056,
@@ -7705,9 +7213,7 @@
         },
         {
             "id": 247,
-            "iscrowd": 0,
             "image_id": "1218",
-            "category_id": 1,
             "keypoints": [
                 59.4944,
                 115.5072,
@@ -7735,9 +7241,7 @@
         },
         {
             "id": 248,
-            "iscrowd": 0,
             "image_id": "1244",
-            "category_id": 1,
             "keypoints": [
                 30.4896,
                 209.5104,
@@ -7756,9 +7260,7 @@
         },
         {
             "id": 249,
-            "iscrowd": 0,
             "image_id": "1245",
-            "category_id": 1,
             "keypoints": [
                 20.5056,
                 130.5088,
@@ -7777,9 +7279,7 @@
         },
         {
             "id": 250,
-            "iscrowd": 0,
             "image_id": "1251",
-            "category_id": 1,
             "keypoints": [
                 190.0032,
                 217.4976,
@@ -7798,9 +7298,7 @@
         },
         {
             "id": 251,
-            "iscrowd": 0,
             "image_id": "1253",
-            "category_id": 1,
             "keypoints": [
                 127.0016,
                 177.9968,
@@ -7819,9 +7317,7 @@
         },
         {
             "id": 252,
-            "iscrowd": 0,
             "image_id": "1256",
-            "category_id": 1,
             "keypoints": [
                 224.9984,
                 184.0128,
@@ -7840,9 +7336,7 @@
         },
         {
             "id": 253,
-            "iscrowd": 0,
             "image_id": "1259",
-            "category_id": 1,
             "keypoints": [
                 60.4928,
                 69.504,
@@ -7861,9 +7355,7 @@
         },
         {
             "id": 254,
-            "iscrowd": 0,
             "image_id": "1266",
-            "category_id": 1,
             "keypoints": [
                 158.4896,
                 43.4944,
@@ -7882,9 +7374,7 @@
         },
         {
             "id": 255,
-            "iscrowd": 0,
             "image_id": "1267",
-            "category_id": 1,
             "keypoints": [
                 34.9952,
                 105.0112,
@@ -7903,9 +7393,7 @@
         },
         {
             "id": 256,
-            "iscrowd": 0,
             "image_id": "1281",
-            "category_id": 1,
             "keypoints": [
                 131.9936,
                 86.9888,
@@ -7924,9 +7412,7 @@
         },
         {
             "id": 257,
-            "iscrowd": 0,
             "image_id": "1285",
-            "category_id": 1,
             "keypoints": [
                 39.5008,
                 130.9952,
@@ -7945,9 +7431,7 @@
         },
         {
             "id": 258,
-            "iscrowd": 0,
             "image_id": "1293",
-            "category_id": 1,
             "keypoints": [
                 139.4944,
                 90.496,
@@ -7966,9 +7450,7 @@
         },
         {
             "id": 259,
-            "iscrowd": 0,
             "image_id": "1298",
-            "category_id": 1,
             "keypoints": [
                 97.5104,
                 208.512,
@@ -7987,9 +7469,7 @@
         },
         {
             "id": 260,
-            "iscrowd": 0,
             "image_id": "1303",
-            "category_id": 1,
             "keypoints": [
                 96.9984,
                 236.0064,
@@ -8008,9 +7488,7 @@
         },
         {
             "id": 261,
-            "iscrowd": 0,
             "image_id": "1306",
-            "category_id": 1,
             "keypoints": [
                 25.4976,
                 28.0064,
@@ -8029,9 +7507,7 @@
         },
         {
             "id": 262,
-            "iscrowd": 0,
             "image_id": "1307",
-            "category_id": 1,
             "keypoints": [
                 23.5008,
                 15.0016,
@@ -8050,9 +7526,7 @@
         },
         {
             "id": 263,
-            "iscrowd": 0,
             "image_id": "1312",
-            "category_id": 1,
             "keypoints": [
                 109.0048,
                 209.9968,
@@ -8071,9 +7545,7 @@
         },
         {
             "id": 264,
-            "iscrowd": 0,
             "image_id": "1320",
-            "category_id": 1,
             "keypoints": [
                 200.4992,
                 60.4928,
@@ -8092,9 +7564,7 @@
         },
         {
             "id": 265,
-            "iscrowd": 0,
             "image_id": "1321",
-            "category_id": 1,
             "keypoints": [
                 61.0048,
                 31.0016,
@@ -8110,13 +7580,6 @@
                     34.0
                 ]
             ]
-        }
-    ],
-    "categories": [
-        {
-            "supercategory": "person",
-            "id": 1,
-            "name": "person"
         }
     ]
 }

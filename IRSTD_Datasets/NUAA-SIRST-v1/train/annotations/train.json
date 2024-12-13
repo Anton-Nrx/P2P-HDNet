@@ -1540,9 +1540,7 @@
     "annotations": [
         {
             "id": 1,
-            "iscrowd": 0,
             "image_id": "Misc_10",
-            "category_id": 1,
             "keypoints": [
                 60.0,
                 102.49992,
@@ -1561,9 +1559,7 @@
         },
         {
             "id": 2,
-            "iscrowd": 0,
             "image_id": "Misc_100",
-            "category_id": 1,
             "keypoints": [
                 174.999856,
                 112.000086,
@@ -1582,9 +1578,7 @@
         },
         {
             "id": 3,
-            "iscrowd": 0,
             "image_id": "Misc_102",
-            "category_id": 1,
             "keypoints": [
                 180.500012,
                 39.500015,
@@ -1603,9 +1597,7 @@
         },
         {
             "id": 4,
-            "iscrowd": 0,
             "image_id": "Misc_103",
-            "category_id": 1,
             "keypoints": [
                 180.499956,
                 42.00007,
@@ -1624,9 +1616,7 @@
         },
         {
             "id": 5,
-            "iscrowd": 0,
             "image_id": "Misc_105",
-            "category_id": 1,
             "keypoints": [
                 278.999896,
                 160.999955,
@@ -1654,9 +1644,7 @@
         },
         {
             "id": 6,
-            "iscrowd": 0,
             "image_id": "Misc_107",
-            "category_id": 1,
             "keypoints": [
                 163.000134,
                 132.50006,
@@ -1675,9 +1663,7 @@
         },
         {
             "id": 7,
-            "iscrowd": 0,
             "image_id": "Misc_108",
-            "category_id": 1,
             "keypoints": [
                 263.50002,
                 196.999936,
@@ -1696,9 +1682,7 @@
         },
         {
             "id": 8,
-            "iscrowd": 0,
             "image_id": "Misc_109",
-            "category_id": 1,
             "keypoints": [
                 212.000166,
                 217.50003800000002,
@@ -1717,9 +1701,7 @@
         },
         {
             "id": 9,
-            "iscrowd": 0,
             "image_id": "Misc_11",
-            "category_id": 1,
             "keypoints": [
                 146.49991999999997,
                 147.0,
@@ -1738,9 +1720,7 @@
         },
         {
             "id": 10,
-            "iscrowd": 0,
             "image_id": "Misc_110",
-            "category_id": 1,
             "keypoints": [
                 163.000089,
                 8.999908000000001,
@@ -1759,9 +1739,7 @@
         },
         {
             "id": 11,
-            "iscrowd": 0,
             "image_id": "Misc_113",
-            "category_id": 1,
             "keypoints": [
                 179.499992,
                 92.49998,
@@ -1780,9 +1758,7 @@
         },
         {
             "id": 12,
-            "iscrowd": 0,
             "image_id": "Misc_114",
-            "category_id": 1,
             "keypoints": [
                 234.500026,
                 120.500016,
@@ -1801,9 +1777,7 @@
         },
         {
             "id": 13,
-            "iscrowd": 0,
             "image_id": "Misc_116",
-            "category_id": 1,
             "keypoints": [
                 155.499924,
                 147.0,
@@ -1822,9 +1796,7 @@
         },
         {
             "id": 14,
-            "iscrowd": 0,
             "image_id": "Misc_117",
-            "category_id": 1,
             "keypoints": [
                 125.5001,
                 65.999996,
@@ -1843,9 +1815,7 @@
         },
         {
             "id": 15,
-            "iscrowd": 0,
             "image_id": "Misc_118",
-            "category_id": 1,
             "keypoints": [
                 145.499991,
                 11.999988000000002,
@@ -1864,9 +1834,7 @@
         },
         {
             "id": 16,
-            "iscrowd": 0,
             "image_id": "Misc_119",
-            "category_id": 1,
             "keypoints": [
                 271.000136,
                 62.00003699999999,
@@ -1894,9 +1862,7 @@
         },
         {
             "id": 17,
-            "iscrowd": 0,
             "image_id": "Misc_12",
-            "category_id": 1,
             "keypoints": [
                 74.50008600000001,
                 43.499912,
@@ -1915,9 +1881,7 @@
         },
         {
             "id": 18,
-            "iscrowd": 0,
             "image_id": "Misc_123",
-            "category_id": 1,
             "keypoints": [
                 45.000186,
                 71.49990000000001,
@@ -1936,9 +1900,7 @@
         },
         {
             "id": 19,
-            "iscrowd": 0,
             "image_id": "Misc_125",
-            "category_id": 1,
             "keypoints": [
                 124.99987499999999,
                 77.499981,
@@ -1957,9 +1919,7 @@
         },
         {
             "id": 20,
-            "iscrowd": 0,
             "image_id": "Misc_13",
-            "category_id": 1,
             "keypoints": [
                 67.499916,
                 143.499945,
@@ -1978,9 +1938,7 @@
         },
         {
             "id": 21,
-            "iscrowd": 0,
             "image_id": "Misc_134",
-            "category_id": 1,
             "keypoints": [
                 23.999976,
                 135.00006000000002,
@@ -1999,9 +1957,7 @@
         },
         {
             "id": 22,
-            "iscrowd": 0,
             "image_id": "Misc_136",
-            "category_id": 1,
             "keypoints": [
                 191.500135,
                 18.500014999999998,
@@ -2020,9 +1976,7 @@
         },
         {
             "id": 23,
-            "iscrowd": 0,
             "image_id": "Misc_138",
-            "category_id": 1,
             "keypoints": [
                 164.499968,
                 98.5,
@@ -2041,9 +1995,7 @@
         },
         {
             "id": 24,
-            "iscrowd": 0,
             "image_id": "Misc_139",
-            "category_id": 1,
             "keypoints": [
                 146.500096,
                 144.5,
@@ -2062,9 +2014,7 @@
         },
         {
             "id": 25,
-            "iscrowd": 0,
             "image_id": "Misc_14",
-            "category_id": 1,
             "keypoints": [
                 219.5,
                 153.0,
@@ -2083,9 +2033,7 @@
         },
         {
             "id": 26,
-            "iscrowd": 0,
             "image_id": "Misc_141",
-            "category_id": 1,
             "keypoints": [
                 42.999916999999996,
                 27.000021999999998,
@@ -2104,9 +2052,7 @@
         },
         {
             "id": 27,
-            "iscrowd": 0,
             "image_id": "Misc_143",
-            "category_id": 1,
             "keypoints": [
                 175.000074,
                 26.49994,
@@ -2125,9 +2071,7 @@
         },
         {
             "id": 28,
-            "iscrowd": 0,
             "image_id": "Misc_147",
-            "category_id": 1,
             "keypoints": [
                 222.499912,
                 135.50007,
@@ -2146,9 +2090,7 @@
         },
         {
             "id": 29,
-            "iscrowd": 0,
             "image_id": "Misc_148",
-            "category_id": 1,
             "keypoints": [
                 206.500008,
                 157.5,
@@ -2167,9 +2109,7 @@
         },
         {
             "id": 30,
-            "iscrowd": 0,
             "image_id": "Misc_149",
-            "category_id": 1,
             "keypoints": [
                 179.000118,
                 40.000048,
@@ -2188,9 +2128,7 @@
         },
         {
             "id": 31,
-            "iscrowd": 0,
             "image_id": "Misc_151",
-            "category_id": 1,
             "keypoints": [
                 78.500136,
                 80.00002500000001,
@@ -2209,9 +2147,7 @@
         },
         {
             "id": 32,
-            "iscrowd": 0,
             "image_id": "Misc_152",
-            "category_id": 1,
             "keypoints": [
                 165.000116,
                 117.49996599999999,
@@ -2230,9 +2166,7 @@
         },
         {
             "id": 33,
-            "iscrowd": 0,
             "image_id": "Misc_154",
-            "category_id": 1,
             "keypoints": [
                 134.999865,
                 69.99992999999999,
@@ -2251,9 +2185,7 @@
         },
         {
             "id": 34,
-            "iscrowd": 0,
             "image_id": "Misc_155",
-            "category_id": 1,
             "keypoints": [
                 140.999881,
                 57.500040000000006,
@@ -2272,9 +2204,7 @@
         },
         {
             "id": 35,
-            "iscrowd": 0,
             "image_id": "Misc_156",
-            "category_id": 1,
             "keypoints": [
                 70.000084,
                 55.500045,
@@ -2293,9 +2223,7 @@
         },
         {
             "id": 36,
-            "iscrowd": 0,
             "image_id": "Misc_157",
-            "category_id": 1,
             "keypoints": [
                 131.000012,
                 36.499904,
@@ -2314,9 +2242,7 @@
         },
         {
             "id": 37,
-            "iscrowd": 0,
             "image_id": "Misc_158",
-            "category_id": 1,
             "keypoints": [
                 218.000086,
                 68.00007599999999,
@@ -2335,9 +2261,7 @@
         },
         {
             "id": 38,
-            "iscrowd": 0,
             "image_id": "Misc_160",
-            "category_id": 1,
             "keypoints": [
                 115.500033,
                 48.499945999999994,
@@ -2356,9 +2280,7 @@
         },
         {
             "id": 39,
-            "iscrowd": 0,
             "image_id": "Misc_162",
-            "category_id": 1,
             "keypoints": [
                 148.499925,
                 35.0,
@@ -2377,9 +2299,7 @@
         },
         {
             "id": 40,
-            "iscrowd": 0,
             "image_id": "Misc_164",
-            "category_id": 1,
             "keypoints": [
                 131.50003999999998,
                 34.000008,
@@ -2398,9 +2318,7 @@
         },
         {
             "id": 41,
-            "iscrowd": 0,
             "image_id": "Misc_165",
-            "category_id": 1,
             "keypoints": [
                 163.5,
                 191.499993,
@@ -2419,9 +2337,7 @@
         },
         {
             "id": 42,
-            "iscrowd": 0,
             "image_id": "Misc_166",
-            "category_id": 1,
             "keypoints": [
                 271.999872,
                 75.00006499999999,
@@ -2440,9 +2356,7 @@
         },
         {
             "id": 43,
-            "iscrowd": 0,
             "image_id": "Misc_168",
-            "category_id": 1,
             "keypoints": [
                 26.999946,
                 83.000072,
@@ -2461,9 +2375,7 @@
         },
         {
             "id": 44,
-            "iscrowd": 0,
             "image_id": "Misc_17",
-            "category_id": 1,
             "keypoints": [
                 188.49990400000002,
                 133.5,
@@ -2482,9 +2394,7 @@
         },
         {
             "id": 45,
-            "iscrowd": 0,
             "image_id": "Misc_171",
-            "category_id": 1,
             "keypoints": [
                 72.000016,
                 196.000044,
@@ -2503,9 +2413,7 @@
         },
         {
             "id": 46,
-            "iscrowd": 0,
             "image_id": "Misc_172",
-            "category_id": 1,
             "keypoints": [
                 270.00012,
                 53.500020000000006,
@@ -2533,9 +2441,7 @@
         },
         {
             "id": 47,
-            "iscrowd": 0,
             "image_id": "Misc_173",
-            "category_id": 1,
             "keypoints": [
                 300.000084,
                 145.49996000000002,
@@ -2554,9 +2460,7 @@
         },
         {
             "id": 48,
-            "iscrowd": 0,
             "image_id": "Misc_174",
-            "category_id": 1,
             "keypoints": [
                 85.99989000000001,
                 126.500088,
@@ -2575,9 +2479,7 @@
         },
         {
             "id": 49,
-            "iscrowd": 0,
             "image_id": "Misc_176",
-            "category_id": 1,
             "keypoints": [
                 285.000088,
                 171.000076,
@@ -2596,9 +2498,7 @@
         },
         {
             "id": 50,
-            "iscrowd": 0,
             "image_id": "Misc_177",
-            "category_id": 1,
             "keypoints": [
                 320.00003499999997,
                 111.00012,
@@ -2617,9 +2517,7 @@
         },
         {
             "id": 51,
-            "iscrowd": 0,
             "image_id": "Misc_178",
-            "category_id": 1,
             "keypoints": [
                 146.0,
                 221.499954,
@@ -2638,9 +2536,7 @@
         },
         {
             "id": 52,
-            "iscrowd": 0,
             "image_id": "Misc_180",
-            "category_id": 1,
             "keypoints": [
                 151.499988,
                 155.000097,
@@ -2659,9 +2555,7 @@
         },
         {
             "id": 53,
-            "iscrowd": 0,
             "image_id": "Misc_182",
-            "category_id": 1,
             "keypoints": [
                 124.500026,
                 128.00001999999998,
@@ -2680,9 +2574,7 @@
         },
         {
             "id": 54,
-            "iscrowd": 0,
             "image_id": "Misc_186",
-            "category_id": 1,
             "keypoints": [
                 283.499958,
                 7.500096000000001,
@@ -2701,9 +2593,7 @@
         },
         {
             "id": 55,
-            "iscrowd": 0,
             "image_id": "Misc_189",
-            "category_id": 1,
             "keypoints": [
                 258.000096,
                 115.499943,
@@ -2722,9 +2612,7 @@
         },
         {
             "id": 56,
-            "iscrowd": 0,
             "image_id": "Misc_19",
-            "category_id": 1,
             "keypoints": [
                 178.500168,
                 137.99994,
@@ -2743,9 +2631,7 @@
         },
         {
             "id": 57,
-            "iscrowd": 0,
             "image_id": "Misc_191",
-            "category_id": 1,
             "keypoints": [
                 158.999994,
                 131.49992400000002,
@@ -2764,9 +2650,7 @@
         },
         {
             "id": 58,
-            "iscrowd": 0,
             "image_id": "Misc_192",
-            "category_id": 1,
             "keypoints": [
                 146.500068,
                 142.000032,
@@ -2785,9 +2669,7 @@
         },
         {
             "id": 59,
-            "iscrowd": 0,
             "image_id": "Misc_194",
-            "category_id": 1,
             "keypoints": [
                 217.50014,
                 167.500016,
@@ -2806,9 +2688,7 @@
         },
         {
             "id": 60,
-            "iscrowd": 0,
             "image_id": "Misc_196",
-            "category_id": 1,
             "keypoints": [
                 12.000066,
                 40.500056,
@@ -2827,9 +2707,7 @@
         },
         {
             "id": 61,
-            "iscrowd": 0,
             "image_id": "Misc_197",
-            "category_id": 1,
             "keypoints": [
                 97.000027,
                 93.499973,
@@ -2848,9 +2726,7 @@
         },
         {
             "id": 62,
-            "iscrowd": 0,
             "image_id": "Misc_198",
-            "category_id": 1,
             "keypoints": [
                 19.999945,
                 70.999926,
@@ -2869,9 +2745,7 @@
         },
         {
             "id": 63,
-            "iscrowd": 0,
             "image_id": "Misc_199",
-            "category_id": 1,
             "keypoints": [
                 81.499964,
                 91.499901,
@@ -2890,9 +2764,7 @@
         },
         {
             "id": 64,
-            "iscrowd": 0,
             "image_id": "Misc_2",
-            "category_id": 1,
             "keypoints": [
                 243.500124,
                 137.99997,
@@ -2911,9 +2783,7 @@
         },
         {
             "id": 65,
-            "iscrowd": 0,
             "image_id": "Misc_200",
-            "category_id": 1,
             "keypoints": [
                 139.99991599999998,
                 98.499996,
@@ -2932,9 +2802,7 @@
         },
         {
             "id": 66,
-            "iscrowd": 0,
             "image_id": "Misc_201",
-            "category_id": 1,
             "keypoints": [
                 219.50014,
                 174.999975,
@@ -2953,9 +2821,7 @@
         },
         {
             "id": 67,
-            "iscrowd": 0,
             "image_id": "Misc_205",
-            "category_id": 1,
             "keypoints": [
                 29.50008,
                 65.499915,
@@ -2974,9 +2840,7 @@
         },
         {
             "id": 68,
-            "iscrowd": 0,
             "image_id": "Misc_206",
-            "category_id": 1,
             "keypoints": [
                 347.000066,
                 27.000066,
@@ -2995,9 +2859,7 @@
         },
         {
             "id": 69,
-            "iscrowd": 0,
             "image_id": "Misc_207",
-            "category_id": 1,
             "keypoints": [
                 304.000024,
                 213.000011,
@@ -3025,9 +2887,7 @@
         },
         {
             "id": 70,
-            "iscrowd": 0,
             "image_id": "Misc_21",
-            "category_id": 1,
             "keypoints": [
                 126.00010499999999,
                 97.49993500000001,
@@ -3046,9 +2906,7 @@
         },
         {
             "id": 71,
-            "iscrowd": 0,
             "image_id": "Misc_210",
-            "category_id": 1,
             "keypoints": [
                 114.50012000000001,
                 72.999972,
@@ -3067,9 +2925,7 @@
         },
         {
             "id": 72,
-            "iscrowd": 0,
             "image_id": "Misc_211",
-            "category_id": 1,
             "keypoints": [
                 255.000096,
                 216.00001500000002,
@@ -3097,9 +2953,7 @@
         },
         {
             "id": 73,
-            "iscrowd": 0,
             "image_id": "Misc_213",
-            "category_id": 1,
             "keypoints": [
                 29.0001,
                 12.500037,
@@ -3118,9 +2972,7 @@
         },
         {
             "id": 74,
-            "iscrowd": 0,
             "image_id": "Misc_214",
-            "category_id": 1,
             "keypoints": [
                 147.5001,
                 76.50002,
@@ -3139,9 +2991,7 @@
         },
         {
             "id": 75,
-            "iscrowd": 0,
             "image_id": "Misc_215",
-            "category_id": 1,
             "keypoints": [
                 200.00009,
                 148.99992500000002,
@@ -3160,9 +3010,7 @@
         },
         {
             "id": 76,
-            "iscrowd": 0,
             "image_id": "Misc_217",
-            "category_id": 1,
             "keypoints": [
                 184.49991000000003,
                 185.499945,
@@ -3181,9 +3029,7 @@
         },
         {
             "id": 77,
-            "iscrowd": 0,
             "image_id": "Misc_218",
-            "category_id": 1,
             "keypoints": [
                 180.5,
                 171.999982,
@@ -3202,9 +3048,7 @@
         },
         {
             "id": 78,
-            "iscrowd": 0,
             "image_id": "Misc_22",
-            "category_id": 1,
             "keypoints": [
                 19.500032,
                 136.50007,
@@ -3223,9 +3067,7 @@
         },
         {
             "id": 79,
-            "iscrowd": 0,
             "image_id": "Misc_220",
-            "category_id": 1,
             "keypoints": [
                 123.50014,
                 204.99992,
@@ -3244,9 +3086,7 @@
         },
         {
             "id": 80,
-            "iscrowd": 0,
             "image_id": "Misc_221",
-            "category_id": 1,
             "keypoints": [
                 248.50007999999997,
                 250.000023,
@@ -3265,9 +3105,7 @@
         },
         {
             "id": 81,
-            "iscrowd": 0,
             "image_id": "Misc_222",
-            "category_id": 1,
             "keypoints": [
                 145.500066,
                 82.00004799999999,
@@ -3295,9 +3133,7 @@
         },
         {
             "id": 82,
-            "iscrowd": 0,
             "image_id": "Misc_225",
-            "category_id": 1,
             "keypoints": [
                 191.50015299999998,
                 115.999908,
@@ -3316,9 +3152,7 @@
         },
         {
             "id": 83,
-            "iscrowd": 0,
             "image_id": "Misc_226",
-            "category_id": 1,
             "keypoints": [
                 156.500112,
                 70.00004,
@@ -3337,9 +3171,7 @@
         },
         {
             "id": 84,
-            "iscrowd": 0,
             "image_id": "Misc_227",
-            "category_id": 1,
             "keypoints": [
                 115.5,
                 70.000084,
@@ -3358,9 +3190,7 @@
         },
         {
             "id": 85,
-            "iscrowd": 0,
             "image_id": "Misc_228",
-            "category_id": 1,
             "keypoints": [
                 181.999936,
                 96.99996399999999,
@@ -3379,9 +3209,7 @@
         },
         {
             "id": 86,
-            "iscrowd": 0,
             "image_id": "Misc_229",
-            "category_id": 1,
             "keypoints": [
                 145.500047,
                 102.50006400000001,
@@ -3400,9 +3228,7 @@
         },
         {
             "id": 87,
-            "iscrowd": 0,
             "image_id": "Misc_23",
-            "category_id": 1,
             "keypoints": [
                 107.5,
                 78.49995000000001,
@@ -3421,9 +3247,7 @@
         },
         {
             "id": 88,
-            "iscrowd": 0,
             "image_id": "Misc_230",
-            "category_id": 1,
             "keypoints": [
                 59.499988,
                 75.00003,
@@ -3442,9 +3266,7 @@
         },
         {
             "id": 89,
-            "iscrowd": 0,
             "image_id": "Misc_231",
-            "category_id": 1,
             "keypoints": [
                 135.500096,
                 140.500038,
@@ -3463,9 +3285,7 @@
         },
         {
             "id": 90,
-            "iscrowd": 0,
             "image_id": "Misc_232",
-            "category_id": 1,
             "keypoints": [
                 117.50006400000001,
                 74.499936,
@@ -3484,9 +3304,7 @@
         },
         {
             "id": 91,
-            "iscrowd": 0,
             "image_id": "Misc_236",
-            "category_id": 1,
             "keypoints": [
                 143.500115,
                 103.99998000000001,
@@ -3505,9 +3323,7 @@
         },
         {
             "id": 92,
-            "iscrowd": 0,
             "image_id": "Misc_237",
-            "category_id": 1,
             "keypoints": [
                 152.5,
                 231.5,
@@ -3526,9 +3342,7 @@
         },
         {
             "id": 93,
-            "iscrowd": 0,
             "image_id": "Misc_238",
-            "category_id": 1,
             "keypoints": [
                 193.000092,
                 34.50009,
@@ -3547,9 +3361,7 @@
         },
         {
             "id": 94,
-            "iscrowd": 0,
             "image_id": "Misc_24",
-            "category_id": 1,
             "keypoints": [
                 148.500038,
                 69.500124,
@@ -3568,9 +3380,7 @@
         },
         {
             "id": 95,
-            "iscrowd": 0,
             "image_id": "Misc_240",
-            "category_id": 1,
             "keypoints": [
                 70.49994600000001,
                 84.000012,
@@ -3598,9 +3408,7 @@
         },
         {
             "id": 96,
-            "iscrowd": 0,
             "image_id": "Misc_241",
-            "category_id": 1,
             "keypoints": [
                 69.999952,
                 93.50002400000001,
@@ -3619,9 +3427,7 @@
         },
         {
             "id": 97,
-            "iscrowd": 0,
             "image_id": "Misc_243",
-            "category_id": 1,
             "keypoints": [
                 137.99988000000002,
                 37.500043999999995,
@@ -3640,9 +3446,7 @@
         },
         {
             "id": 98,
-            "iscrowd": 0,
             "image_id": "Misc_245",
-            "category_id": 1,
             "keypoints": [
                 305.000108,
                 35.999964000000006,
@@ -3661,9 +3465,7 @@
         },
         {
             "id": 99,
-            "iscrowd": 0,
             "image_id": "Misc_246",
-            "category_id": 1,
             "keypoints": [
                 260.499896,
                 102.0,
@@ -3682,9 +3484,7 @@
         },
         {
             "id": 100,
-            "iscrowd": 0,
             "image_id": "Misc_247",
-            "category_id": 1,
             "keypoints": [
                 126.999951,
                 173.50002999999998,
@@ -3712,9 +3512,7 @@
         },
         {
             "id": 101,
-            "iscrowd": 0,
             "image_id": "Misc_249",
-            "category_id": 1,
             "keypoints": [
                 190.000148,
                 92.499995,
@@ -3751,9 +3549,7 @@
         },
         {
             "id": 102,
-            "iscrowd": 0,
             "image_id": "Misc_250",
-            "category_id": 1,
             "keypoints": [
                 78.00001999999999,
                 154.499912,
@@ -3817,9 +3613,7 @@
         },
         {
             "id": 103,
-            "iscrowd": 0,
             "image_id": "Misc_251",
-            "category_id": 1,
             "keypoints": [
                 172.000127,
                 72.499968,
@@ -3838,9 +3632,7 @@
         },
         {
             "id": 104,
-            "iscrowd": 0,
             "image_id": "Misc_252",
-            "category_id": 1,
             "keypoints": [
                 266.49989999999997,
                 117.50004,
@@ -3859,9 +3651,7 @@
         },
         {
             "id": 105,
-            "iscrowd": 0,
             "image_id": "Misc_253",
-            "category_id": 1,
             "keypoints": [
                 23.999976,
                 11.000045,
@@ -3880,9 +3670,7 @@
         },
         {
             "id": 106,
-            "iscrowd": 0,
             "image_id": "Misc_254",
-            "category_id": 1,
             "keypoints": [
                 198.0,
                 128.000004,
@@ -3901,9 +3689,7 @@
         },
         {
             "id": 107,
-            "iscrowd": 0,
             "image_id": "Misc_256",
-            "category_id": 1,
             "keypoints": [
                 19.499948,
                 114.000102,
@@ -3922,9 +3708,7 @@
         },
         {
             "id": 108,
-            "iscrowd": 0,
             "image_id": "Misc_257",
-            "category_id": 1,
             "keypoints": [
                 220.50009,
                 42.5,
@@ -3943,9 +3727,7 @@
         },
         {
             "id": 109,
-            "iscrowd": 0,
             "image_id": "Misc_258",
-            "category_id": 1,
             "keypoints": [
                 229.999896,
                 22.000006,
@@ -3964,9 +3746,7 @@
         },
         {
             "id": 110,
-            "iscrowd": 0,
             "image_id": "Misc_26",
-            "category_id": 1,
             "keypoints": [
                 234.000045,
                 47.499911999999995,
@@ -3985,9 +3765,7 @@
         },
         {
             "id": 111,
-            "iscrowd": 0,
             "image_id": "Misc_260",
-            "category_id": 1,
             "keypoints": [
                 139.50008,
                 79.50007799999999,
@@ -4006,9 +3784,7 @@
         },
         {
             "id": 112,
-            "iscrowd": 0,
             "image_id": "Misc_261",
-            "category_id": 1,
             "keypoints": [
                 275.500023,
                 72.999981,
@@ -4027,9 +3803,7 @@
         },
         {
             "id": 113,
-            "iscrowd": 0,
             "image_id": "Misc_262",
-            "category_id": 1,
             "keypoints": [
                 199.500091,
                 60.500009999999996,
@@ -4048,9 +3822,7 @@
         },
         {
             "id": 114,
-            "iscrowd": 0,
             "image_id": "Misc_263",
-            "category_id": 1,
             "keypoints": [
                 121.500064,
                 80.499939,
@@ -4069,9 +3841,7 @@
         },
         {
             "id": 115,
-            "iscrowd": 0,
             "image_id": "Misc_264",
-            "category_id": 1,
             "keypoints": [
                 152.999948,
                 116.500072,
@@ -4090,9 +3860,7 @@
         },
         {
             "id": 116,
-            "iscrowd": 0,
             "image_id": "Misc_266",
-            "category_id": 1,
             "keypoints": [
                 141.999972,
                 110.9999,
@@ -4111,9 +3879,7 @@
         },
         {
             "id": 117,
-            "iscrowd": 0,
             "image_id": "Misc_267",
-            "category_id": 1,
             "keypoints": [
                 173.500116,
                 129.00006,
@@ -4132,9 +3898,7 @@
         },
         {
             "id": 118,
-            "iscrowd": 0,
             "image_id": "Misc_268",
-            "category_id": 1,
             "keypoints": [
                 139.99986,
                 103.49997,
@@ -4153,9 +3917,7 @@
         },
         {
             "id": 119,
-            "iscrowd": 0,
             "image_id": "Misc_269",
-            "category_id": 1,
             "keypoints": [
                 135.999994,
                 66.5,
@@ -4174,9 +3936,7 @@
         },
         {
             "id": 120,
-            "iscrowd": 0,
             "image_id": "Misc_27",
-            "category_id": 1,
             "keypoints": [
                 256.99988,
                 156.0,
@@ -4195,9 +3955,7 @@
         },
         {
             "id": 121,
-            "iscrowd": 0,
             "image_id": "Misc_270",
-            "category_id": 1,
             "keypoints": [
                 72.00000499999999,
                 70.000068,
@@ -4216,9 +3974,7 @@
         },
         {
             "id": 122,
-            "iscrowd": 0,
             "image_id": "Misc_271",
-            "category_id": 1,
             "keypoints": [
                 158.499974,
                 27.500018,
@@ -4237,9 +3993,7 @@
         },
         {
             "id": 123,
-            "iscrowd": 0,
             "image_id": "Misc_272",
-            "category_id": 1,
             "keypoints": [
                 106.500008,
                 63.49992999999999,
@@ -4258,9 +4012,7 @@
         },
         {
             "id": 124,
-            "iscrowd": 0,
             "image_id": "Misc_275",
-            "category_id": 1,
             "keypoints": [
                 88.50009,
                 144.999942,
@@ -4297,9 +4049,7 @@
         },
         {
             "id": 125,
-            "iscrowd": 0,
             "image_id": "Misc_277",
-            "category_id": 1,
             "keypoints": [
                 54.999923,
                 96.000084,
@@ -4336,9 +4086,7 @@
         },
         {
             "id": 126,
-            "iscrowd": 0,
             "image_id": "Misc_279",
-            "category_id": 1,
             "keypoints": [
                 189.99988000000002,
                 113.00003999999998,
@@ -4357,9 +4105,7 @@
         },
         {
             "id": 127,
-            "iscrowd": 0,
             "image_id": "Misc_28",
-            "category_id": 1,
             "keypoints": [
                 132.9999,
                 127.000064,
@@ -4387,9 +4133,7 @@
         },
         {
             "id": 128,
-            "iscrowd": 0,
             "image_id": "Misc_282",
-            "category_id": 1,
             "keypoints": [
                 35.00013,
                 228.00007200000002,
@@ -4417,9 +4161,7 @@
         },
         {
             "id": 129,
-            "iscrowd": 0,
             "image_id": "Misc_283",
-            "category_id": 1,
             "keypoints": [
                 181.000134,
                 68.999968,
@@ -4438,9 +4180,7 @@
         },
         {
             "id": 130,
-            "iscrowd": 0,
             "image_id": "Misc_285",
-            "category_id": 1,
             "keypoints": [
                 230.99991500000002,
                 129.499953,
@@ -4468,9 +4208,7 @@
         },
         {
             "id": 131,
-            "iscrowd": 0,
             "image_id": "Misc_286",
-            "category_id": 1,
             "keypoints": [
                 105.999909,
                 201.500007,
@@ -4489,9 +4227,7 @@
         },
         {
             "id": 132,
-            "iscrowd": 0,
             "image_id": "Misc_287",
-            "category_id": 1,
             "keypoints": [
                 102.49983999999999,
                 13.5,
@@ -4510,9 +4246,7 @@
         },
         {
             "id": 133,
-            "iscrowd": 0,
             "image_id": "Misc_288",
-            "category_id": 1,
             "keypoints": [
                 149.49984,
                 70.5,
@@ -4531,9 +4265,7 @@
         },
         {
             "id": 134,
-            "iscrowd": 0,
             "image_id": "Misc_29",
-            "category_id": 1,
             "keypoints": [
                 141.500128,
                 112.99992,
@@ -4579,9 +4311,7 @@
         },
         {
             "id": 135,
-            "iscrowd": 0,
             "image_id": "Misc_291",
-            "category_id": 1,
             "keypoints": [
                 53.500105000000005,
                 42.000039,
@@ -4609,9 +4339,7 @@
         },
         {
             "id": 136,
-            "iscrowd": 0,
             "image_id": "Misc_292",
-            "category_id": 1,
             "keypoints": [
                 125.99987399999999,
                 118.50004799999999,
@@ -4630,9 +4358,7 @@
         },
         {
             "id": 137,
-            "iscrowd": 0,
             "image_id": "Misc_294",
-            "category_id": 1,
             "keypoints": [
                 167.0,
                 174.49992,
@@ -4660,9 +4386,7 @@
         },
         {
             "id": 138,
-            "iscrowd": 0,
             "image_id": "Misc_296",
-            "category_id": 1,
             "keypoints": [
                 144.49984,
                 106.5,
@@ -4681,9 +4405,7 @@
         },
         {
             "id": 139,
-            "iscrowd": 0,
             "image_id": "Misc_297",
-            "category_id": 1,
             "keypoints": [
                 135.0,
                 91.00008,
@@ -4702,9 +4424,7 @@
         },
         {
             "id": 140,
-            "iscrowd": 0,
             "image_id": "Misc_299",
-            "category_id": 1,
             "keypoints": [
                 78.000064,
                 70.49988900000001,
@@ -4723,9 +4443,7 @@
         },
         {
             "id": 141,
-            "iscrowd": 0,
             "image_id": "Misc_303",
-            "category_id": 1,
             "keypoints": [
                 256.999995,
                 152.999964,
@@ -4753,9 +4471,7 @@
         },
         {
             "id": 142,
-            "iscrowd": 0,
             "image_id": "Misc_304",
-            "category_id": 1,
             "keypoints": [
                 102.99996,
                 110.99991,
@@ -4774,9 +4490,7 @@
         },
         {
             "id": 143,
-            "iscrowd": 0,
             "image_id": "Misc_306",
-            "category_id": 1,
             "keypoints": [
                 41.00012,
                 145.99991,
@@ -4804,9 +4518,7 @@
         },
         {
             "id": 144,
-            "iscrowd": 0,
             "image_id": "Misc_307",
-            "category_id": 1,
             "keypoints": [
                 40.499893,
                 158.000064,
@@ -4834,9 +4546,7 @@
         },
         {
             "id": 145,
-            "iscrowd": 0,
             "image_id": "Misc_308",
-            "category_id": 1,
             "keypoints": [
                 178.499914,
                 200.000044,
@@ -4873,9 +4583,7 @@
         },
         {
             "id": 146,
-            "iscrowd": 0,
             "image_id": "Misc_31",
-            "category_id": 1,
             "keypoints": [
                 242.0,
                 147.49992,
@@ -4894,9 +4602,7 @@
         },
         {
             "id": 147,
-            "iscrowd": 0,
             "image_id": "Misc_310",
-            "category_id": 1,
             "keypoints": [
                 40.99998,
                 87.500088,
@@ -4915,9 +4621,7 @@
         },
         {
             "id": 148,
-            "iscrowd": 0,
             "image_id": "Misc_311",
-            "category_id": 1,
             "keypoints": [
                 65.99989599999999,
                 81.99992,
@@ -4936,9 +4640,7 @@
         },
         {
             "id": 149,
-            "iscrowd": 0,
             "image_id": "Misc_313",
-            "category_id": 1,
             "keypoints": [
                 96.50016,
                 138.999944,
@@ -4975,9 +4677,7 @@
         },
         {
             "id": 150,
-            "iscrowd": 0,
             "image_id": "Misc_315",
-            "category_id": 1,
             "keypoints": [
                 208.50015199999999,
                 112.499997,
@@ -4996,9 +4696,7 @@
         },
         {
             "id": 151,
-            "iscrowd": 0,
             "image_id": "Misc_316",
-            "category_id": 1,
             "keypoints": [
                 7.000056,
                 42.500067,
@@ -5026,9 +4724,7 @@
         },
         {
             "id": 152,
-            "iscrowd": 0,
             "image_id": "Misc_317",
-            "category_id": 1,
             "keypoints": [
                 18.49988,
                 154.0,
@@ -5065,9 +4761,7 @@
         },
         {
             "id": 153,
-            "iscrowd": 0,
             "image_id": "Misc_318",
-            "category_id": 1,
             "keypoints": [
                 223.999869,
                 174.0,
@@ -5113,9 +4807,7 @@
         },
         {
             "id": 154,
-            "iscrowd": 0,
             "image_id": "Misc_319",
-            "category_id": 1,
             "keypoints": [
                 70.000068,
                 34.999965,
@@ -5134,9 +4826,7 @@
         },
         {
             "id": 155,
-            "iscrowd": 0,
             "image_id": "Misc_320",
-            "category_id": 1,
             "keypoints": [
                 203.999922,
                 91.50003,
@@ -5173,9 +4863,7 @@
         },
         {
             "id": 156,
-            "iscrowd": 0,
             "image_id": "Misc_321",
-            "category_id": 1,
             "keypoints": [
                 161.50002,
                 61.499904,
@@ -5194,9 +4882,7 @@
         },
         {
             "id": 157,
-            "iscrowd": 0,
             "image_id": "Misc_322",
-            "category_id": 1,
             "keypoints": [
                 141.50008799999998,
                 139.500114,
@@ -5215,9 +4901,7 @@
         },
         {
             "id": 158,
-            "iscrowd": 0,
             "image_id": "Misc_323",
-            "category_id": 1,
             "keypoints": [
                 208.999905,
                 84.000018,
@@ -5236,9 +4920,7 @@
         },
         {
             "id": 159,
-            "iscrowd": 0,
             "image_id": "Misc_329",
-            "category_id": 1,
             "keypoints": [
                 202.99990400000002,
                 29.499959999999998,
@@ -5257,9 +4939,7 @@
         },
         {
             "id": 160,
-            "iscrowd": 0,
             "image_id": "Misc_33",
-            "category_id": 1,
             "keypoints": [
                 48.499992,
                 131.50008300000002,
@@ -5278,9 +4958,7 @@
         },
         {
             "id": 161,
-            "iscrowd": 0,
             "image_id": "Misc_330",
-            "category_id": 1,
             "keypoints": [
                 312.000006,
                 16.999878000000002,
@@ -5299,9 +4977,7 @@
         },
         {
             "id": 162,
-            "iscrowd": 0,
             "image_id": "Misc_333",
-            "category_id": 1,
             "keypoints": [
                 127.00001099999999,
                 71.49996,
@@ -5320,9 +4996,7 @@
         },
         {
             "id": 163,
-            "iscrowd": 0,
             "image_id": "Misc_334",
-            "category_id": 1,
             "keypoints": [
                 186.499875,
                 105.50007000000001,
@@ -5341,9 +5015,7 @@
         },
         {
             "id": 164,
-            "iscrowd": 0,
             "image_id": "Misc_336",
-            "category_id": 1,
             "keypoints": [
                 216.9999,
                 138.499911,
@@ -5371,9 +5043,7 @@
         },
         {
             "id": 165,
-            "iscrowd": 0,
             "image_id": "Misc_338",
-            "category_id": 1,
             "keypoints": [
                 97.500036,
                 84.0,
@@ -5392,9 +5062,7 @@
         },
         {
             "id": 166,
-            "iscrowd": 0,
             "image_id": "Misc_339",
-            "category_id": 1,
             "keypoints": [
                 155.999901,
                 144.000012,
@@ -5413,9 +5081,7 @@
         },
         {
             "id": 167,
-            "iscrowd": 0,
             "image_id": "Misc_34",
-            "category_id": 1,
             "keypoints": [
                 214.50006599999998,
                 94.99992,
@@ -5434,9 +5100,7 @@
         },
         {
             "id": 168,
-            "iscrowd": 0,
             "image_id": "Misc_344",
-            "category_id": 1,
             "keypoints": [
                 117.999918,
                 92.500056,
@@ -5455,9 +5119,7 @@
         },
         {
             "id": 169,
-            "iscrowd": 0,
             "image_id": "Misc_346",
-            "category_id": 1,
             "keypoints": [
                 181.50001799999998,
                 78.499996,
@@ -5476,9 +5138,7 @@
         },
         {
             "id": 170,
-            "iscrowd": 0,
             "image_id": "Misc_35",
-            "category_id": 1,
             "keypoints": [
                 149.49984,
                 92.49997499999999,
@@ -5497,9 +5157,7 @@
         },
         {
             "id": 171,
-            "iscrowd": 0,
             "image_id": "Misc_351",
-            "category_id": 1,
             "keypoints": [
                 21.50006,
                 91.499905,
@@ -5518,9 +5176,7 @@
         },
         {
             "id": 172,
-            "iscrowd": 0,
             "image_id": "Misc_352",
-            "category_id": 1,
             "keypoints": [
                 24.000145,
                 166.000014,
@@ -5539,9 +5195,7 @@
         },
         {
             "id": 173,
-            "iscrowd": 0,
             "image_id": "Misc_354",
-            "category_id": 1,
             "keypoints": [
                 155.499952,
                 74.499931,
@@ -5560,9 +5214,7 @@
         },
         {
             "id": 174,
-            "iscrowd": 0,
             "image_id": "Misc_357",
-            "category_id": 1,
             "keypoints": [
                 38.499995,
                 157.000045,
@@ -5581,9 +5233,7 @@
         },
         {
             "id": 175,
-            "iscrowd": 0,
             "image_id": "Misc_358",
-            "category_id": 1,
             "keypoints": [
                 112.49986000000001,
                 33.000136,
@@ -5602,9 +5252,7 @@
         },
         {
             "id": 176,
-            "iscrowd": 0,
             "image_id": "Misc_362",
-            "category_id": 1,
             "keypoints": [
                 13.0,
                 93.499968,
@@ -5623,9 +5271,7 @@
         },
         {
             "id": 177,
-            "iscrowd": 0,
             "image_id": "Misc_365",
-            "category_id": 1,
             "keypoints": [
                 233.500092,
                 241.000072,
@@ -5644,9 +5290,7 @@
         },
         {
             "id": 178,
-            "iscrowd": 0,
             "image_id": "Misc_367",
-            "category_id": 1,
             "keypoints": [
                 37.999964,
                 146.50012800000002,
@@ -5665,9 +5309,7 @@
         },
         {
             "id": 179,
-            "iscrowd": 0,
             "image_id": "Misc_368",
-            "category_id": 1,
             "keypoints": [
                 15.999896,
                 89.500068,
@@ -5686,9 +5328,7 @@
         },
         {
             "id": 180,
-            "iscrowd": 0,
             "image_id": "Misc_369",
-            "category_id": 1,
             "keypoints": [
                 89.4999,
                 77.00007000000001,
@@ -5707,9 +5347,7 @@
         },
         {
             "id": 181,
-            "iscrowd": 0,
             "image_id": "Misc_37",
-            "category_id": 1,
             "keypoints": [
                 124.49984,
                 131.49993,
@@ -5728,9 +5366,7 @@
         },
         {
             "id": 182,
-            "iscrowd": 0,
             "image_id": "Misc_371",
-            "category_id": 1,
             "keypoints": [
                 20.500062,
                 86.000022,
@@ -5749,9 +5385,7 @@
         },
         {
             "id": 183,
-            "iscrowd": 0,
             "image_id": "Misc_372",
-            "category_id": 1,
             "keypoints": [
                 73.49991999999999,
                 17.000059999999998,
@@ -5770,9 +5404,7 @@
         },
         {
             "id": 184,
-            "iscrowd": 0,
             "image_id": "Misc_374",
-            "category_id": 1,
             "keypoints": [
                 178.5,
                 144.00000999999997,
@@ -5791,9 +5423,7 @@
         },
         {
             "id": 185,
-            "iscrowd": 0,
             "image_id": "Misc_377",
-            "category_id": 1,
             "keypoints": [
                 65.000096,
                 24.5,
@@ -5812,9 +5442,7 @@
         },
         {
             "id": 186,
-            "iscrowd": 0,
             "image_id": "Misc_378",
-            "category_id": 1,
             "keypoints": [
                 110.49995399999999,
                 48.999936,
@@ -5833,9 +5461,7 @@
         },
         {
             "id": 187,
-            "iscrowd": 0,
             "image_id": "Misc_379",
-            "category_id": 1,
             "keypoints": [
                 60.499871999999996,
                 203.500005,
@@ -5872,9 +5498,7 @@
         },
         {
             "id": 188,
-            "iscrowd": 0,
             "image_id": "Misc_38",
-            "category_id": 1,
             "keypoints": [
                 118.499887,
                 142.50012,
@@ -5893,9 +5517,7 @@
         },
         {
             "id": 189,
-            "iscrowd": 0,
             "image_id": "Misc_380",
-            "category_id": 1,
             "keypoints": [
                 248.50007999999997,
                 119.000068,
@@ -5914,9 +5536,7 @@
         },
         {
             "id": 190,
-            "iscrowd": 0,
             "image_id": "Misc_383",
-            "category_id": 1,
             "keypoints": [
                 222.499888,
                 84.0,
@@ -5935,9 +5555,7 @@
         },
         {
             "id": 191,
-            "iscrowd": 0,
             "image_id": "Misc_384",
-            "category_id": 1,
             "keypoints": [
                 259.000158,
                 228.999992,
@@ -5956,9 +5574,7 @@
         },
         {
             "id": 192,
-            "iscrowd": 0,
             "image_id": "Misc_387",
-            "category_id": 1,
             "keypoints": [
                 36.000096,
                 211.999996,
@@ -5977,9 +5593,7 @@
         },
         {
             "id": 193,
-            "iscrowd": 0,
             "image_id": "Misc_388",
-            "category_id": 1,
             "keypoints": [
                 229.499904,
                 141.99993500000002,
@@ -5998,9 +5612,7 @@
         },
         {
             "id": 194,
-            "iscrowd": 0,
             "image_id": "Misc_389",
-            "category_id": 1,
             "keypoints": [
                 312.999889,
                 260.00005500000003,
@@ -6019,9 +5631,7 @@
         },
         {
             "id": 195,
-            "iscrowd": 0,
             "image_id": "Misc_39",
-            "category_id": 1,
             "keypoints": [
                 104.499968,
                 89.000028,
@@ -6040,9 +5650,7 @@
         },
         {
             "id": 196,
-            "iscrowd": 0,
             "image_id": "Misc_390",
-            "category_id": 1,
             "keypoints": [
                 255.500093,
                 210.000068,
@@ -6061,9 +5669,7 @@
         },
         {
             "id": 197,
-            "iscrowd": 0,
             "image_id": "Misc_391",
-            "category_id": 1,
             "keypoints": [
                 149.999936,
                 39.99989,
@@ -6082,9 +5688,7 @@
         },
         {
             "id": 198,
-            "iscrowd": 0,
             "image_id": "Misc_392",
-            "category_id": 1,
             "keypoints": [
                 172.49998799999997,
                 147.5001,
@@ -6103,9 +5707,7 @@
         },
         {
             "id": 199,
-            "iscrowd": 0,
             "image_id": "Misc_394",
-            "category_id": 1,
             "keypoints": [
                 54.499868,
                 58.500024,
@@ -6124,9 +5726,7 @@
         },
         {
             "id": 200,
-            "iscrowd": 0,
             "image_id": "Misc_396",
-            "category_id": 1,
             "keypoints": [
                 26.000079,
                 210.000137,
@@ -6145,9 +5745,7 @@
         },
         {
             "id": 201,
-            "iscrowd": 0,
             "image_id": "Misc_397",
-            "category_id": 1,
             "keypoints": [
                 23.000109,
                 135.999864,
@@ -6166,9 +5764,7 @@
         },
         {
             "id": 202,
-            "iscrowd": 0,
             "image_id": "Misc_4",
-            "category_id": 1,
             "keypoints": [
                 172.50012,
                 142.50002,
@@ -6187,9 +5783,7 @@
         },
         {
             "id": 203,
-            "iscrowd": 0,
             "image_id": "Misc_402",
-            "category_id": 1,
             "keypoints": [
                 159.4999,
                 125.50005999999999,
@@ -6208,9 +5802,7 @@
         },
         {
             "id": 204,
-            "iscrowd": 0,
             "image_id": "Misc_405",
-            "category_id": 1,
             "keypoints": [
                 14.499975,
                 32.500044,
@@ -6229,9 +5821,7 @@
         },
         {
             "id": 205,
-            "iscrowd": 0,
             "image_id": "Misc_406",
-            "category_id": 1,
             "keypoints": [
                 168.499998,
                 35.50002,
@@ -6250,9 +5840,7 @@
         },
         {
             "id": 206,
-            "iscrowd": 0,
             "image_id": "Misc_408",
-            "category_id": 1,
             "keypoints": [
                 148.99994999999998,
                 35.49996,
@@ -6271,9 +5859,7 @@
         },
         {
             "id": 207,
-            "iscrowd": 0,
             "image_id": "Misc_409",
-            "category_id": 1,
             "keypoints": [
                 57.499936999999996,
                 150.500042,
@@ -6292,9 +5878,7 @@
         },
         {
             "id": 208,
-            "iscrowd": 0,
             "image_id": "Misc_41",
-            "category_id": 1,
             "keypoints": [
                 45.499984,
                 18.500035,
@@ -6313,9 +5897,7 @@
         },
         {
             "id": 209,
-            "iscrowd": 0,
             "image_id": "Misc_410",
-            "category_id": 1,
             "keypoints": [
                 132.00012,
                 116.99991599999998,
@@ -6334,9 +5916,7 @@
         },
         {
             "id": 210,
-            "iscrowd": 0,
             "image_id": "Misc_411",
-            "category_id": 1,
             "keypoints": [
                 244.999845,
                 164.499973,
@@ -6355,9 +5935,7 @@
         },
         {
             "id": 211,
-            "iscrowd": 0,
             "image_id": "Misc_413",
-            "category_id": 1,
             "keypoints": [
                 247.999984,
                 192.500077,
@@ -6376,9 +5954,7 @@
         },
         {
             "id": 212,
-            "iscrowd": 0,
             "image_id": "Misc_414",
-            "category_id": 1,
             "keypoints": [
                 215.500052,
                 75.500056,
@@ -6397,9 +5973,7 @@
         },
         {
             "id": 213,
-            "iscrowd": 0,
             "image_id": "Misc_415",
-            "category_id": 1,
             "keypoints": [
                 160.500009,
                 51.5,
@@ -6418,9 +5992,7 @@
         },
         {
             "id": 214,
-            "iscrowd": 0,
             "image_id": "Misc_416",
-            "category_id": 1,
             "keypoints": [
                 184.49989499999998,
                 5.500068,
@@ -6439,9 +6011,7 @@
         },
         {
             "id": 215,
-            "iscrowd": 0,
             "image_id": "Misc_418",
-            "category_id": 1,
             "keypoints": [
                 282.000096,
                 159.500003,
@@ -6460,9 +6030,7 @@
         },
         {
             "id": 216,
-            "iscrowd": 0,
             "image_id": "Misc_42",
-            "category_id": 1,
             "keypoints": [
                 160.500144,
                 128.499952,
@@ -6481,9 +6049,7 @@
         },
         {
             "id": 217,
-            "iscrowd": 0,
             "image_id": "Misc_422",
-            "category_id": 1,
             "keypoints": [
                 203.50004399999997,
                 124.49991999999999,
@@ -6502,9 +6068,7 @@
         },
         {
             "id": 218,
-            "iscrowd": 0,
             "image_id": "Misc_423",
-            "category_id": 1,
             "keypoints": [
                 228.99996,
                 7.999992000000001,
@@ -6523,9 +6087,7 @@
         },
         {
             "id": 219,
-            "iscrowd": 0,
             "image_id": "Misc_424",
-            "category_id": 1,
             "keypoints": [
                 241.49991599999998,
                 177.500003,
@@ -6562,9 +6124,7 @@
         },
         {
             "id": 220,
-            "iscrowd": 0,
             "image_id": "Misc_44",
-            "category_id": 1,
             "keypoints": [
                 157.50004099999998,
                 91.999985,
@@ -6583,9 +6143,7 @@
         },
         {
             "id": 221,
-            "iscrowd": 0,
             "image_id": "Misc_45",
-            "category_id": 1,
             "keypoints": [
                 192.999998,
                 106.499988,
@@ -6604,9 +6162,7 @@
         },
         {
             "id": 222,
-            "iscrowd": 0,
             "image_id": "Misc_48",
-            "category_id": 1,
             "keypoints": [
                 188.499868,
                 127.999881,
@@ -6625,9 +6181,7 @@
         },
         {
             "id": 223,
-            "iscrowd": 0,
             "image_id": "Misc_49",
-            "category_id": 1,
             "keypoints": [
                 62.999874,
                 94.500028,
@@ -6646,9 +6200,7 @@
         },
         {
             "id": 224,
-            "iscrowd": 0,
             "image_id": "Misc_50",
-            "category_id": 1,
             "keypoints": [
                 123.499893,
                 72.0,
@@ -6667,9 +6219,7 @@
         },
         {
             "id": 225,
-            "iscrowd": 0,
             "image_id": "Misc_51",
-            "category_id": 1,
             "keypoints": [
                 144.999918,
                 78.49998,
@@ -6688,9 +6238,7 @@
         },
         {
             "id": 226,
-            "iscrowd": 0,
             "image_id": "Misc_52",
-            "category_id": 1,
             "keypoints": [
                 155.49991100000003,
                 192.00006000000002,
@@ -6709,9 +6257,7 @@
         },
         {
             "id": 227,
-            "iscrowd": 0,
             "image_id": "Misc_53",
-            "category_id": 1,
             "keypoints": [
                 165.00002999999998,
                 126.99999000000001,
@@ -6739,9 +6285,7 @@
         },
         {
             "id": 228,
-            "iscrowd": 0,
             "image_id": "Misc_57",
-            "category_id": 1,
             "keypoints": [
                 121.00005,
                 16.50009,
@@ -6760,9 +6304,7 @@
         },
         {
             "id": 229,
-            "iscrowd": 0,
             "image_id": "Misc_58",
-            "category_id": 1,
             "keypoints": [
                 55.00011000000001,
                 15.500016,
@@ -6781,9 +6323,7 @@
         },
         {
             "id": 230,
-            "iscrowd": 0,
             "image_id": "Misc_59",
-            "category_id": 1,
             "keypoints": [
                 241.49991500000002,
                 21.000031999999997,
@@ -6811,9 +6351,7 @@
         },
         {
             "id": 231,
-            "iscrowd": 0,
             "image_id": "Misc_60",
-            "category_id": 1,
             "keypoints": [
                 208.500026,
                 109.5,
@@ -6832,9 +6370,7 @@
         },
         {
             "id": 232,
-            "iscrowd": 0,
             "image_id": "Misc_61",
-            "category_id": 1,
             "keypoints": [
                 213.99984899999998,
                 135.000068,
@@ -6853,9 +6389,7 @@
         },
         {
             "id": 233,
-            "iscrowd": 0,
             "image_id": "Misc_62",
-            "category_id": 1,
             "keypoints": [
                 68.500043,
                 196.49994999999998,
@@ -6874,9 +6408,7 @@
         },
         {
             "id": 234,
-            "iscrowd": 0,
             "image_id": "Misc_67",
-            "category_id": 1,
             "keypoints": [
                 30.0,
                 96.0,
@@ -6895,9 +6427,7 @@
         },
         {
             "id": 235,
-            "iscrowd": 0,
             "image_id": "Misc_69",
-            "category_id": 1,
             "keypoints": [
                 282.0,
                 70.500096,
@@ -6916,9 +6446,7 @@
         },
         {
             "id": 236,
-            "iscrowd": 0,
             "image_id": "Misc_7",
-            "category_id": 1,
             "keypoints": [
                 215.499933,
                 121.50002400000001,
@@ -6937,9 +6465,7 @@
         },
         {
             "id": 237,
-            "iscrowd": 0,
             "image_id": "Misc_70",
-            "category_id": 1,
             "keypoints": [
                 163.000162,
                 109.000013,
@@ -6958,9 +6484,7 @@
         },
         {
             "id": 238,
-            "iscrowd": 0,
             "image_id": "Misc_71",
-            "category_id": 1,
             "keypoints": [
                 131.0,
                 203.500032,
@@ -6979,9 +6503,7 @@
         },
         {
             "id": 239,
-            "iscrowd": 0,
             "image_id": "Misc_73",
-            "category_id": 1,
             "keypoints": [
                 270.500151,
                 67.500005,
@@ -7000,9 +6522,7 @@
         },
         {
             "id": 240,
-            "iscrowd": 0,
             "image_id": "Misc_75",
-            "category_id": 1,
             "keypoints": [
                 170.49986800000002,
                 146.499955,
@@ -7030,9 +6550,7 @@
         },
         {
             "id": 241,
-            "iscrowd": 0,
             "image_id": "Misc_76",
-            "category_id": 1,
             "keypoints": [
                 91.499868,
                 210.0,
@@ -7051,9 +6569,7 @@
         },
         {
             "id": 242,
-            "iscrowd": 0,
             "image_id": "Misc_77",
-            "category_id": 1,
             "keypoints": [
                 195.000025,
                 117.49991999999999,
@@ -7072,9 +6588,7 @@
         },
         {
             "id": 243,
-            "iscrowd": 0,
             "image_id": "Misc_78",
-            "category_id": 1,
             "keypoints": [
                 66.500112,
                 180.500075,
@@ -7093,9 +6607,7 @@
         },
         {
             "id": 244,
-            "iscrowd": 0,
             "image_id": "Misc_80",
-            "category_id": 1,
             "keypoints": [
                 28.999971,
                 164.999856,
@@ -7114,9 +6626,7 @@
         },
         {
             "id": 245,
-            "iscrowd": 0,
             "image_id": "Misc_84",
-            "category_id": 1,
             "keypoints": [
                 123.500073,
                 124.500074,
@@ -7135,9 +6645,7 @@
         },
         {
             "id": 246,
-            "iscrowd": 0,
             "image_id": "Misc_86",
-            "category_id": 1,
             "keypoints": [
                 100.000045,
                 23.999994,
@@ -7156,9 +6664,7 @@
         },
         {
             "id": 247,
-            "iscrowd": 0,
             "image_id": "Misc_87",
-            "category_id": 1,
             "keypoints": [
                 144.50011800000001,
                 61.999956,
@@ -7177,9 +6683,7 @@
         },
         {
             "id": 248,
-            "iscrowd": 0,
             "image_id": "Misc_88",
-            "category_id": 1,
             "keypoints": [
                 126.999933,
                 100.00009200000001,
@@ -7198,9 +6702,7 @@
         },
         {
             "id": 249,
-            "iscrowd": 0,
             "image_id": "Misc_89",
-            "category_id": 1,
             "keypoints": [
                 158.999939,
                 16.999917999999997,
@@ -7219,9 +6721,7 @@
         },
         {
             "id": 250,
-            "iscrowd": 0,
             "image_id": "Misc_91",
-            "category_id": 1,
             "keypoints": [
                 169.500128,
                 121.999933,
@@ -7240,9 +6740,7 @@
         },
         {
             "id": 251,
-            "iscrowd": 0,
             "image_id": "Misc_93",
-            "category_id": 1,
             "keypoints": [
                 170.00000300000002,
                 123.49993199999999,
@@ -7261,9 +6759,7 @@
         },
         {
             "id": 252,
-            "iscrowd": 0,
             "image_id": "Misc_94",
-            "category_id": 1,
             "keypoints": [
                 143.5,
                 105.49996,
@@ -7282,9 +6778,7 @@
         },
         {
             "id": 253,
-            "iscrowd": 0,
             "image_id": "Misc_96",
-            "category_id": 1,
             "keypoints": [
                 154.00010999999998,
                 117.999955,
@@ -7303,9 +6797,7 @@
         },
         {
             "id": 254,
-            "iscrowd": 0,
             "image_id": "Misc_97",
-            "category_id": 1,
             "keypoints": [
                 233.500124,
                 37.000071999999996,
@@ -7324,9 +6816,7 @@
         },
         {
             "id": 255,
-            "iscrowd": 0,
             "image_id": "Misc_98",
-            "category_id": 1,
             "keypoints": [
                 326.49998500000004,
                 216.999985,
@@ -7345,9 +6835,7 @@
         },
         {
             "id": 256,
-            "iscrowd": 0,
             "image_id": "Misc_99",
-            "category_id": 1,
             "keypoints": [
                 221.000118,
                 178.499932,
@@ -7372,13 +6860,6 @@
                     72.0
                 ]
             ]
-        }
-    ],
-    "categories": [
-        {
-            "supercategory": "person",
-            "id": 1,
-            "name": "person"
         }
     ]
 }

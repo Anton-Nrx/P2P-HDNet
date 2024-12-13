@@ -3604,9 +3604,7 @@
     "annotations": [
         {
             "id": 1,
-            "iscrowd": 0,
             "image_id": "XDU1",
-            "category_id": 1,
             "keypoints": [
                 57.999872,
                 319.000064,
@@ -3643,9 +3641,7 @@
         },
         {
             "id": 2,
-            "iscrowd": 0,
             "image_id": "XDU100",
-            "category_id": 1,
             "keypoints": [
                 66.999808,
                 286.49984,
@@ -3664,9 +3660,7 @@
         },
         {
             "id": 3,
-            "iscrowd": 0,
             "image_id": "XDU101",
-            "category_id": 1,
             "keypoints": [
                 220.000256,
                 237.000192,
@@ -3694,9 +3688,7 @@
         },
         {
             "id": 4,
-            "iscrowd": 0,
             "image_id": "XDU102",
-            "category_id": 1,
             "keypoints": [
                 194.500096,
                 94.000128,
@@ -3724,9 +3716,7 @@
         },
         {
             "id": 5,
-            "iscrowd": 0,
             "image_id": "XDU104",
-            "category_id": 1,
             "keypoints": [
                 327.000064,
                 57.999872,
@@ -3745,9 +3735,7 @@
         },
         {
             "id": 6,
-            "iscrowd": 0,
             "image_id": "XDU107",
-            "category_id": 1,
             "keypoints": [
                 415.499776,
                 301.000192,
@@ -3766,9 +3754,7 @@
         },
         {
             "id": 7,
-            "iscrowd": 0,
             "image_id": "XDU109",
-            "category_id": 1,
             "keypoints": [
                 79.000064,
                 198.49984,
@@ -3796,9 +3782,7 @@
         },
         {
             "id": 8,
-            "iscrowd": 0,
             "image_id": "XDU11",
-            "category_id": 1,
             "keypoints": [
                 401.50016,
                 291.500032,
@@ -3826,9 +3810,7 @@
         },
         {
             "id": 9,
-            "iscrowd": 0,
             "image_id": "XDU111",
-            "category_id": 1,
             "keypoints": [
                 350.49984,
                 185.50016,
@@ -3847,9 +3829,7 @@
         },
         {
             "id": 10,
-            "iscrowd": 0,
             "image_id": "XDU113",
-            "category_id": 1,
             "keypoints": [
                 285.000192,
                 380.499968,
@@ -3877,9 +3857,7 @@
         },
         {
             "id": 11,
-            "iscrowd": 0,
             "image_id": "XDU115",
-            "category_id": 1,
             "keypoints": [
                 296.0,
                 7.000064,
@@ -3898,9 +3876,7 @@
         },
         {
             "id": 12,
-            "iscrowd": 0,
             "image_id": "XDU117",
-            "category_id": 1,
             "keypoints": [
                 324.499968,
                 263.000064,
@@ -3919,9 +3895,7 @@
         },
         {
             "id": 13,
-            "iscrowd": 0,
             "image_id": "XDU118",
-            "category_id": 1,
             "keypoints": [
                 278.000128,
                 60.000256,
@@ -3940,9 +3914,7 @@
         },
         {
             "id": 14,
-            "iscrowd": 0,
             "image_id": "XDU119",
-            "category_id": 1,
             "keypoints": [
                 417.50016,
                 137.50016,
@@ -3961,9 +3933,7 @@
         },
         {
             "id": 15,
-            "iscrowd": 0,
             "image_id": "XDU12",
-            "category_id": 1,
             "keypoints": [
                 168.0,
                 62.000128,
@@ -3982,9 +3952,7 @@
         },
         {
             "id": 16,
-            "iscrowd": 0,
             "image_id": "XDU120",
-            "category_id": 1,
             "keypoints": [
                 376.0,
                 130.999808,
@@ -4003,9 +3971,7 @@
         },
         {
             "id": 17,
-            "iscrowd": 0,
             "image_id": "XDU121",
-            "category_id": 1,
             "keypoints": [
                 226.999808,
                 394.999808,
@@ -4033,9 +3999,7 @@
         },
         {
             "id": 18,
-            "iscrowd": 0,
             "image_id": "XDU122",
-            "category_id": 1,
             "keypoints": [
                 327.000064,
                 241.999872,
@@ -4072,9 +4036,7 @@
         },
         {
             "id": 19,
-            "iscrowd": 0,
             "image_id": "XDU123",
-            "category_id": 1,
             "keypoints": [
                 263.000064,
                 105.50016,
@@ -4093,9 +4055,7 @@
         },
         {
             "id": 20,
-            "iscrowd": 0,
             "image_id": "XDU124",
-            "category_id": 1,
             "keypoints": [
                 58.500096,
                 258.999808,
@@ -4114,9 +4074,7 @@
         },
         {
             "id": 21,
-            "iscrowd": 0,
             "image_id": "XDU125",
-            "category_id": 1,
             "keypoints": [
                 30.000128,
                 435.999744,
@@ -4144,9 +4102,7 @@
         },
         {
             "id": 22,
-            "iscrowd": 0,
             "image_id": "XDU127",
-            "category_id": 1,
             "keypoints": [
                 266.999808,
                 200.0,
@@ -4174,9 +4130,7 @@
         },
         {
             "id": 23,
-            "iscrowd": 0,
             "image_id": "XDU128",
-            "category_id": 1,
             "keypoints": [
                 284.000256,
                 193.999872,
@@ -4195,9 +4149,7 @@
         },
         {
             "id": 24,
-            "iscrowd": 0,
             "image_id": "XDU129",
-            "category_id": 1,
             "keypoints": [
                 288.500224,
                 296.999936,
@@ -4234,9 +4186,7 @@
         },
         {
             "id": 25,
-            "iscrowd": 0,
             "image_id": "XDU13",
-            "category_id": 1,
             "keypoints": [
                 360.500224,
                 281.50016,
@@ -4264,9 +4214,7 @@
         },
         {
             "id": 26,
-            "iscrowd": 0,
             "image_id": "XDU130",
-            "category_id": 1,
             "keypoints": [
                 250.500096,
                 97.50016,
@@ -4285,9 +4233,7 @@
         },
         {
             "id": 27,
-            "iscrowd": 0,
             "image_id": "XDU131",
-            "category_id": 1,
             "keypoints": [
                 146.500096,
                 187.500032,
@@ -4306,9 +4252,7 @@
         },
         {
             "id": 28,
-            "iscrowd": 0,
             "image_id": "XDU132",
-            "category_id": 1,
             "keypoints": [
                 419.500032,
                 453.499904,
@@ -4336,9 +4280,7 @@
         },
         {
             "id": 29,
-            "iscrowd": 0,
             "image_id": "XDU134",
-            "category_id": 1,
             "keypoints": [
                 402.500096,
                 79.499776,
@@ -4357,9 +4299,7 @@
         },
         {
             "id": 30,
-            "iscrowd": 0,
             "image_id": "XDU138",
-            "category_id": 1,
             "keypoints": [
                 211.999744,
                 185.999872,
@@ -4387,9 +4327,7 @@
         },
         {
             "id": 31,
-            "iscrowd": 0,
             "image_id": "XDU140",
-            "category_id": 1,
             "keypoints": [
                 298.500096,
                 230.000128,
@@ -4417,9 +4355,7 @@
         },
         {
             "id": 32,
-            "iscrowd": 0,
             "image_id": "XDU142",
-            "category_id": 1,
             "keypoints": [
                 464.0,
                 420.499968,
@@ -4438,9 +4374,7 @@
         },
         {
             "id": 33,
-            "iscrowd": 0,
             "image_id": "XDU145",
-            "category_id": 1,
             "keypoints": [
                 284.000256,
                 160.999936,
@@ -4459,9 +4393,7 @@
         },
         {
             "id": 34,
-            "iscrowd": 0,
             "image_id": "XDU148",
-            "category_id": 1,
             "keypoints": [
                 240.999936,
                 382.000128,
@@ -4489,9 +4421,7 @@
         },
         {
             "id": 35,
-            "iscrowd": 0,
             "image_id": "XDU149",
-            "category_id": 1,
             "keypoints": [
                 125.499904,
                 64.999936,
@@ -4510,9 +4440,7 @@
         },
         {
             "id": 36,
-            "iscrowd": 0,
             "image_id": "XDU152",
-            "category_id": 1,
             "keypoints": [
                 248.999936,
                 336.999936,
@@ -4531,9 +4459,7 @@
         },
         {
             "id": 37,
-            "iscrowd": 0,
             "image_id": "XDU154",
-            "category_id": 1,
             "keypoints": [
                 275.999744,
                 73.50016,
@@ -4552,9 +4478,7 @@
         },
         {
             "id": 38,
-            "iscrowd": 0,
             "image_id": "XDU155",
-            "category_id": 1,
             "keypoints": [
                 206.000128,
                 67.500032,
@@ -4582,9 +4506,7 @@
         },
         {
             "id": 39,
-            "iscrowd": 0,
             "image_id": "XDU156",
-            "category_id": 1,
             "keypoints": [
                 246.000128,
                 225.50016,
@@ -4603,9 +4525,7 @@
         },
         {
             "id": 40,
-            "iscrowd": 0,
             "image_id": "XDU159",
-            "category_id": 1,
             "keypoints": [
                 229.499904,
                 22.49984,
@@ -4624,9 +4544,7 @@
         },
         {
             "id": 41,
-            "iscrowd": 0,
             "image_id": "XDU161",
-            "category_id": 1,
             "keypoints": [
                 117.499904,
                 432.0,
@@ -4645,9 +4563,7 @@
         },
         {
             "id": 42,
-            "iscrowd": 0,
             "image_id": "XDU163",
-            "category_id": 1,
             "keypoints": [
                 207.499776,
                 131.999744,
@@ -4666,9 +4582,7 @@
         },
         {
             "id": 43,
-            "iscrowd": 0,
             "image_id": "XDU165",
-            "category_id": 1,
             "keypoints": [
                 161.999872,
                 96.0,
@@ -4687,9 +4601,7 @@
         },
         {
             "id": 44,
-            "iscrowd": 0,
             "image_id": "XDU166",
-            "category_id": 1,
             "keypoints": [
                 356.499968,
                 197.000192,
@@ -4708,9 +4620,7 @@
         },
         {
             "id": 45,
-            "iscrowd": 0,
             "image_id": "XDU168",
-            "category_id": 1,
             "keypoints": [
                 335.000064,
                 201.999872,
@@ -4729,9 +4639,7 @@
         },
         {
             "id": 46,
-            "iscrowd": 0,
             "image_id": "XDU169",
-            "category_id": 1,
             "keypoints": [
                 402.500096,
                 410.999808,
@@ -4759,9 +4667,7 @@
         },
         {
             "id": 47,
-            "iscrowd": 0,
             "image_id": "XDU173",
-            "category_id": 1,
             "keypoints": [
                 417.999872,
                 89.50016,
@@ -4780,9 +4686,7 @@
         },
         {
             "id": 48,
-            "iscrowd": 0,
             "image_id": "XDU175",
-            "category_id": 1,
             "keypoints": [
                 448.999936,
                 315.500032,
@@ -4810,9 +4714,7 @@
         },
         {
             "id": 49,
-            "iscrowd": 0,
             "image_id": "XDU177",
-            "category_id": 1,
             "keypoints": [
                 157.499904,
                 95.000064,
@@ -4831,9 +4733,7 @@
         },
         {
             "id": 50,
-            "iscrowd": 0,
             "image_id": "XDU179",
-            "category_id": 1,
             "keypoints": [
                 97.999872,
                 257.50016,
@@ -4852,9 +4752,7 @@
         },
         {
             "id": 51,
-            "iscrowd": 0,
             "image_id": "XDU180",
-            "category_id": 1,
             "keypoints": [
                 335.000064,
                 217.50016,
@@ -4891,9 +4789,7 @@
         },
         {
             "id": 52,
-            "iscrowd": 0,
             "image_id": "XDU181",
-            "category_id": 1,
             "keypoints": [
                 401.999872,
                 204.499968,
@@ -4939,9 +4835,7 @@
         },
         {
             "id": 53,
-            "iscrowd": 0,
             "image_id": "XDU182",
-            "category_id": 1,
             "keypoints": [
                 269.499904,
                 290.999808,
@@ -4960,9 +4854,7 @@
         },
         {
             "id": 54,
-            "iscrowd": 0,
             "image_id": "XDU185",
-            "category_id": 1,
             "keypoints": [
                 77.000192,
                 293.499904,
@@ -4990,9 +4882,7 @@
         },
         {
             "id": 55,
-            "iscrowd": 0,
             "image_id": "XDU186",
-            "category_id": 1,
             "keypoints": [
                 246.49984,
                 240.0,
@@ -5029,9 +4919,7 @@
         },
         {
             "id": 56,
-            "iscrowd": 0,
             "image_id": "XDU189",
-            "category_id": 1,
             "keypoints": [
                 353.50016,
                 198.49984,
@@ -5050,9 +4938,7 @@
         },
         {
             "id": 57,
-            "iscrowd": 0,
             "image_id": "XDU191",
-            "category_id": 1,
             "keypoints": [
                 256.0,
                 365.000192,
@@ -5071,9 +4957,7 @@
         },
         {
             "id": 58,
-            "iscrowd": 0,
             "image_id": "XDU192",
-            "category_id": 1,
             "keypoints": [
                 159.000064,
                 179.999744,
@@ -5110,9 +4994,7 @@
         },
         {
             "id": 59,
-            "iscrowd": 0,
             "image_id": "XDU193",
-            "category_id": 1,
             "keypoints": [
                 158.000128,
                 136.500224,
@@ -5131,9 +5013,7 @@
         },
         {
             "id": 60,
-            "iscrowd": 0,
             "image_id": "XDU196",
-            "category_id": 1,
             "keypoints": [
                 176.999936,
                 275.500032,
@@ -5161,9 +5041,7 @@
         },
         {
             "id": 61,
-            "iscrowd": 0,
             "image_id": "XDU197",
-            "category_id": 1,
             "keypoints": [
                 284.000256,
                 18.999808,
@@ -5191,9 +5069,7 @@
         },
         {
             "id": 62,
-            "iscrowd": 0,
             "image_id": "XDU199",
-            "category_id": 1,
             "keypoints": [
                 418.500096,
                 369.50016,
@@ -5239,9 +5115,7 @@
         },
         {
             "id": 63,
-            "iscrowd": 0,
             "image_id": "XDU2",
-            "category_id": 1,
             "keypoints": [
                 501.000192,
                 316.499968,
@@ -5269,9 +5143,7 @@
         },
         {
             "id": 64,
-            "iscrowd": 0,
             "image_id": "XDU20",
-            "category_id": 1,
             "keypoints": [
                 123.500032,
                 377.999872,
@@ -5299,9 +5171,7 @@
         },
         {
             "id": 65,
-            "iscrowd": 0,
             "image_id": "XDU200",
-            "category_id": 1,
             "keypoints": [
                 142.49984,
                 127.499776,
@@ -5320,9 +5190,7 @@
         },
         {
             "id": 66,
-            "iscrowd": 0,
             "image_id": "XDU201",
-            "category_id": 1,
             "keypoints": [
                 331.500032,
                 241.999872,
@@ -5341,9 +5209,7 @@
         },
         {
             "id": 67,
-            "iscrowd": 0,
             "image_id": "XDU202",
-            "category_id": 1,
             "keypoints": [
                 281.999872,
                 376.0,
@@ -5380,9 +5246,7 @@
         },
         {
             "id": 68,
-            "iscrowd": 0,
             "image_id": "XDU203",
-            "category_id": 1,
             "keypoints": [
                 290.999808,
                 319.499776,
@@ -5401,9 +5265,7 @@
         },
         {
             "id": 69,
-            "iscrowd": 0,
             "image_id": "XDU204",
-            "category_id": 1,
             "keypoints": [
                 241.50016,
                 387.999744,
@@ -5431,9 +5293,7 @@
         },
         {
             "id": 70,
-            "iscrowd": 0,
             "image_id": "XDU206",
-            "category_id": 1,
             "keypoints": [
                 231.000064,
                 183.499776,
@@ -5452,9 +5312,7 @@
         },
         {
             "id": 71,
-            "iscrowd": 0,
             "image_id": "XDU209",
-            "category_id": 1,
             "keypoints": [
                 351.000064,
                 142.49984,
@@ -5473,9 +5331,7 @@
         },
         {
             "id": 72,
-            "iscrowd": 0,
             "image_id": "XDU210",
-            "category_id": 1,
             "keypoints": [
                 240.0,
                 96.999936,
@@ -5512,9 +5368,7 @@
         },
         {
             "id": 73,
-            "iscrowd": 0,
             "image_id": "XDU213",
-            "category_id": 1,
             "keypoints": [
                 169.50016,
                 297.50016,
@@ -5551,9 +5405,7 @@
         },
         {
             "id": 74,
-            "iscrowd": 0,
             "image_id": "XDU214",
-            "category_id": 1,
             "keypoints": [
                 243.500032,
                 316.000256,
@@ -5572,9 +5424,7 @@
         },
         {
             "id": 75,
-            "iscrowd": 0,
             "image_id": "XDU216",
-            "category_id": 1,
             "keypoints": [
                 403.999744,
                 288.0,
@@ -5593,9 +5443,7 @@
         },
         {
             "id": 76,
-            "iscrowd": 0,
             "image_id": "XDU217",
-            "category_id": 1,
             "keypoints": [
                 344.999936,
                 127.000064,
@@ -5614,9 +5462,7 @@
         },
         {
             "id": 77,
-            "iscrowd": 0,
             "image_id": "XDU220",
-            "category_id": 1,
             "keypoints": [
                 72.0,
                 121.999872,
@@ -5635,9 +5481,7 @@
         },
         {
             "id": 78,
-            "iscrowd": 0,
             "image_id": "XDU221",
-            "category_id": 1,
             "keypoints": [
                 77.000192,
                 41.999872,
@@ -5656,9 +5500,7 @@
         },
         {
             "id": 79,
-            "iscrowd": 0,
             "image_id": "XDU222",
-            "category_id": 1,
             "keypoints": [
                 497.50016,
                 189.499904,
@@ -5686,9 +5528,7 @@
         },
         {
             "id": 80,
-            "iscrowd": 0,
             "image_id": "XDU223",
-            "category_id": 1,
             "keypoints": [
                 254.000128,
                 229.000192,
@@ -5725,9 +5565,7 @@
         },
         {
             "id": 81,
-            "iscrowd": 0,
             "image_id": "XDU224",
-            "category_id": 1,
             "keypoints": [
                 297.999872,
                 320.0,
@@ -5746,9 +5584,7 @@
         },
         {
             "id": 82,
-            "iscrowd": 0,
             "image_id": "XDU225",
-            "category_id": 1,
             "keypoints": [
                 239.000064,
                 285.000192,
@@ -5767,9 +5603,7 @@
         },
         {
             "id": 83,
-            "iscrowd": 0,
             "image_id": "XDU227",
-            "category_id": 1,
             "keypoints": [
                 197.000192,
                 127.499776,
@@ -5788,9 +5622,7 @@
         },
         {
             "id": 84,
-            "iscrowd": 0,
             "image_id": "XDU228",
-            "category_id": 1,
             "keypoints": [
                 176.0,
                 296.999936,
@@ -5818,9 +5650,7 @@
         },
         {
             "id": 85,
-            "iscrowd": 0,
             "image_id": "XDU23",
-            "category_id": 1,
             "keypoints": [
                 272.500224,
                 312.500224,
@@ -5848,9 +5678,7 @@
         },
         {
             "id": 86,
-            "iscrowd": 0,
             "image_id": "XDU230",
-            "category_id": 1,
             "keypoints": [
                 329.999872,
                 50.500096,
@@ -5869,9 +5697,7 @@
         },
         {
             "id": 87,
-            "iscrowd": 0,
             "image_id": "XDU232",
-            "category_id": 1,
             "keypoints": [
                 239.000064,
                 177.999872,
@@ -5890,9 +5716,7 @@
         },
         {
             "id": 88,
-            "iscrowd": 0,
             "image_id": "XDU233",
-            "category_id": 1,
             "keypoints": [
                 374.49984,
                 300.000256,
@@ -5911,9 +5735,7 @@
         },
         {
             "id": 89,
-            "iscrowd": 0,
             "image_id": "XDU234",
-            "category_id": 1,
             "keypoints": [
                 290.500096,
                 283.500032,
@@ -5932,9 +5754,7 @@
         },
         {
             "id": 90,
-            "iscrowd": 0,
             "image_id": "XDU235",
-            "category_id": 1,
             "keypoints": [
                 270.000128,
                 320.0,
@@ -5962,9 +5782,7 @@
         },
         {
             "id": 91,
-            "iscrowd": 0,
             "image_id": "XDU237",
-            "category_id": 1,
             "keypoints": [
                 311.499776,
                 219.500032,
@@ -5992,9 +5810,7 @@
         },
         {
             "id": 92,
-            "iscrowd": 0,
             "image_id": "XDU238",
-            "category_id": 1,
             "keypoints": [
                 127.499776,
                 88.0,
@@ -6022,9 +5838,7 @@
         },
         {
             "id": 93,
-            "iscrowd": 0,
             "image_id": "XDU239",
-            "category_id": 1,
             "keypoints": [
                 225.50016,
                 425.50016,
@@ -6043,9 +5857,7 @@
         },
         {
             "id": 94,
-            "iscrowd": 0,
             "image_id": "XDU240",
-            "category_id": 1,
             "keypoints": [
                 69.000192,
                 120.500224,
@@ -6064,9 +5876,7 @@
         },
         {
             "id": 95,
-            "iscrowd": 0,
             "image_id": "XDU241",
-            "category_id": 1,
             "keypoints": [
                 385.999872,
                 334.000128,
@@ -6085,9 +5895,7 @@
         },
         {
             "id": 96,
-            "iscrowd": 0,
             "image_id": "XDU242",
-            "category_id": 1,
             "keypoints": [
                 247.000064,
                 101.000192,
@@ -6106,9 +5914,7 @@
         },
         {
             "id": 97,
-            "iscrowd": 0,
             "image_id": "XDU243",
-            "category_id": 1,
             "keypoints": [
                 293.499904,
                 240.0,
@@ -6127,9 +5933,7 @@
         },
         {
             "id": 98,
-            "iscrowd": 0,
             "image_id": "XDU247",
-            "category_id": 1,
             "keypoints": [
                 266.500096,
                 174.49984,
@@ -6148,9 +5952,7 @@
         },
         {
             "id": 99,
-            "iscrowd": 0,
             "image_id": "XDU248",
-            "category_id": 1,
             "keypoints": [
                 40.0,
                 282.500096,
@@ -6169,9 +5971,7 @@
         },
         {
             "id": 100,
-            "iscrowd": 0,
             "image_id": "XDU251",
-            "category_id": 1,
             "keypoints": [
                 291.500032,
                 219.500032,
@@ -6190,9 +5990,7 @@
         },
         {
             "id": 101,
-            "iscrowd": 0,
             "image_id": "XDU252",
-            "category_id": 1,
             "keypoints": [
                 387.500032,
                 58.500096,
@@ -6211,9 +6009,7 @@
         },
         {
             "id": 102,
-            "iscrowd": 0,
             "image_id": "XDU254",
-            "category_id": 1,
             "keypoints": [
                 464.0,
                 230.49984,
@@ -6232,9 +6028,7 @@
         },
         {
             "id": 103,
-            "iscrowd": 0,
             "image_id": "XDU255",
-            "category_id": 1,
             "keypoints": [
                 391.499776,
                 155.500032,
@@ -6253,9 +6047,7 @@
         },
         {
             "id": 104,
-            "iscrowd": 0,
             "image_id": "XDU256",
-            "category_id": 1,
             "keypoints": [
                 227.500032,
                 177.50016,
@@ -6274,9 +6066,7 @@
         },
         {
             "id": 105,
-            "iscrowd": 0,
             "image_id": "XDU257",
-            "category_id": 1,
             "keypoints": [
                 285.000192,
                 372.499968,
@@ -6295,9 +6085,7 @@
         },
         {
             "id": 106,
-            "iscrowd": 0,
             "image_id": "XDU258",
-            "category_id": 1,
             "keypoints": [
                 422.000128,
                 190.000128,
@@ -6325,9 +6113,7 @@
         },
         {
             "id": 107,
-            "iscrowd": 0,
             "image_id": "XDU260",
-            "category_id": 1,
             "keypoints": [
                 143.000064,
                 108.000256,
@@ -6355,9 +6141,7 @@
         },
         {
             "id": 108,
-            "iscrowd": 0,
             "image_id": "XDU262",
-            "category_id": 1,
             "keypoints": [
                 268.000256,
                 272.0,
@@ -6376,9 +6160,7 @@
         },
         {
             "id": 109,
-            "iscrowd": 0,
             "image_id": "XDU264",
-            "category_id": 1,
             "keypoints": [
                 160.999936,
                 434.500096,
@@ -6415,9 +6197,7 @@
         },
         {
             "id": 110,
-            "iscrowd": 0,
             "image_id": "XDU265",
-            "category_id": 1,
             "keypoints": [
                 109.000192,
                 279.499776,
@@ -6436,9 +6216,7 @@
         },
         {
             "id": 111,
-            "iscrowd": 0,
             "image_id": "XDU27",
-            "category_id": 1,
             "keypoints": [
                 319.499776,
                 429.000192,
@@ -6466,9 +6244,7 @@
         },
         {
             "id": 112,
-            "iscrowd": 0,
             "image_id": "XDU270",
-            "category_id": 1,
             "keypoints": [
                 144.500224,
                 153.50016,
@@ -6487,9 +6263,7 @@
         },
         {
             "id": 113,
-            "iscrowd": 0,
             "image_id": "XDU271",
-            "category_id": 1,
             "keypoints": [
                 439.499776,
                 398.49984,
@@ -6517,9 +6291,7 @@
         },
         {
             "id": 114,
-            "iscrowd": 0,
             "image_id": "XDU273",
-            "category_id": 1,
             "keypoints": [
                 142.49984,
                 77.499904,
@@ -6538,9 +6310,7 @@
         },
         {
             "id": 115,
-            "iscrowd": 0,
             "image_id": "XDU274",
-            "category_id": 1,
             "keypoints": [
                 176.500224,
                 202.999808,
@@ -6559,9 +6329,7 @@
         },
         {
             "id": 116,
-            "iscrowd": 0,
             "image_id": "XDU275",
-            "category_id": 1,
             "keypoints": [
                 371.500032,
                 425.50016,
@@ -6589,9 +6357,7 @@
         },
         {
             "id": 117,
-            "iscrowd": 0,
             "image_id": "XDU276",
-            "category_id": 1,
             "keypoints": [
                 376.0,
                 150.49984,
@@ -6619,9 +6385,7 @@
         },
         {
             "id": 118,
-            "iscrowd": 0,
             "image_id": "XDU277",
-            "category_id": 1,
             "keypoints": [
                 193.999872,
                 182.49984,
@@ -6658,9 +6422,7 @@
         },
         {
             "id": 119,
-            "iscrowd": 0,
             "image_id": "XDU278",
-            "category_id": 1,
             "keypoints": [
                 307.500032,
                 456.500224,
@@ -6679,9 +6441,7 @@
         },
         {
             "id": 120,
-            "iscrowd": 0,
             "image_id": "XDU279",
-            "category_id": 1,
             "keypoints": [
                 400.500224,
                 264.500224,
@@ -6700,9 +6460,7 @@
         },
         {
             "id": 121,
-            "iscrowd": 0,
             "image_id": "XDU28",
-            "category_id": 1,
             "keypoints": [
                 173.000192,
                 218.999808,
@@ -6721,9 +6479,7 @@
         },
         {
             "id": 122,
-            "iscrowd": 0,
             "image_id": "XDU280",
-            "category_id": 1,
             "keypoints": [
                 296.0,
                 292.499968,
@@ -6742,9 +6498,7 @@
         },
         {
             "id": 123,
-            "iscrowd": 0,
             "image_id": "XDU283",
-            "category_id": 1,
             "keypoints": [
                 335.000064,
                 262.49984,
@@ -6763,9 +6517,7 @@
         },
         {
             "id": 124,
-            "iscrowd": 0,
             "image_id": "XDU284",
-            "category_id": 1,
             "keypoints": [
                 286.000128,
                 256.500224,
@@ -6793,9 +6545,7 @@
         },
         {
             "id": 125,
-            "iscrowd": 0,
             "image_id": "XDU289",
-            "category_id": 1,
             "keypoints": [
                 255.000064,
                 400.999936,
@@ -6814,9 +6564,7 @@
         },
         {
             "id": 126,
-            "iscrowd": 0,
             "image_id": "XDU290",
-            "category_id": 1,
             "keypoints": [
                 209.50016,
                 301.499904,
@@ -6844,9 +6592,7 @@
         },
         {
             "id": 127,
-            "iscrowd": 0,
             "image_id": "XDU291",
-            "category_id": 1,
             "keypoints": [
                 293.499904,
                 248.0,
@@ -6865,9 +6611,7 @@
         },
         {
             "id": 128,
-            "iscrowd": 0,
             "image_id": "XDU292",
-            "category_id": 1,
             "keypoints": [
                 302.000128,
                 104.500224,
@@ -6895,9 +6639,7 @@
         },
         {
             "id": 129,
-            "iscrowd": 0,
             "image_id": "XDU293",
-            "category_id": 1,
             "keypoints": [
                 213.000192,
                 367.000064,
@@ -6925,9 +6667,7 @@
         },
         {
             "id": 130,
-            "iscrowd": 0,
             "image_id": "XDU296",
-            "category_id": 1,
             "keypoints": [
                 315.500032,
                 199.499776,
@@ -6946,9 +6686,7 @@
         },
         {
             "id": 131,
-            "iscrowd": 0,
             "image_id": "XDU297",
-            "category_id": 1,
             "keypoints": [
                 324.499968,
                 112.999936,
@@ -6976,9 +6714,7 @@
         },
         {
             "id": 132,
-            "iscrowd": 0,
             "image_id": "XDU3",
-            "category_id": 1,
             "keypoints": [
                 228.499968,
                 322.999808,
@@ -6997,9 +6733,7 @@
         },
         {
             "id": 133,
-            "iscrowd": 0,
             "image_id": "XDU30",
-            "category_id": 1,
             "keypoints": [
                 264.0,
                 371.999744,
@@ -7018,9 +6752,7 @@
         },
         {
             "id": 134,
-            "iscrowd": 0,
             "image_id": "XDU300",
-            "category_id": 1,
             "keypoints": [
                 437.000192,
                 313.50016,
@@ -7039,9 +6771,7 @@
         },
         {
             "id": 135,
-            "iscrowd": 0,
             "image_id": "XDU301",
-            "category_id": 1,
             "keypoints": [
                 283.500032,
                 115.500032,
@@ -7078,9 +6808,7 @@
         },
         {
             "id": 136,
-            "iscrowd": 0,
             "image_id": "XDU302",
-            "category_id": 1,
             "keypoints": [
                 382.49984,
                 99.999744,
@@ -7099,9 +6827,7 @@
         },
         {
             "id": 137,
-            "iscrowd": 0,
             "image_id": "XDU305",
-            "category_id": 1,
             "keypoints": [
                 353.50016,
                 416.500224,
@@ -7129,9 +6855,7 @@
         },
         {
             "id": 138,
-            "iscrowd": 0,
             "image_id": "XDU306",
-            "category_id": 1,
             "keypoints": [
                 306.500096,
                 152.0,
@@ -7150,9 +6874,7 @@
         },
         {
             "id": 139,
-            "iscrowd": 0,
             "image_id": "XDU307",
-            "category_id": 1,
             "keypoints": [
                 236.000256,
                 244.499968,
@@ -7171,9 +6893,7 @@
         },
         {
             "id": 140,
-            "iscrowd": 0,
             "image_id": "XDU308",
-            "category_id": 1,
             "keypoints": [
                 150.000128,
                 104.999936,
@@ -7192,9 +6912,7 @@
         },
         {
             "id": 141,
-            "iscrowd": 0,
             "image_id": "XDU310",
-            "category_id": 1,
             "keypoints": [
                 248.500224,
                 421.499904,
@@ -7213,9 +6931,7 @@
         },
         {
             "id": 142,
-            "iscrowd": 0,
             "image_id": "XDU311",
-            "category_id": 1,
             "keypoints": [
                 149.000192,
                 288.999936,
@@ -7234,9 +6950,7 @@
         },
         {
             "id": 143,
-            "iscrowd": 0,
             "image_id": "XDU312",
-            "category_id": 1,
             "keypoints": [
                 496.500224,
                 322.999808,
@@ -7255,9 +6969,7 @@
         },
         {
             "id": 144,
-            "iscrowd": 0,
             "image_id": "XDU314",
-            "category_id": 1,
             "keypoints": [
                 286.000128,
                 136.500224,
@@ -7276,9 +6988,7 @@
         },
         {
             "id": 145,
-            "iscrowd": 0,
             "image_id": "XDU32",
-            "category_id": 1,
             "keypoints": [
                 298.500096,
                 389.499904,
@@ -7297,9 +7007,7 @@
         },
         {
             "id": 146,
-            "iscrowd": 0,
             "image_id": "XDU321",
-            "category_id": 1,
             "keypoints": [
                 393.999872,
                 192.500224,
@@ -7327,9 +7035,7 @@
         },
         {
             "id": 147,
-            "iscrowd": 0,
             "image_id": "XDU322",
-            "category_id": 1,
             "keypoints": [
                 138.500096,
                 362.999808,
@@ -7348,9 +7054,7 @@
         },
         {
             "id": 148,
-            "iscrowd": 0,
             "image_id": "XDU323",
-            "category_id": 1,
             "keypoints": [
                 186.500096,
                 385.999872,
@@ -7378,9 +7082,7 @@
         },
         {
             "id": 149,
-            "iscrowd": 0,
             "image_id": "XDU324",
-            "category_id": 1,
             "keypoints": [
                 330.500096,
                 165.499904,
@@ -7399,9 +7101,7 @@
         },
         {
             "id": 150,
-            "iscrowd": 0,
             "image_id": "XDU33",
-            "category_id": 1,
             "keypoints": [
                 368.500224,
                 157.000192,
@@ -7429,9 +7129,7 @@
         },
         {
             "id": 151,
-            "iscrowd": 0,
             "image_id": "XDU330",
-            "category_id": 1,
             "keypoints": [
                 292.499968,
                 410.500096,
@@ -7450,9 +7148,7 @@
         },
         {
             "id": 152,
-            "iscrowd": 0,
             "image_id": "XDU331",
-            "category_id": 1,
             "keypoints": [
                 176.999936,
                 227.999744,
@@ -7471,9 +7167,7 @@
         },
         {
             "id": 153,
-            "iscrowd": 0,
             "image_id": "XDU332",
-            "category_id": 1,
             "keypoints": [
                 471.000064,
                 29.000192,
@@ -7492,9 +7186,7 @@
         },
         {
             "id": 154,
-            "iscrowd": 0,
             "image_id": "XDU334",
-            "category_id": 1,
             "keypoints": [
                 88.500224,
                 114.999808,
@@ -7513,9 +7205,7 @@
         },
         {
             "id": 155,
-            "iscrowd": 0,
             "image_id": "XDU335",
-            "category_id": 1,
             "keypoints": [
                 81.999872,
                 183.000064,
@@ -7552,9 +7242,7 @@
         },
         {
             "id": 156,
-            "iscrowd": 0,
             "image_id": "XDU337",
-            "category_id": 1,
             "keypoints": [
                 246.49984,
                 292.499968,
@@ -7582,9 +7270,7 @@
         },
         {
             "id": 157,
-            "iscrowd": 0,
             "image_id": "XDU339",
-            "category_id": 1,
             "keypoints": [
                 69.000192,
                 270.49984,
@@ -7603,9 +7289,7 @@
         },
         {
             "id": 158,
-            "iscrowd": 0,
             "image_id": "XDU34",
-            "category_id": 1,
             "keypoints": [
                 200.500224,
                 254.49984,
@@ -7633,9 +7317,7 @@
         },
         {
             "id": 159,
-            "iscrowd": 0,
             "image_id": "XDU340",
-            "category_id": 1,
             "keypoints": [
                 415.000064,
                 241.999872,
@@ -7672,9 +7354,7 @@
         },
         {
             "id": 160,
-            "iscrowd": 0,
             "image_id": "XDU341",
-            "category_id": 1,
             "keypoints": [
                 440.0,
                 330.999808,
@@ -7702,9 +7382,7 @@
         },
         {
             "id": 161,
-            "iscrowd": 0,
             "image_id": "XDU343",
-            "category_id": 1,
             "keypoints": [
                 128.500224,
                 216.999936,
@@ -7723,9 +7401,7 @@
         },
         {
             "id": 162,
-            "iscrowd": 0,
             "image_id": "XDU345",
-            "category_id": 1,
             "keypoints": [
                 326.49984,
                 39.000064,
@@ -7753,9 +7429,7 @@
         },
         {
             "id": 163,
-            "iscrowd": 0,
             "image_id": "XDU346",
-            "category_id": 1,
             "keypoints": [
                 258.500096,
                 134.49984,
@@ -7792,9 +7466,7 @@
         },
         {
             "id": 164,
-            "iscrowd": 0,
             "image_id": "XDU347",
-            "category_id": 1,
             "keypoints": [
                 316.000256,
                 157.499904,
@@ -7831,9 +7503,7 @@
         },
         {
             "id": 165,
-            "iscrowd": 0,
             "image_id": "XDU348",
-            "category_id": 1,
             "keypoints": [
                 245.499904,
                 80.0,
@@ -7852,9 +7522,7 @@
         },
         {
             "id": 166,
-            "iscrowd": 0,
             "image_id": "XDU349",
-            "category_id": 1,
             "keypoints": [
                 140.499968,
                 136.0,
@@ -7873,9 +7541,7 @@
         },
         {
             "id": 167,
-            "iscrowd": 0,
             "image_id": "XDU35",
-            "category_id": 1,
             "keypoints": [
                 412.000256,
                 83.500032,
@@ -7894,9 +7560,7 @@
         },
         {
             "id": 168,
-            "iscrowd": 0,
             "image_id": "XDU350",
-            "category_id": 1,
             "keypoints": [
                 339.500032,
                 441.999872,
@@ -7915,9 +7579,7 @@
         },
         {
             "id": 169,
-            "iscrowd": 0,
             "image_id": "XDU353",
-            "category_id": 1,
             "keypoints": [
                 403.500032,
                 278.000128,
@@ -7936,9 +7598,7 @@
         },
         {
             "id": 170,
-            "iscrowd": 0,
             "image_id": "XDU355",
-            "category_id": 1,
             "keypoints": [
                 338.999808,
                 336.500224,
@@ -7966,9 +7626,7 @@
         },
         {
             "id": 171,
-            "iscrowd": 0,
             "image_id": "XDU356",
-            "category_id": 1,
             "keypoints": [
                 383.499776,
                 127.499776,
@@ -7987,9 +7645,7 @@
         },
         {
             "id": 172,
-            "iscrowd": 0,
             "image_id": "XDU357",
-            "category_id": 1,
             "keypoints": [
                 297.999872,
                 130.999808,
@@ -8017,9 +7673,7 @@
         },
         {
             "id": 173,
-            "iscrowd": 0,
             "image_id": "XDU359",
-            "category_id": 1,
             "keypoints": [
                 402.999808,
                 255.000064,
@@ -8047,9 +7701,7 @@
         },
         {
             "id": 174,
-            "iscrowd": 0,
             "image_id": "XDU36",
-            "category_id": 1,
             "keypoints": [
                 267.500032,
                 162.500096,
@@ -8068,9 +7720,7 @@
         },
         {
             "id": 175,
-            "iscrowd": 0,
             "image_id": "XDU361",
-            "category_id": 1,
             "keypoints": [
                 403.500032,
                 325.000192,
@@ -8089,9 +7739,7 @@
         },
         {
             "id": 176,
-            "iscrowd": 0,
             "image_id": "XDU362",
-            "category_id": 1,
             "keypoints": [
                 421.499904,
                 105.50016,
@@ -8119,9 +7767,7 @@
         },
         {
             "id": 177,
-            "iscrowd": 0,
             "image_id": "XDU363",
-            "category_id": 1,
             "keypoints": [
                 308.499968,
                 401.999872,
@@ -8149,9 +7795,7 @@
         },
         {
             "id": 178,
-            "iscrowd": 0,
             "image_id": "XDU364",
-            "category_id": 1,
             "keypoints": [
                 263.000064,
                 164.499968,
@@ -8179,9 +7823,7 @@
         },
         {
             "id": 179,
-            "iscrowd": 0,
             "image_id": "XDU365",
-            "category_id": 1,
             "keypoints": [
                 206.000128,
                 255.000064,
@@ -8200,9 +7842,7 @@
         },
         {
             "id": 180,
-            "iscrowd": 0,
             "image_id": "XDU366",
-            "category_id": 1,
             "keypoints": [
                 438.000128,
                 26.999808,
@@ -8221,9 +7861,7 @@
         },
         {
             "id": 181,
-            "iscrowd": 0,
             "image_id": "XDU368",
-            "category_id": 1,
             "keypoints": [
                 254.000128,
                 171.500032,
@@ -8251,9 +7889,7 @@
         },
         {
             "id": 182,
-            "iscrowd": 0,
             "image_id": "XDU37",
-            "category_id": 1,
             "keypoints": [
                 341.499904,
                 209.50016,
@@ -8281,9 +7917,7 @@
         },
         {
             "id": 183,
-            "iscrowd": 0,
             "image_id": "XDU371",
-            "category_id": 1,
             "keypoints": [
                 204.000256,
                 51.999744,
@@ -8311,9 +7945,7 @@
         },
         {
             "id": 184,
-            "iscrowd": 0,
             "image_id": "XDU373",
-            "category_id": 1,
             "keypoints": [
                 308.499968,
                 382.49984,
@@ -8332,9 +7964,7 @@
         },
         {
             "id": 185,
-            "iscrowd": 0,
             "image_id": "XDU375",
-            "category_id": 1,
             "keypoints": [
                 414.000128,
                 467.999744,
@@ -8353,9 +7983,7 @@
         },
         {
             "id": 186,
-            "iscrowd": 0,
             "image_id": "XDU377",
-            "category_id": 1,
             "keypoints": [
                 448.0,
                 375.000064,
@@ -8374,9 +8002,7 @@
         },
         {
             "id": 187,
-            "iscrowd": 0,
             "image_id": "XDU378",
-            "category_id": 1,
             "keypoints": [
                 266.999808,
                 236.000256,
@@ -8404,9 +8030,7 @@
         },
         {
             "id": 188,
-            "iscrowd": 0,
             "image_id": "XDU379",
-            "category_id": 1,
             "keypoints": [
                 311.499776,
                 125.499904,
@@ -8425,9 +8049,7 @@
         },
         {
             "id": 189,
-            "iscrowd": 0,
             "image_id": "XDU381",
-            "category_id": 1,
             "keypoints": [
                 316.000256,
                 381.499904,
@@ -8446,9 +8068,7 @@
         },
         {
             "id": 190,
-            "iscrowd": 0,
             "image_id": "XDU382",
-            "category_id": 1,
             "keypoints": [
                 175.499776,
                 119.499776,
@@ -8476,9 +8096,7 @@
         },
         {
             "id": 191,
-            "iscrowd": 0,
             "image_id": "XDU384",
-            "category_id": 1,
             "keypoints": [
                 347.500032,
                 68.499968,
@@ -8497,9 +8115,7 @@
         },
         {
             "id": 192,
-            "iscrowd": 0,
             "image_id": "XDU386",
-            "category_id": 1,
             "keypoints": [
                 272.500224,
                 114.999808,
@@ -8527,9 +8143,7 @@
         },
         {
             "id": 193,
-            "iscrowd": 0,
             "image_id": "XDU388",
-            "category_id": 1,
             "keypoints": [
                 431.000064,
                 285.499904,
@@ -8557,9 +8171,7 @@
         },
         {
             "id": 194,
-            "iscrowd": 0,
             "image_id": "XDU389",
-            "category_id": 1,
             "keypoints": [
                 182.000128,
                 172.000256,
@@ -8578,9 +8190,7 @@
         },
         {
             "id": 195,
-            "iscrowd": 0,
             "image_id": "XDU39",
-            "category_id": 1,
             "keypoints": [
                 174.49984,
                 290.500096,
@@ -8599,9 +8209,7 @@
         },
         {
             "id": 196,
-            "iscrowd": 0,
             "image_id": "XDU392",
-            "category_id": 1,
             "keypoints": [
                 286.000128,
                 344.999936,
@@ -8629,9 +8237,7 @@
         },
         {
             "id": 197,
-            "iscrowd": 0,
             "image_id": "XDU393",
-            "category_id": 1,
             "keypoints": [
                 203.500032,
                 278.49984,
@@ -8659,9 +8265,7 @@
         },
         {
             "id": 198,
-            "iscrowd": 0,
             "image_id": "XDU394",
-            "category_id": 1,
             "keypoints": [
                 352.999936,
                 339.999744,
@@ -8689,9 +8293,7 @@
         },
         {
             "id": 199,
-            "iscrowd": 0,
             "image_id": "XDU395",
-            "category_id": 1,
             "keypoints": [
                 290.500096,
                 256.999936,
@@ -8728,9 +8330,7 @@
         },
         {
             "id": 200,
-            "iscrowd": 0,
             "image_id": "XDU398",
-            "category_id": 1,
             "keypoints": [
                 282.500096,
                 285.000192,
@@ -8758,9 +8358,7 @@
         },
         {
             "id": 201,
-            "iscrowd": 0,
             "image_id": "XDU399",
-            "category_id": 1,
             "keypoints": [
                 173.000192,
                 333.000192,
@@ -8797,9 +8395,7 @@
         },
         {
             "id": 202,
-            "iscrowd": 0,
             "image_id": "XDU4",
-            "category_id": 1,
             "keypoints": [
                 131.999744,
                 332.000256,
@@ -8827,9 +8423,7 @@
         },
         {
             "id": 203,
-            "iscrowd": 0,
             "image_id": "XDU40",
-            "category_id": 1,
             "keypoints": [
                 359.000064,
                 151.000064,
@@ -8848,9 +8442,7 @@
         },
         {
             "id": 204,
-            "iscrowd": 0,
             "image_id": "XDU400",
-            "category_id": 1,
             "keypoints": [
                 248.0,
                 350.49984,
@@ -8869,9 +8461,7 @@
         },
         {
             "id": 205,
-            "iscrowd": 0,
             "image_id": "XDU402",
-            "category_id": 1,
             "keypoints": [
                 209.50016,
                 339.999744,
@@ -8890,9 +8480,7 @@
         },
         {
             "id": 206,
-            "iscrowd": 0,
             "image_id": "XDU403",
-            "category_id": 1,
             "keypoints": [
                 241.50016,
                 200.0,
@@ -8911,9 +8499,7 @@
         },
         {
             "id": 207,
-            "iscrowd": 0,
             "image_id": "XDU404",
-            "category_id": 1,
             "keypoints": [
                 246.49984,
                 254.000128,
@@ -8932,9 +8518,7 @@
         },
         {
             "id": 208,
-            "iscrowd": 0,
             "image_id": "XDU405",
-            "category_id": 1,
             "keypoints": [
                 217.50016,
                 224.0,
@@ -8953,9 +8537,7 @@
         },
         {
             "id": 209,
-            "iscrowd": 0,
             "image_id": "XDU406",
-            "category_id": 1,
             "keypoints": [
                 430.000128,
                 278.49984,
@@ -8992,9 +8574,7 @@
         },
         {
             "id": 210,
-            "iscrowd": 0,
             "image_id": "XDU407",
-            "category_id": 1,
             "keypoints": [
                 163.500032,
                 150.49984,
@@ -9022,9 +8602,7 @@
         },
         {
             "id": 211,
-            "iscrowd": 0,
             "image_id": "XDU408",
-            "category_id": 1,
             "keypoints": [
                 278.000128,
                 244.499968,
@@ -9043,9 +8621,7 @@
         },
         {
             "id": 212,
-            "iscrowd": 0,
             "image_id": "XDU410",
-            "category_id": 1,
             "keypoints": [
                 297.50016,
                 182.49984,
@@ -9082,9 +8658,7 @@
         },
         {
             "id": 213,
-            "iscrowd": 0,
             "image_id": "XDU412",
-            "category_id": 1,
             "keypoints": [
                 256.999936,
                 238.49984,
@@ -9103,9 +8677,7 @@
         },
         {
             "id": 214,
-            "iscrowd": 0,
             "image_id": "XDU413",
-            "category_id": 1,
             "keypoints": [
                 298.500096,
                 264.999936,
@@ -9133,9 +8705,7 @@
         },
         {
             "id": 215,
-            "iscrowd": 0,
             "image_id": "XDU414",
-            "category_id": 1,
             "keypoints": [
                 273.999872,
                 129.50016,
@@ -9154,9 +8724,7 @@
         },
         {
             "id": 216,
-            "iscrowd": 0,
             "image_id": "XDU416",
-            "category_id": 1,
             "keypoints": [
                 160.0,
                 435.500032,
@@ -9193,9 +8761,7 @@
         },
         {
             "id": 217,
-            "iscrowd": 0,
             "image_id": "XDU417",
-            "category_id": 1,
             "keypoints": [
                 148.499968,
                 80.0,
@@ -9223,9 +8789,7 @@
         },
         {
             "id": 218,
-            "iscrowd": 0,
             "image_id": "XDU418",
-            "category_id": 1,
             "keypoints": [
                 207.499776,
                 333.000192,
@@ -9244,9 +8808,7 @@
         },
         {
             "id": 219,
-            "iscrowd": 0,
             "image_id": "XDU42",
-            "category_id": 1,
             "keypoints": [
                 81.999872,
                 54.49984,
@@ -9265,9 +8827,7 @@
         },
         {
             "id": 220,
-            "iscrowd": 0,
             "image_id": "XDU420",
-            "category_id": 1,
             "keypoints": [
                 343.000064,
                 275.999744,
@@ -9295,9 +8855,7 @@
         },
         {
             "id": 221,
-            "iscrowd": 0,
             "image_id": "XDU421",
-            "category_id": 1,
             "keypoints": [
                 216.999936,
                 406.49984,
@@ -9316,9 +8874,7 @@
         },
         {
             "id": 222,
-            "iscrowd": 0,
             "image_id": "XDU422",
-            "category_id": 1,
             "keypoints": [
                 183.000064,
                 379.500032,
@@ -9337,9 +8893,7 @@
         },
         {
             "id": 223,
-            "iscrowd": 0,
             "image_id": "XDU425",
-            "category_id": 1,
             "keypoints": [
                 101.499904,
                 383.499776,
@@ -9358,9 +8912,7 @@
         },
         {
             "id": 224,
-            "iscrowd": 0,
             "image_id": "XDU426",
-            "category_id": 1,
             "keypoints": [
                 365.499904,
                 181.000192,
@@ -9379,9 +8931,7 @@
         },
         {
             "id": 225,
-            "iscrowd": 0,
             "image_id": "XDU427",
-            "category_id": 1,
             "keypoints": [
                 327.499776,
                 229.000192,
@@ -9409,9 +8959,7 @@
         },
         {
             "id": 226,
-            "iscrowd": 0,
             "image_id": "XDU429",
-            "category_id": 1,
             "keypoints": [
                 303.000064,
                 173.000192,
@@ -9430,9 +8978,7 @@
         },
         {
             "id": 227,
-            "iscrowd": 0,
             "image_id": "XDU43",
-            "category_id": 1,
             "keypoints": [
                 256.999936,
                 174.000128,
@@ -9451,9 +8997,7 @@
         },
         {
             "id": 228,
-            "iscrowd": 0,
             "image_id": "XDU434",
-            "category_id": 1,
             "keypoints": [
                 265.999872,
                 67.999744,
@@ -9472,9 +9016,7 @@
         },
         {
             "id": 229,
-            "iscrowd": 0,
             "image_id": "XDU435",
-            "category_id": 1,
             "keypoints": [
                 366.49984,
                 339.999744,
@@ -9493,9 +9035,7 @@
         },
         {
             "id": 230,
-            "iscrowd": 0,
             "image_id": "XDU437",
-            "category_id": 1,
             "keypoints": [
                 220.499968,
                 166.49984,
@@ -9523,9 +9063,7 @@
         },
         {
             "id": 231,
-            "iscrowd": 0,
             "image_id": "XDU438",
-            "category_id": 1,
             "keypoints": [
                 287.499776,
                 216.500224,
@@ -9544,9 +9082,7 @@
         },
         {
             "id": 232,
-            "iscrowd": 0,
             "image_id": "XDU439",
-            "category_id": 1,
             "keypoints": [
                 359.499776,
                 80.500224,
@@ -9565,9 +9101,7 @@
         },
         {
             "id": 233,
-            "iscrowd": 0,
             "image_id": "XDU442",
-            "category_id": 1,
             "keypoints": [
                 294.000128,
                 45.499904,
@@ -9586,9 +9120,7 @@
         },
         {
             "id": 234,
-            "iscrowd": 0,
             "image_id": "XDU443",
-            "category_id": 1,
             "keypoints": [
                 66.999808,
                 305.50016,
@@ -9607,9 +9139,7 @@
         },
         {
             "id": 235,
-            "iscrowd": 0,
             "image_id": "XDU445",
-            "category_id": 1,
             "keypoints": [
                 129.50016,
                 391.499776,
@@ -9628,9 +9158,7 @@
         },
         {
             "id": 236,
-            "iscrowd": 0,
             "image_id": "XDU446",
-            "category_id": 1,
             "keypoints": [
                 111.499776,
                 428.000256,
@@ -9667,9 +9195,7 @@
         },
         {
             "id": 237,
-            "iscrowd": 0,
             "image_id": "XDU447",
-            "category_id": 1,
             "keypoints": [
                 34.999808,
                 383.000064,
@@ -9706,9 +9232,7 @@
         },
         {
             "id": 238,
-            "iscrowd": 0,
             "image_id": "XDU449",
-            "category_id": 1,
             "keypoints": [
                 170.500096,
                 107.500032,
@@ -9727,9 +9251,7 @@
         },
         {
             "id": 239,
-            "iscrowd": 0,
             "image_id": "XDU45",
-            "category_id": 1,
             "keypoints": [
                 176.999936,
                 225.50016,
@@ -9757,9 +9279,7 @@
         },
         {
             "id": 240,
-            "iscrowd": 0,
             "image_id": "XDU450",
-            "category_id": 1,
             "keypoints": [
                 76.499968,
                 45.000192,
@@ -9787,9 +9307,7 @@
         },
         {
             "id": 241,
-            "iscrowd": 0,
             "image_id": "XDU452",
-            "category_id": 1,
             "keypoints": [
                 377.999872,
                 330.999808,
@@ -9808,9 +9326,7 @@
         },
         {
             "id": 242,
-            "iscrowd": 0,
             "image_id": "XDU454",
-            "category_id": 1,
             "keypoints": [
                 403.500032,
                 412.000256,
@@ -9829,9 +9345,7 @@
         },
         {
             "id": 243,
-            "iscrowd": 0,
             "image_id": "XDU455",
-            "category_id": 1,
             "keypoints": [
                 244.499968,
                 467.500032,
@@ -9850,9 +9364,7 @@
         },
         {
             "id": 244,
-            "iscrowd": 0,
             "image_id": "XDU458",
-            "category_id": 1,
             "keypoints": [
                 356.499968,
                 354.999808,
@@ -9871,9 +9383,7 @@
         },
         {
             "id": 245,
-            "iscrowd": 0,
             "image_id": "XDU459",
-            "category_id": 1,
             "keypoints": [
                 317.499904,
                 357.499904,
@@ -9892,9 +9402,7 @@
         },
         {
             "id": 246,
-            "iscrowd": 0,
             "image_id": "XDU46",
-            "category_id": 1,
             "keypoints": [
                 358.000128,
                 507.500032,
@@ -9922,9 +9430,7 @@
         },
         {
             "id": 247,
-            "iscrowd": 0,
             "image_id": "XDU460",
-            "category_id": 1,
             "keypoints": [
                 503.499776,
                 448.500224,
@@ -9961,9 +9467,7 @@
         },
         {
             "id": 248,
-            "iscrowd": 0,
             "image_id": "XDU462",
-            "category_id": 1,
             "keypoints": [
                 424.500224,
                 71.000064,
@@ -9982,9 +9486,7 @@
         },
         {
             "id": 249,
-            "iscrowd": 0,
             "image_id": "XDU463",
-            "category_id": 1,
             "keypoints": [
                 272.0,
                 421.499904,
@@ -10003,9 +9505,7 @@
         },
         {
             "id": 250,
-            "iscrowd": 0,
             "image_id": "XDU464",
-            "category_id": 1,
             "keypoints": [
                 188.499968,
                 266.999808,
@@ -10024,9 +9524,7 @@
         },
         {
             "id": 251,
-            "iscrowd": 0,
             "image_id": "XDU465",
-            "category_id": 1,
             "keypoints": [
                 300.499968,
                 294.000128,
@@ -10045,9 +9543,7 @@
         },
         {
             "id": 252,
-            "iscrowd": 0,
             "image_id": "XDU467",
-            "category_id": 1,
             "keypoints": [
                 273.50016,
                 373.000192,
@@ -10075,9 +9571,7 @@
         },
         {
             "id": 253,
-            "iscrowd": 0,
             "image_id": "XDU468",
-            "category_id": 1,
             "keypoints": [
                 293.499904,
                 184.500224,
@@ -10096,9 +9590,7 @@
         },
         {
             "id": 254,
-            "iscrowd": 0,
             "image_id": "XDU470",
-            "category_id": 1,
             "keypoints": [
                 272.0,
                 283.500032,
@@ -10126,9 +9618,7 @@
         },
         {
             "id": 255,
-            "iscrowd": 0,
             "image_id": "XDU473",
-            "category_id": 1,
             "keypoints": [
                 46.49984,
                 353.999872,
@@ -10147,9 +9637,7 @@
         },
         {
             "id": 256,
-            "iscrowd": 0,
             "image_id": "XDU474",
-            "category_id": 1,
             "keypoints": [
                 168.500224,
                 367.499776,
@@ -10168,9 +9656,7 @@
         },
         {
             "id": 257,
-            "iscrowd": 0,
             "image_id": "XDU475",
-            "category_id": 1,
             "keypoints": [
                 432.999936,
                 231.499776,
@@ -10189,9 +9675,7 @@
         },
         {
             "id": 258,
-            "iscrowd": 0,
             "image_id": "XDU477",
-            "category_id": 1,
             "keypoints": [
                 154.500096,
                 345.50016,
@@ -10219,9 +9703,7 @@
         },
         {
             "id": 259,
-            "iscrowd": 0,
             "image_id": "XDU479",
-            "category_id": 1,
             "keypoints": [
                 267.500032,
                 387.999744,
@@ -10249,9 +9731,7 @@
         },
         {
             "id": 260,
-            "iscrowd": 0,
             "image_id": "XDU480",
-            "category_id": 1,
             "keypoints": [
                 304.0,
                 202.500096,
@@ -10270,9 +9750,7 @@
         },
         {
             "id": 261,
-            "iscrowd": 0,
             "image_id": "XDU482",
-            "category_id": 1,
             "keypoints": [
                 261.000192,
                 271.499776,
@@ -10300,9 +9778,7 @@
         },
         {
             "id": 262,
-            "iscrowd": 0,
             "image_id": "XDU483",
-            "category_id": 1,
             "keypoints": [
                 208.0,
                 191.499776,
@@ -10321,9 +9797,7 @@
         },
         {
             "id": 263,
-            "iscrowd": 0,
             "image_id": "XDU484",
-            "category_id": 1,
             "keypoints": [
                 458.999808,
                 184.999936,
@@ -10342,9 +9816,7 @@
         },
         {
             "id": 264,
-            "iscrowd": 0,
             "image_id": "XDU485",
-            "category_id": 1,
             "keypoints": [
                 340.499968,
                 359.499776,
@@ -10363,9 +9835,7 @@
         },
         {
             "id": 265,
-            "iscrowd": 0,
             "image_id": "XDU487",
-            "category_id": 1,
             "keypoints": [
                 257.999872,
                 197.499904,
@@ -10384,9 +9854,7 @@
         },
         {
             "id": 266,
-            "iscrowd": 0,
             "image_id": "XDU490",
-            "category_id": 1,
             "keypoints": [
                 173.000192,
                 183.000064,
@@ -10405,9 +9873,7 @@
         },
         {
             "id": 267,
-            "iscrowd": 0,
             "image_id": "XDU492",
-            "category_id": 1,
             "keypoints": [
                 406.000128,
                 200.999936,
@@ -10435,9 +9901,7 @@
         },
         {
             "id": 268,
-            "iscrowd": 0,
             "image_id": "XDU493",
-            "category_id": 1,
             "keypoints": [
                 237.499904,
                 128.0,
@@ -10456,9 +9920,7 @@
         },
         {
             "id": 269,
-            "iscrowd": 0,
             "image_id": "XDU494",
-            "category_id": 1,
             "keypoints": [
                 446.000128,
                 196.499968,
@@ -10486,9 +9948,7 @@
         },
         {
             "id": 270,
-            "iscrowd": 0,
             "image_id": "XDU496",
-            "category_id": 1,
             "keypoints": [
                 272.500224,
                 371.500032,
@@ -10507,9 +9967,7 @@
         },
         {
             "id": 271,
-            "iscrowd": 0,
             "image_id": "XDU498",
-            "category_id": 1,
             "keypoints": [
                 157.499904,
                 248.0,
@@ -10528,9 +9986,7 @@
         },
         {
             "id": 272,
-            "iscrowd": 0,
             "image_id": "XDU5",
-            "category_id": 1,
             "keypoints": [
                 209.999872,
                 224.0,
@@ -10558,9 +10014,7 @@
         },
         {
             "id": 273,
-            "iscrowd": 0,
             "image_id": "XDU50",
-            "category_id": 1,
             "keypoints": [
                 88.500224,
                 287.499776,
@@ -10579,9 +10033,7 @@
         },
         {
             "id": 274,
-            "iscrowd": 0,
             "image_id": "XDU501",
-            "category_id": 1,
             "keypoints": [
                 163.500032,
                 328.500224,
@@ -10600,9 +10052,7 @@
         },
         {
             "id": 275,
-            "iscrowd": 0,
             "image_id": "XDU503",
-            "category_id": 1,
             "keypoints": [
                 428.499968,
                 164.499968,
@@ -10621,9 +10071,7 @@
         },
         {
             "id": 276,
-            "iscrowd": 0,
             "image_id": "XDU504",
-            "category_id": 1,
             "keypoints": [
                 149.499904,
                 24.999936,
@@ -10651,9 +10099,7 @@
         },
         {
             "id": 277,
-            "iscrowd": 0,
             "image_id": "XDU506",
-            "category_id": 1,
             "keypoints": [
                 336.500224,
                 141.499904,
@@ -10672,9 +10118,7 @@
         },
         {
             "id": 278,
-            "iscrowd": 0,
             "image_id": "XDU507",
-            "category_id": 1,
             "keypoints": [
                 120.999936,
                 352.999936,
@@ -10693,9 +10137,7 @@
         },
         {
             "id": 279,
-            "iscrowd": 0,
             "image_id": "XDU508",
-            "category_id": 1,
             "keypoints": [
                 425.999872,
                 156.000256,
@@ -10723,9 +10165,7 @@
         },
         {
             "id": 280,
-            "iscrowd": 0,
             "image_id": "XDU509",
-            "category_id": 1,
             "keypoints": [
                 353.999872,
                 318.49984,
@@ -10744,9 +10184,7 @@
         },
         {
             "id": 281,
-            "iscrowd": 0,
             "image_id": "XDU51",
-            "category_id": 1,
             "keypoints": [
                 427.500032,
                 169.999872,
@@ -10765,9 +10203,7 @@
         },
         {
             "id": 282,
-            "iscrowd": 0,
             "image_id": "XDU510",
-            "category_id": 1,
             "keypoints": [
                 421.000192,
                 114.500096,
@@ -10786,9 +10222,7 @@
         },
         {
             "id": 283,
-            "iscrowd": 0,
             "image_id": "XDU511",
-            "category_id": 1,
             "keypoints": [
                 69.499904,
                 181.000192,
@@ -10816,9 +10250,7 @@
         },
         {
             "id": 284,
-            "iscrowd": 0,
             "image_id": "XDU512",
-            "category_id": 1,
             "keypoints": [
                 169.999872,
                 232.500224,
@@ -10837,9 +10269,7 @@
         },
         {
             "id": 285,
-            "iscrowd": 0,
             "image_id": "XDU514",
-            "category_id": 1,
             "keypoints": [
                 302.49984,
                 285.499904,
@@ -10858,9 +10288,7 @@
         },
         {
             "id": 286,
-            "iscrowd": 0,
             "image_id": "XDU517",
-            "category_id": 1,
             "keypoints": [
                 99.500032,
                 383.499776,
@@ -10879,9 +10307,7 @@
         },
         {
             "id": 287,
-            "iscrowd": 0,
             "image_id": "XDU518",
-            "category_id": 1,
             "keypoints": [
                 320.500224,
                 208.999936,
@@ -10900,9 +10326,7 @@
         },
         {
             "id": 288,
-            "iscrowd": 0,
             "image_id": "XDU52",
-            "category_id": 1,
             "keypoints": [
                 204.499968,
                 409.50016,
@@ -10921,9 +10345,7 @@
         },
         {
             "id": 289,
-            "iscrowd": 0,
             "image_id": "XDU521",
-            "category_id": 1,
             "keypoints": [
                 245.000192,
                 347.500032,
@@ -10942,9 +10364,7 @@
         },
         {
             "id": 290,
-            "iscrowd": 0,
             "image_id": "XDU522",
-            "category_id": 1,
             "keypoints": [
                 250.500096,
                 290.500096,
@@ -10963,9 +10383,7 @@
         },
         {
             "id": 291,
-            "iscrowd": 0,
             "image_id": "XDU523",
-            "category_id": 1,
             "keypoints": [
                 326.000128,
                 394.500096,
@@ -10993,9 +10411,7 @@
         },
         {
             "id": 292,
-            "iscrowd": 0,
             "image_id": "XDU525",
-            "category_id": 1,
             "keypoints": [
                 353.50016,
                 288.999936,
@@ -11014,9 +10430,7 @@
         },
         {
             "id": 293,
-            "iscrowd": 0,
             "image_id": "XDU526",
-            "category_id": 1,
             "keypoints": [
                 103.000064,
                 312.500224,
@@ -11044,9 +10458,7 @@
         },
         {
             "id": 294,
-            "iscrowd": 0,
             "image_id": "XDU527",
-            "category_id": 1,
             "keypoints": [
                 152.999936,
                 205.000192,
@@ -11065,9 +10477,7 @@
         },
         {
             "id": 295,
-            "iscrowd": 0,
             "image_id": "XDU529",
-            "category_id": 1,
             "keypoints": [
                 443.500032,
                 383.000064,
@@ -11086,9 +10496,7 @@
         },
         {
             "id": 296,
-            "iscrowd": 0,
             "image_id": "XDU530",
-            "category_id": 1,
             "keypoints": [
                 194.999808,
                 363.500032,
@@ -11107,9 +10515,7 @@
         },
         {
             "id": 297,
-            "iscrowd": 0,
             "image_id": "XDU531",
-            "category_id": 1,
             "keypoints": [
                 361.999872,
                 392.999936,
@@ -11137,9 +10543,7 @@
         },
         {
             "id": 298,
-            "iscrowd": 0,
             "image_id": "XDU532",
-            "category_id": 1,
             "keypoints": [
                 105.50016,
                 234.500096,
@@ -11167,9 +10571,7 @@
         },
         {
             "id": 299,
-            "iscrowd": 0,
             "image_id": "XDU534",
-            "category_id": 1,
             "keypoints": [
                 289.50016,
                 112.0,
@@ -11197,9 +10599,7 @@
         },
         {
             "id": 300,
-            "iscrowd": 0,
             "image_id": "XDU536",
-            "category_id": 1,
             "keypoints": [
                 246.000128,
                 369.999872,
@@ -11236,9 +10636,7 @@
         },
         {
             "id": 301,
-            "iscrowd": 0,
             "image_id": "XDU538",
-            "category_id": 1,
             "keypoints": [
                 178.500096,
                 115.999744,
@@ -11257,9 +10655,7 @@
         },
         {
             "id": 302,
-            "iscrowd": 0,
             "image_id": "XDU539",
-            "category_id": 1,
             "keypoints": [
                 430.49984,
                 166.000128,
@@ -11278,9 +10674,7 @@
         },
         {
             "id": 303,
-            "iscrowd": 0,
             "image_id": "XDU54",
-            "category_id": 1,
             "keypoints": [
                 206.49984,
                 271.499776,
@@ -11308,9 +10702,7 @@
         },
         {
             "id": 304,
-            "iscrowd": 0,
             "image_id": "XDU542",
-            "category_id": 1,
             "keypoints": [
                 340.499968,
                 417.50016,
@@ -11338,9 +10730,7 @@
         },
         {
             "id": 305,
-            "iscrowd": 0,
             "image_id": "XDU543",
-            "category_id": 1,
             "keypoints": [
                 201.999872,
                 242.500096,
@@ -11377,9 +10767,7 @@
         },
         {
             "id": 306,
-            "iscrowd": 0,
             "image_id": "XDU544",
-            "category_id": 1,
             "keypoints": [
                 290.500096,
                 269.000192,
@@ -11398,9 +10786,7 @@
         },
         {
             "id": 307,
-            "iscrowd": 0,
             "image_id": "XDU547",
-            "category_id": 1,
             "keypoints": [
                 416.999936,
                 329.999872,
@@ -11419,9 +10805,7 @@
         },
         {
             "id": 308,
-            "iscrowd": 0,
             "image_id": "XDU549",
-            "category_id": 1,
             "keypoints": [
                 338.500096,
                 155.500032,
@@ -11449,9 +10833,7 @@
         },
         {
             "id": 309,
-            "iscrowd": 0,
             "image_id": "XDU551",
-            "category_id": 1,
             "keypoints": [
                 263.000064,
                 401.50016,
@@ -11479,9 +10861,7 @@
         },
         {
             "id": 310,
-            "iscrowd": 0,
             "image_id": "XDU552",
-            "category_id": 1,
             "keypoints": [
                 268.000256,
                 100.499968,
@@ -11500,9 +10880,7 @@
         },
         {
             "id": 311,
-            "iscrowd": 0,
             "image_id": "XDU554",
-            "category_id": 1,
             "keypoints": [
                 497.999872,
                 246.000128,
@@ -11521,9 +10899,7 @@
         },
         {
             "id": 312,
-            "iscrowd": 0,
             "image_id": "XDU557",
-            "category_id": 1,
             "keypoints": [
                 319.499776,
                 182.49984,
@@ -11551,9 +10927,7 @@
         },
         {
             "id": 313,
-            "iscrowd": 0,
             "image_id": "XDU558",
-            "category_id": 1,
             "keypoints": [
                 412.499968,
                 362.999808,
@@ -11581,9 +10955,7 @@
         },
         {
             "id": 314,
-            "iscrowd": 0,
             "image_id": "XDU559",
-            "category_id": 1,
             "keypoints": [
                 95.000064,
                 408.0,
@@ -11611,9 +10983,7 @@
         },
         {
             "id": 315,
-            "iscrowd": 0,
             "image_id": "XDU56",
-            "category_id": 1,
             "keypoints": [
                 240.999936,
                 269.000192,
@@ -11632,9 +11002,7 @@
         },
         {
             "id": 316,
-            "iscrowd": 0,
             "image_id": "XDU561",
-            "category_id": 1,
             "keypoints": [
                 264.999936,
                 328.999936,
@@ -11662,9 +11030,7 @@
         },
         {
             "id": 317,
-            "iscrowd": 0,
             "image_id": "XDU562",
-            "category_id": 1,
             "keypoints": [
                 238.49984,
                 240.500224,
@@ -11692,9 +11058,7 @@
         },
         {
             "id": 318,
-            "iscrowd": 0,
             "image_id": "XDU564",
-            "category_id": 1,
             "keypoints": [
                 442.999808,
                 243.999744,
@@ -11713,9 +11077,7 @@
         },
         {
             "id": 319,
-            "iscrowd": 0,
             "image_id": "XDU567",
-            "category_id": 1,
             "keypoints": [
                 220.000256,
                 209.50016,
@@ -11734,9 +11096,7 @@
         },
         {
             "id": 320,
-            "iscrowd": 0,
             "image_id": "XDU569",
-            "category_id": 1,
             "keypoints": [
                 442.500096,
                 449.999872,
@@ -11755,9 +11115,7 @@
         },
         {
             "id": 321,
-            "iscrowd": 0,
             "image_id": "XDU57",
-            "category_id": 1,
             "keypoints": [
                 341.499904,
                 137.50016,
@@ -11776,9 +11134,7 @@
         },
         {
             "id": 322,
-            "iscrowd": 0,
             "image_id": "XDU570",
-            "category_id": 1,
             "keypoints": [
                 176.500224,
                 310.000128,
@@ -11797,9 +11153,7 @@
         },
         {
             "id": 323,
-            "iscrowd": 0,
             "image_id": "XDU573",
-            "category_id": 1,
             "keypoints": [
                 178.999808,
                 238.000128,
@@ -11827,9 +11181,7 @@
         },
         {
             "id": 324,
-            "iscrowd": 0,
             "image_id": "XDU576",
-            "category_id": 1,
             "keypoints": [
                 195.999744,
                 381.000192,
@@ -11848,9 +11200,7 @@
         },
         {
             "id": 325,
-            "iscrowd": 0,
             "image_id": "XDU577",
-            "category_id": 1,
             "keypoints": [
                 239.000064,
                 118.000128,
@@ -11878,9 +11228,7 @@
         },
         {
             "id": 326,
-            "iscrowd": 0,
             "image_id": "XDU578",
-            "category_id": 1,
             "keypoints": [
                 54.49984,
                 105.999872,
@@ -11917,9 +11265,7 @@
         },
         {
             "id": 327,
-            "iscrowd": 0,
             "image_id": "XDU579",
-            "category_id": 1,
             "keypoints": [
                 383.499776,
                 209.999872,
@@ -11938,9 +11284,7 @@
         },
         {
             "id": 328,
-            "iscrowd": 0,
             "image_id": "XDU580",
-            "category_id": 1,
             "keypoints": [
                 344.999936,
                 274.500096,
@@ -11968,9 +11312,7 @@
         },
         {
             "id": 329,
-            "iscrowd": 0,
             "image_id": "XDU581",
-            "category_id": 1,
             "keypoints": [
                 220.000256,
                 101.000192,
@@ -11989,9 +11331,7 @@
         },
         {
             "id": 330,
-            "iscrowd": 0,
             "image_id": "XDU582",
-            "category_id": 1,
             "keypoints": [
                 321.999872,
                 181.000192,
@@ -12010,9 +11350,7 @@
         },
         {
             "id": 331,
-            "iscrowd": 0,
             "image_id": "XDU583",
-            "category_id": 1,
             "keypoints": [
                 192.999936,
                 285.000192,
@@ -12031,9 +11369,7 @@
         },
         {
             "id": 332,
-            "iscrowd": 0,
             "image_id": "XDU585",
-            "category_id": 1,
             "keypoints": [
                 110.000128,
                 119.499776,
@@ -12070,9 +11406,7 @@
         },
         {
             "id": 333,
-            "iscrowd": 0,
             "image_id": "XDU586",
-            "category_id": 1,
             "keypoints": [
                 447.000064,
                 202.500096,
@@ -12100,9 +11434,7 @@
         },
         {
             "id": 334,
-            "iscrowd": 0,
             "image_id": "XDU588",
-            "category_id": 1,
             "keypoints": [
                 222.49984,
                 365.499904,
@@ -12130,9 +11462,7 @@
         },
         {
             "id": 335,
-            "iscrowd": 0,
             "image_id": "XDU590",
-            "category_id": 1,
             "keypoints": [
                 194.500096,
                 295.000064,
@@ -12160,9 +11490,7 @@
         },
         {
             "id": 336,
-            "iscrowd": 0,
             "image_id": "XDU591",
-            "category_id": 1,
             "keypoints": [
                 431.499776,
                 170.999808,
@@ -12181,9 +11509,7 @@
         },
         {
             "id": 337,
-            "iscrowd": 0,
             "image_id": "XDU592",
-            "category_id": 1,
             "keypoints": [
                 278.49984,
                 99.999744,
@@ -12202,9 +11528,7 @@
         },
         {
             "id": 338,
-            "iscrowd": 0,
             "image_id": "XDU593",
-            "category_id": 1,
             "keypoints": [
                 291.999744,
                 186.500096,
@@ -12250,9 +11574,7 @@
         },
         {
             "id": 339,
-            "iscrowd": 0,
             "image_id": "XDU597",
-            "category_id": 1,
             "keypoints": [
                 490.999808,
                 345.999872,
@@ -12289,9 +11611,7 @@
         },
         {
             "id": 340,
-            "iscrowd": 0,
             "image_id": "XDU599",
-            "category_id": 1,
             "keypoints": [
                 257.999872,
                 184.500224,
@@ -12319,9 +11639,7 @@
         },
         {
             "id": 341,
-            "iscrowd": 0,
             "image_id": "XDU6",
-            "category_id": 1,
             "keypoints": [
                 423.499776,
                 237.499904,
@@ -12340,9 +11658,7 @@
         },
         {
             "id": 342,
-            "iscrowd": 0,
             "image_id": "XDU600",
-            "category_id": 1,
             "keypoints": [
                 251.500032,
                 420.499968,
@@ -12361,9 +11677,7 @@
         },
         {
             "id": 343,
-            "iscrowd": 0,
             "image_id": "XDU601",
-            "category_id": 1,
             "keypoints": [
                 300.499968,
                 289.50016,
@@ -12382,9 +11696,7 @@
         },
         {
             "id": 344,
-            "iscrowd": 0,
             "image_id": "XDU602",
-            "category_id": 1,
             "keypoints": [
                 120.500224,
                 458.500096,
@@ -12403,9 +11715,7 @@
         },
         {
             "id": 345,
-            "iscrowd": 0,
             "image_id": "XDU605",
-            "category_id": 1,
             "keypoints": [
                 150.49984,
                 327.000064,
@@ -12433,9 +11743,7 @@
         },
         {
             "id": 346,
-            "iscrowd": 0,
             "image_id": "XDU606",
-            "category_id": 1,
             "keypoints": [
                 253.000192,
                 294.49984,
@@ -12463,9 +11771,7 @@
         },
         {
             "id": 347,
-            "iscrowd": 0,
             "image_id": "XDU609",
-            "category_id": 1,
             "keypoints": [
                 370.999808,
                 240.500224,
@@ -12493,9 +11799,7 @@
         },
         {
             "id": 348,
-            "iscrowd": 0,
             "image_id": "XDU610",
-            "category_id": 1,
             "keypoints": [
                 303.499776,
                 213.499904,
@@ -12523,9 +11827,7 @@
         },
         {
             "id": 349,
-            "iscrowd": 0,
             "image_id": "XDU611",
-            "category_id": 1,
             "keypoints": [
                 504.500224,
                 484.499968,
@@ -12544,9 +11846,7 @@
         },
         {
             "id": 350,
-            "iscrowd": 0,
             "image_id": "XDU612",
-            "category_id": 1,
             "keypoints": [
                 334.49984,
                 492.499968,
@@ -12592,9 +11892,7 @@
         },
         {
             "id": 351,
-            "iscrowd": 0,
             "image_id": "XDU613",
-            "category_id": 1,
             "keypoints": [
                 355.999744,
                 246.000128,
@@ -12613,9 +11911,7 @@
         },
         {
             "id": 352,
-            "iscrowd": 0,
             "image_id": "XDU614",
-            "category_id": 1,
             "keypoints": [
                 257.999872,
                 279.000064,
@@ -12634,9 +11930,7 @@
         },
         {
             "id": 353,
-            "iscrowd": 0,
             "image_id": "XDU615",
-            "category_id": 1,
             "keypoints": [
                 96.0,
                 245.000192,
@@ -12664,9 +11958,7 @@
         },
         {
             "id": 354,
-            "iscrowd": 0,
             "image_id": "XDU619",
-            "category_id": 1,
             "keypoints": [
                 232.999936,
                 113.50016,
@@ -12685,9 +11977,7 @@
         },
         {
             "id": 355,
-            "iscrowd": 0,
             "image_id": "XDU62",
-            "category_id": 1,
             "keypoints": [
                 298.999808,
                 240.500224,
@@ -12706,9 +11996,7 @@
         },
         {
             "id": 356,
-            "iscrowd": 0,
             "image_id": "XDU620",
-            "category_id": 1,
             "keypoints": [
                 179.999744,
                 350.000128,
@@ -12727,9 +12015,7 @@
         },
         {
             "id": 357,
-            "iscrowd": 0,
             "image_id": "XDU621",
-            "category_id": 1,
             "keypoints": [
                 309.000192,
                 338.500096,
@@ -12748,9 +12034,7 @@
         },
         {
             "id": 358,
-            "iscrowd": 0,
             "image_id": "XDU624",
-            "category_id": 1,
             "keypoints": [
                 339.500032,
                 285.000192,
@@ -12787,9 +12071,7 @@
         },
         {
             "id": 359,
-            "iscrowd": 0,
             "image_id": "XDU626",
-            "category_id": 1,
             "keypoints": [
                 205.000192,
                 86.000128,
@@ -12817,9 +12099,7 @@
         },
         {
             "id": 360,
-            "iscrowd": 0,
             "image_id": "XDU627",
-            "category_id": 1,
             "keypoints": [
                 212.499968,
                 303.499776,
@@ -12847,9 +12127,7 @@
         },
         {
             "id": 361,
-            "iscrowd": 0,
             "image_id": "XDU63",
-            "category_id": 1,
             "keypoints": [
                 471.499776,
                 302.000128,
@@ -12868,9 +12146,7 @@
         },
         {
             "id": 362,
-            "iscrowd": 0,
             "image_id": "XDU632",
-            "category_id": 1,
             "keypoints": [
                 285.499904,
                 308.499968,
@@ -12889,9 +12165,7 @@
         },
         {
             "id": 363,
-            "iscrowd": 0,
             "image_id": "XDU634",
-            "category_id": 1,
             "keypoints": [
                 400.0,
                 122.999808,
@@ -12910,9 +12184,7 @@
         },
         {
             "id": 364,
-            "iscrowd": 0,
             "image_id": "XDU635",
-            "category_id": 1,
             "keypoints": [
                 247.499776,
                 281.50016,
@@ -12940,9 +12212,7 @@
         },
         {
             "id": 365,
-            "iscrowd": 0,
             "image_id": "XDU636",
-            "category_id": 1,
             "keypoints": [
                 189.000192,
                 318.49984,
@@ -12979,9 +12249,7 @@
         },
         {
             "id": 366,
-            "iscrowd": 0,
             "image_id": "XDU637",
-            "category_id": 1,
             "keypoints": [
                 456.999936,
                 254.49984,
@@ -13018,9 +12286,7 @@
         },
         {
             "id": 367,
-            "iscrowd": 0,
             "image_id": "XDU638",
-            "category_id": 1,
             "keypoints": [
                 280.0,
                 394.500096,
@@ -13039,9 +12305,7 @@
         },
         {
             "id": 368,
-            "iscrowd": 0,
             "image_id": "XDU639",
-            "category_id": 1,
             "keypoints": [
                 333.000192,
                 302.49984,
@@ -13060,9 +12324,7 @@
         },
         {
             "id": 369,
-            "iscrowd": 0,
             "image_id": "XDU640",
-            "category_id": 1,
             "keypoints": [
                 360.500224,
                 324.499968,
@@ -13081,9 +12343,7 @@
         },
         {
             "id": 370,
-            "iscrowd": 0,
             "image_id": "XDU641",
-            "category_id": 1,
             "keypoints": [
                 410.999808,
                 221.000192,
@@ -13111,9 +12371,7 @@
         },
         {
             "id": 371,
-            "iscrowd": 0,
             "image_id": "XDU642",
-            "category_id": 1,
             "keypoints": [
                 276.499968,
                 349.499904,
@@ -13150,9 +12408,7 @@
         },
         {
             "id": 372,
-            "iscrowd": 0,
             "image_id": "XDU644",
-            "category_id": 1,
             "keypoints": [
                 333.000192,
                 294.49984,
@@ -13189,9 +12445,7 @@
         },
         {
             "id": 373,
-            "iscrowd": 0,
             "image_id": "XDU647",
-            "category_id": 1,
             "keypoints": [
                 76.000256,
                 183.000064,
@@ -13210,9 +12464,7 @@
         },
         {
             "id": 374,
-            "iscrowd": 0,
             "image_id": "XDU648",
-            "category_id": 1,
             "keypoints": [
                 288.500224,
                 238.000128,
@@ -13231,9 +12483,7 @@
         },
         {
             "id": 375,
-            "iscrowd": 0,
             "image_id": "XDU649",
-            "category_id": 1,
             "keypoints": [
                 444.499968,
                 243.999744,
@@ -13252,9 +12502,7 @@
         },
         {
             "id": 376,
-            "iscrowd": 0,
             "image_id": "XDU653",
-            "category_id": 1,
             "keypoints": [
                 369.999872,
                 154.500096,
@@ -13273,9 +12521,7 @@
         },
         {
             "id": 377,
-            "iscrowd": 0,
             "image_id": "XDU654",
-            "category_id": 1,
             "keypoints": [
                 256.500224,
                 164.499968,
@@ -13294,9 +12540,7 @@
         },
         {
             "id": 378,
-            "iscrowd": 0,
             "image_id": "XDU655",
-            "category_id": 1,
             "keypoints": [
                 180.499968,
                 227.500032,
@@ -13324,9 +12568,7 @@
         },
         {
             "id": 379,
-            "iscrowd": 0,
             "image_id": "XDU656",
-            "category_id": 1,
             "keypoints": [
                 176.500224,
                 287.499776,
@@ -13354,9 +12596,7 @@
         },
         {
             "id": 380,
-            "iscrowd": 0,
             "image_id": "XDU659",
-            "category_id": 1,
             "keypoints": [
                 264.500224,
                 97.999872,
@@ -13375,9 +12615,7 @@
         },
         {
             "id": 381,
-            "iscrowd": 0,
             "image_id": "XDU66",
-            "category_id": 1,
             "keypoints": [
                 280.500224,
                 133.499904,
@@ -13396,9 +12634,7 @@
         },
         {
             "id": 382,
-            "iscrowd": 0,
             "image_id": "XDU660",
-            "category_id": 1,
             "keypoints": [
                 31.499776,
                 442.500096,
@@ -13417,9 +12653,7 @@
         },
         {
             "id": 383,
-            "iscrowd": 0,
             "image_id": "XDU661",
-            "category_id": 1,
             "keypoints": [
                 157.499904,
                 200.0,
@@ -13438,9 +12672,7 @@
         },
         {
             "id": 384,
-            "iscrowd": 0,
             "image_id": "XDU662",
-            "category_id": 1,
             "keypoints": [
                 332.499968,
                 163.500032,
@@ -13459,9 +12691,7 @@
         },
         {
             "id": 385,
-            "iscrowd": 0,
             "image_id": "XDU663",
-            "category_id": 1,
             "keypoints": [
                 245.000192,
                 86.49984,
@@ -13480,9 +12710,7 @@
         },
         {
             "id": 386,
-            "iscrowd": 0,
             "image_id": "XDU664",
-            "category_id": 1,
             "keypoints": [
                 381.000192,
                 476.499968,
@@ -13501,9 +12729,7 @@
         },
         {
             "id": 387,
-            "iscrowd": 0,
             "image_id": "XDU666",
-            "category_id": 1,
             "keypoints": [
                 278.000128,
                 225.50016,
@@ -13522,9 +12748,7 @@
         },
         {
             "id": 388,
-            "iscrowd": 0,
             "image_id": "XDU668",
-            "category_id": 1,
             "keypoints": [
                 301.499904,
                 386.500096,
@@ -13543,9 +12767,7 @@
         },
         {
             "id": 389,
-            "iscrowd": 0,
             "image_id": "XDU669",
-            "category_id": 1,
             "keypoints": [
                 360.999936,
                 167.000064,
@@ -13564,9 +12786,7 @@
         },
         {
             "id": 390,
-            "iscrowd": 0,
             "image_id": "XDU67",
-            "category_id": 1,
             "keypoints": [
                 327.499776,
                 80.999936,
@@ -13585,9 +12805,7 @@
         },
         {
             "id": 391,
-            "iscrowd": 0,
             "image_id": "XDU671",
-            "category_id": 1,
             "keypoints": [
                 220.499968,
                 393.999872,
@@ -13615,9 +12833,7 @@
         },
         {
             "id": 392,
-            "iscrowd": 0,
             "image_id": "XDU673",
-            "category_id": 1,
             "keypoints": [
                 261.000192,
                 348.499968,
@@ -13636,9 +12852,7 @@
         },
         {
             "id": 393,
-            "iscrowd": 0,
             "image_id": "XDU676",
-            "category_id": 1,
             "keypoints": [
                 477.499904,
                 287.499776,
@@ -13657,9 +12871,7 @@
         },
         {
             "id": 394,
-            "iscrowd": 0,
             "image_id": "XDU677",
-            "category_id": 1,
             "keypoints": [
                 446.49984,
                 119.499776,
@@ -13687,9 +12899,7 @@
         },
         {
             "id": 395,
-            "iscrowd": 0,
             "image_id": "XDU678",
-            "category_id": 1,
             "keypoints": [
                 234.500096,
                 127.000064,
@@ -13708,9 +12918,7 @@
         },
         {
             "id": 396,
-            "iscrowd": 0,
             "image_id": "XDU679",
-            "category_id": 1,
             "keypoints": [
                 223.499776,
                 174.49984,
@@ -13729,9 +12937,7 @@
         },
         {
             "id": 397,
-            "iscrowd": 0,
             "image_id": "XDU680",
-            "category_id": 1,
             "keypoints": [
                 206.49984,
                 270.49984,
@@ -13768,9 +12974,7 @@
         },
         {
             "id": 398,
-            "iscrowd": 0,
             "image_id": "XDU681",
-            "category_id": 1,
             "keypoints": [
                 83.999744,
                 227.500032,
@@ -13789,9 +12993,7 @@
         },
         {
             "id": 399,
-            "iscrowd": 0,
             "image_id": "XDU682",
-            "category_id": 1,
             "keypoints": [
                 165.000192,
                 174.000128,
@@ -13810,9 +13012,7 @@
         },
         {
             "id": 400,
-            "iscrowd": 0,
             "image_id": "XDU684",
-            "category_id": 1,
             "keypoints": [
                 167.000064,
                 109.000192,
@@ -13840,9 +13040,7 @@
         },
         {
             "id": 401,
-            "iscrowd": 0,
             "image_id": "XDU685",
-            "category_id": 1,
             "keypoints": [
                 142.49984,
                 304.500224,
@@ -13861,9 +13059,7 @@
         },
         {
             "id": 402,
-            "iscrowd": 0,
             "image_id": "XDU686",
-            "category_id": 1,
             "keypoints": [
                 294.000128,
                 199.000064,
@@ -13882,9 +13078,7 @@
         },
         {
             "id": 403,
-            "iscrowd": 0,
             "image_id": "XDU687",
-            "category_id": 1,
             "keypoints": [
                 208.500224,
                 144.500224,
@@ -13903,9 +13097,7 @@
         },
         {
             "id": 404,
-            "iscrowd": 0,
             "image_id": "XDU688",
-            "category_id": 1,
             "keypoints": [
                 237.000192,
                 386.500096,
@@ -13924,9 +13116,7 @@
         },
         {
             "id": 405,
-            "iscrowd": 0,
             "image_id": "XDU690",
-            "category_id": 1,
             "keypoints": [
                 103.499776,
                 439.000064,
@@ -13954,9 +13144,7 @@
         },
         {
             "id": 406,
-            "iscrowd": 0,
             "image_id": "XDU691",
-            "category_id": 1,
             "keypoints": [
                 130.999808,
                 43.500032,
@@ -13975,9 +13163,7 @@
         },
         {
             "id": 407,
-            "iscrowd": 0,
             "image_id": "XDU692",
-            "category_id": 1,
             "keypoints": [
                 248.0,
                 224.500224,
@@ -13996,9 +13182,7 @@
         },
         {
             "id": 408,
-            "iscrowd": 0,
             "image_id": "XDU695",
-            "category_id": 1,
             "keypoints": [
                 128.999936,
                 72.0,
@@ -14017,9 +13201,7 @@
         },
         {
             "id": 409,
-            "iscrowd": 0,
             "image_id": "XDU697",
-            "category_id": 1,
             "keypoints": [
                 432.999936,
                 286.000128,
@@ -14038,9 +13220,7 @@
         },
         {
             "id": 410,
-            "iscrowd": 0,
             "image_id": "XDU698",
-            "category_id": 1,
             "keypoints": [
                 362.999808,
                 271.000064,
@@ -14059,9 +13239,7 @@
         },
         {
             "id": 411,
-            "iscrowd": 0,
             "image_id": "XDU7",
-            "category_id": 1,
             "keypoints": [
                 330.500096,
                 227.999744,
@@ -14080,9 +13258,7 @@
         },
         {
             "id": 412,
-            "iscrowd": 0,
             "image_id": "XDU700",
-            "category_id": 1,
             "keypoints": [
                 275.999744,
                 261.000192,
@@ -14101,9 +13277,7 @@
         },
         {
             "id": 413,
-            "iscrowd": 0,
             "image_id": "XDU702",
-            "category_id": 1,
             "keypoints": [
                 307.500032,
                 439.000064,
@@ -14140,9 +13314,7 @@
         },
         {
             "id": 414,
-            "iscrowd": 0,
             "image_id": "XDU706",
-            "category_id": 1,
             "keypoints": [
                 298.500096,
                 441.999872,
@@ -14170,9 +13342,7 @@
         },
         {
             "id": 415,
-            "iscrowd": 0,
             "image_id": "XDU709",
-            "category_id": 1,
             "keypoints": [
                 397.000192,
                 115.500032,
@@ -14191,9 +13361,7 @@
         },
         {
             "id": 416,
-            "iscrowd": 0,
             "image_id": "XDU710",
-            "category_id": 1,
             "keypoints": [
                 169.50016,
                 206.49984,
@@ -14212,9 +13380,7 @@
         },
         {
             "id": 417,
-            "iscrowd": 0,
             "image_id": "XDU711",
-            "category_id": 1,
             "keypoints": [
                 353.50016,
                 247.499776,
@@ -14260,9 +13426,7 @@
         },
         {
             "id": 418,
-            "iscrowd": 0,
             "image_id": "XDU712",
-            "category_id": 1,
             "keypoints": [
                 406.000128,
                 153.999872,
@@ -14281,9 +13445,7 @@
         },
         {
             "id": 419,
-            "iscrowd": 0,
             "image_id": "XDU713",
-            "category_id": 1,
             "keypoints": [
                 223.499776,
                 15.499776,
@@ -14311,9 +13473,7 @@
         },
         {
             "id": 420,
-            "iscrowd": 0,
             "image_id": "XDU715",
-            "category_id": 1,
             "keypoints": [
                 415.499776,
                 192.500224,
@@ -14332,9 +13492,7 @@
         },
         {
             "id": 421,
-            "iscrowd": 0,
             "image_id": "XDU719",
-            "category_id": 1,
             "keypoints": [
                 274.500096,
                 336.500224,
@@ -14362,9 +13520,7 @@
         },
         {
             "id": 422,
-            "iscrowd": 0,
             "image_id": "XDU720",
-            "category_id": 1,
             "keypoints": [
                 328.0,
                 392.999936,
@@ -14392,9 +13548,7 @@
         },
         {
             "id": 423,
-            "iscrowd": 0,
             "image_id": "XDU722",
-            "category_id": 1,
             "keypoints": [
                 240.0,
                 373.499904,
@@ -14413,9 +13567,7 @@
         },
         {
             "id": 424,
-            "iscrowd": 0,
             "image_id": "XDU723",
-            "category_id": 1,
             "keypoints": [
                 284.499968,
                 132.499968,
@@ -14434,9 +13586,7 @@
         },
         {
             "id": 425,
-            "iscrowd": 0,
             "image_id": "XDU726",
-            "category_id": 1,
             "keypoints": [
                 131.999744,
                 137.50016,
@@ -14464,9 +13614,7 @@
         },
         {
             "id": 426,
-            "iscrowd": 0,
             "image_id": "XDU727",
-            "category_id": 1,
             "keypoints": [
                 366.49984,
                 418.999808,
@@ -14485,9 +13633,7 @@
         },
         {
             "id": 427,
-            "iscrowd": 0,
             "image_id": "XDU729",
-            "category_id": 1,
             "keypoints": [
                 499.500032,
                 350.000128,
@@ -14515,9 +13661,7 @@
         },
         {
             "id": 428,
-            "iscrowd": 0,
             "image_id": "XDU73",
-            "category_id": 1,
             "keypoints": [
                 378.500096,
                 369.50016,
@@ -14536,9 +13680,7 @@
         },
         {
             "id": 429,
-            "iscrowd": 0,
             "image_id": "XDU730",
-            "category_id": 1,
             "keypoints": [
                 255.000064,
                 256.500224,
@@ -14557,9 +13699,7 @@
         },
         {
             "id": 430,
-            "iscrowd": 0,
             "image_id": "XDU731",
-            "category_id": 1,
             "keypoints": [
                 282.500096,
                 141.000192,
@@ -14578,9 +13718,7 @@
         },
         {
             "id": 431,
-            "iscrowd": 0,
             "image_id": "XDU732",
-            "category_id": 1,
             "keypoints": [
                 359.000064,
                 245.499904,
@@ -14599,9 +13737,7 @@
         },
         {
             "id": 432,
-            "iscrowd": 0,
             "image_id": "XDU736",
-            "category_id": 1,
             "keypoints": [
                 441.50016,
                 102.49984,
@@ -14629,9 +13765,7 @@
         },
         {
             "id": 433,
-            "iscrowd": 0,
             "image_id": "XDU739",
-            "category_id": 1,
             "keypoints": [
                 381.499904,
                 300.000256,
@@ -14659,9 +13793,7 @@
         },
         {
             "id": 434,
-            "iscrowd": 0,
             "image_id": "XDU741",
-            "category_id": 1,
             "keypoints": [
                 239.499776,
                 300.499968,
@@ -14680,9 +13812,7 @@
         },
         {
             "id": 435,
-            "iscrowd": 0,
             "image_id": "XDU743",
-            "category_id": 1,
             "keypoints": [
                 160.0,
                 155.500032,
@@ -14710,9 +13840,7 @@
         },
         {
             "id": 436,
-            "iscrowd": 0,
             "image_id": "XDU745",
-            "category_id": 1,
             "keypoints": [
                 258.500096,
                 253.000192,
@@ -14731,9 +13859,7 @@
         },
         {
             "id": 437,
-            "iscrowd": 0,
             "image_id": "XDU746",
-            "category_id": 1,
             "keypoints": [
                 99.500032,
                 188.000256,
@@ -14752,9 +13878,7 @@
         },
         {
             "id": 438,
-            "iscrowd": 0,
             "image_id": "XDU747",
-            "category_id": 1,
             "keypoints": [
                 150.49984,
                 410.500096,
@@ -14773,9 +13897,7 @@
         },
         {
             "id": 439,
-            "iscrowd": 0,
             "image_id": "XDU748",
-            "category_id": 1,
             "keypoints": [
                 206.49984,
                 349.499904,
@@ -14803,9 +13925,7 @@
         },
         {
             "id": 440,
-            "iscrowd": 0,
             "image_id": "XDU750",
-            "category_id": 1,
             "keypoints": [
                 273.50016,
                 50.500096,
@@ -14824,9 +13944,7 @@
         },
         {
             "id": 441,
-            "iscrowd": 0,
             "image_id": "XDU752",
-            "category_id": 1,
             "keypoints": [
                 229.000192,
                 243.500032,
@@ -14845,9 +13963,7 @@
         },
         {
             "id": 442,
-            "iscrowd": 0,
             "image_id": "XDU756",
-            "category_id": 1,
             "keypoints": [
                 433.50016,
                 67.500032,
@@ -14866,9 +13982,7 @@
         },
         {
             "id": 443,
-            "iscrowd": 0,
             "image_id": "XDU757",
-            "category_id": 1,
             "keypoints": [
                 279.000064,
                 364.499968,
@@ -14887,9 +14001,7 @@
         },
         {
             "id": 444,
-            "iscrowd": 0,
             "image_id": "XDU758",
-            "category_id": 1,
             "keypoints": [
                 237.000192,
                 203.500032,
@@ -14908,9 +14020,7 @@
         },
         {
             "id": 445,
-            "iscrowd": 0,
             "image_id": "XDU759",
-            "category_id": 1,
             "keypoints": [
                 371.999744,
                 98.999808,
@@ -14929,9 +14039,7 @@
         },
         {
             "id": 446,
-            "iscrowd": 0,
             "image_id": "XDU76",
-            "category_id": 1,
             "keypoints": [
                 408.0,
                 253.499904,
@@ -14950,9 +14058,7 @@
         },
         {
             "id": 447,
-            "iscrowd": 0,
             "image_id": "XDU760",
-            "category_id": 1,
             "keypoints": [
                 88.0,
                 29.000192,
@@ -14971,9 +14077,7 @@
         },
         {
             "id": 448,
-            "iscrowd": 0,
             "image_id": "XDU763",
-            "category_id": 1,
             "keypoints": [
                 411.500032,
                 261.499904,
@@ -14992,9 +14096,7 @@
         },
         {
             "id": 449,
-            "iscrowd": 0,
             "image_id": "XDU764",
-            "category_id": 1,
             "keypoints": [
                 304.999936,
                 250.500096,
@@ -15013,9 +14115,7 @@
         },
         {
             "id": 450,
-            "iscrowd": 0,
             "image_id": "XDU765",
-            "category_id": 1,
             "keypoints": [
                 189.000192,
                 346.999808,
@@ -15034,9 +14134,7 @@
         },
         {
             "id": 451,
-            "iscrowd": 0,
             "image_id": "XDU766",
-            "category_id": 1,
             "keypoints": [
                 193.999872,
                 264.0,
@@ -15064,9 +14162,7 @@
         },
         {
             "id": 452,
-            "iscrowd": 0,
             "image_id": "XDU77",
-            "category_id": 1,
             "keypoints": [
                 344.999936,
                 111.000064,
@@ -15085,9 +14181,7 @@
         },
         {
             "id": 453,
-            "iscrowd": 0,
             "image_id": "XDU770",
-            "category_id": 1,
             "keypoints": [
                 133.499904,
                 85.499904,
@@ -15106,9 +14200,7 @@
         },
         {
             "id": 454,
-            "iscrowd": 0,
             "image_id": "XDU773",
-            "category_id": 1,
             "keypoints": [
                 250.999808,
                 188.499968,
@@ -15127,9 +14219,7 @@
         },
         {
             "id": 455,
-            "iscrowd": 0,
             "image_id": "XDU774",
-            "category_id": 1,
             "keypoints": [
                 208.500224,
                 280.0,
@@ -15148,9 +14238,7 @@
         },
         {
             "id": 456,
-            "iscrowd": 0,
             "image_id": "XDU776",
-            "category_id": 1,
             "keypoints": [
                 171.500032,
                 170.500096,
@@ -15169,9 +14257,7 @@
         },
         {
             "id": 457,
-            "iscrowd": 0,
             "image_id": "XDU777",
-            "category_id": 1,
             "keypoints": [
                 345.999872,
                 103.000064,
@@ -15190,9 +14276,7 @@
         },
         {
             "id": 458,
-            "iscrowd": 0,
             "image_id": "XDU778",
-            "category_id": 1,
             "keypoints": [
                 395.500032,
                 474.999808,
@@ -15211,9 +14295,7 @@
         },
         {
             "id": 459,
-            "iscrowd": 0,
             "image_id": "XDU78",
-            "category_id": 1,
             "keypoints": [
                 266.500096,
                 192.500224,
@@ -15241,9 +14323,7 @@
         },
         {
             "id": 460,
-            "iscrowd": 0,
             "image_id": "XDU780",
-            "category_id": 1,
             "keypoints": [
                 321.50016,
                 93.499904,
@@ -15262,9 +14342,7 @@
         },
         {
             "id": 461,
-            "iscrowd": 0,
             "image_id": "XDU781",
-            "category_id": 1,
             "keypoints": [
                 412.499968,
                 159.000064,
@@ -15283,9 +14361,7 @@
         },
         {
             "id": 462,
-            "iscrowd": 0,
             "image_id": "XDU782",
-            "category_id": 1,
             "keypoints": [
                 250.999808,
                 288.999936,
@@ -15304,9 +14380,7 @@
         },
         {
             "id": 463,
-            "iscrowd": 0,
             "image_id": "XDU783",
-            "category_id": 1,
             "keypoints": [
                 307.500032,
                 189.499904,
@@ -15325,9 +14399,7 @@
         },
         {
             "id": 464,
-            "iscrowd": 0,
             "image_id": "XDU784",
-            "category_id": 1,
             "keypoints": [
                 163.999744,
                 191.499776,
@@ -15355,9 +14427,7 @@
         },
         {
             "id": 465,
-            "iscrowd": 0,
             "image_id": "XDU785",
-            "category_id": 1,
             "keypoints": [
                 172.000256,
                 415.000064,
@@ -15376,9 +14446,7 @@
         },
         {
             "id": 466,
-            "iscrowd": 0,
             "image_id": "XDU787",
-            "category_id": 1,
             "keypoints": [
                 115.500032,
                 272.0,
@@ -15397,9 +14465,7 @@
         },
         {
             "id": 467,
-            "iscrowd": 0,
             "image_id": "XDU788",
-            "category_id": 1,
             "keypoints": [
                 392.500224,
                 69.000192,
@@ -15481,9 +14547,7 @@
         },
         {
             "id": 468,
-            "iscrowd": 0,
             "image_id": "XDU79",
-            "category_id": 1,
             "keypoints": [
                 29.000192,
                 178.999808,
@@ -15502,9 +14566,7 @@
         },
         {
             "id": 469,
-            "iscrowd": 0,
             "image_id": "XDU790",
-            "category_id": 1,
             "keypoints": [
                 263.499776,
                 221.499904,
@@ -15523,9 +14585,7 @@
         },
         {
             "id": 470,
-            "iscrowd": 0,
             "image_id": "XDU792",
-            "category_id": 1,
             "keypoints": [
                 477.000192,
                 286.49984,
@@ -15544,9 +14604,7 @@
         },
         {
             "id": 471,
-            "iscrowd": 0,
             "image_id": "XDU793",
-            "category_id": 1,
             "keypoints": [
                 216.0,
                 277.499904,
@@ -15565,9 +14623,7 @@
         },
         {
             "id": 472,
-            "iscrowd": 0,
             "image_id": "XDU794",
-            "category_id": 1,
             "keypoints": [
                 239.000064,
                 220.000256,
@@ -15586,9 +14642,7 @@
         },
         {
             "id": 473,
-            "iscrowd": 0,
             "image_id": "XDU796",
-            "category_id": 1,
             "keypoints": [
                 460.499968,
                 125.000192,
@@ -15607,9 +14661,7 @@
         },
         {
             "id": 474,
-            "iscrowd": 0,
             "image_id": "XDU797",
-            "category_id": 1,
             "keypoints": [
                 200.500224,
                 410.999808,
@@ -15628,9 +14680,7 @@
         },
         {
             "id": 475,
-            "iscrowd": 0,
             "image_id": "XDU798",
-            "category_id": 1,
             "keypoints": [
                 306.999808,
                 424.999936,
@@ -15649,9 +14699,7 @@
         },
         {
             "id": 476,
-            "iscrowd": 0,
             "image_id": "XDU799",
-            "category_id": 1,
             "keypoints": [
                 58.500096,
                 64.0,
@@ -15670,9 +14718,7 @@
         },
         {
             "id": 477,
-            "iscrowd": 0,
             "image_id": "XDU8",
-            "category_id": 1,
             "keypoints": [
                 280.500224,
                 101.000192,
@@ -15691,9 +14737,7 @@
         },
         {
             "id": 478,
-            "iscrowd": 0,
             "image_id": "XDU800",
-            "category_id": 1,
             "keypoints": [
                 206.000128,
                 161.999872,
@@ -15721,9 +14765,7 @@
         },
         {
             "id": 479,
-            "iscrowd": 0,
             "image_id": "XDU801",
-            "category_id": 1,
             "keypoints": [
                 209.50016,
                 270.000128,
@@ -15742,9 +14784,7 @@
         },
         {
             "id": 480,
-            "iscrowd": 0,
             "image_id": "XDU802",
-            "category_id": 1,
             "keypoints": [
                 256.999936,
                 476.499968,
@@ -15772,9 +14812,7 @@
         },
         {
             "id": 481,
-            "iscrowd": 0,
             "image_id": "XDU805",
-            "category_id": 1,
             "keypoints": [
                 328.0,
                 177.50016,
@@ -15802,9 +14840,7 @@
         },
         {
             "id": 482,
-            "iscrowd": 0,
             "image_id": "XDU808",
-            "category_id": 1,
             "keypoints": [
                 336.999936,
                 416.500224,
@@ -15823,9 +14859,7 @@
         },
         {
             "id": 483,
-            "iscrowd": 0,
             "image_id": "XDU809",
-            "category_id": 1,
             "keypoints": [
                 336.999936,
                 333.000192,
@@ -15853,9 +14887,7 @@
         },
         {
             "id": 484,
-            "iscrowd": 0,
             "image_id": "XDU81",
-            "category_id": 1,
             "keypoints": [
                 257.999872,
                 286.000128,
@@ -15883,9 +14915,7 @@
         },
         {
             "id": 485,
-            "iscrowd": 0,
             "image_id": "XDU810",
-            "category_id": 1,
             "keypoints": [
                 377.50016,
                 227.999744,
@@ -15913,9 +14943,7 @@
         },
         {
             "id": 486,
-            "iscrowd": 0,
             "image_id": "XDU811",
-            "category_id": 1,
             "keypoints": [
                 51.500032,
                 272.0,
@@ -15943,9 +14971,7 @@
         },
         {
             "id": 487,
-            "iscrowd": 0,
             "image_id": "XDU813",
-            "category_id": 1,
             "keypoints": [
                 360.999936,
                 200.999936,
@@ -15964,9 +14990,7 @@
         },
         {
             "id": 488,
-            "iscrowd": 0,
             "image_id": "XDU814",
-            "category_id": 1,
             "keypoints": [
                 330.500096,
                 408.500224,
@@ -15985,9 +15009,7 @@
         },
         {
             "id": 489,
-            "iscrowd": 0,
             "image_id": "XDU816",
-            "category_id": 1,
             "keypoints": [
                 219.500032,
                 256.999936,
@@ -16006,9 +15028,7 @@
         },
         {
             "id": 490,
-            "iscrowd": 0,
             "image_id": "XDU818",
-            "category_id": 1,
             "keypoints": [
                 127.499776,
                 124.499968,
@@ -16027,9 +15047,7 @@
         },
         {
             "id": 491,
-            "iscrowd": 0,
             "image_id": "XDU820",
-            "category_id": 1,
             "keypoints": [
                 345.999872,
                 104.0,
@@ -16075,9 +15093,7 @@
         },
         {
             "id": 492,
-            "iscrowd": 0,
             "image_id": "XDU821",
-            "category_id": 1,
             "keypoints": [
                 120.500224,
                 111.499776,
@@ -16096,9 +15112,7 @@
         },
         {
             "id": 493,
-            "iscrowd": 0,
             "image_id": "XDU825",
-            "category_id": 1,
             "keypoints": [
                 34.500096,
                 163.999744,
@@ -16117,9 +15131,7 @@
         },
         {
             "id": 494,
-            "iscrowd": 0,
             "image_id": "XDU829",
-            "category_id": 1,
             "keypoints": [
                 181.000192,
                 157.499904,
@@ -16138,9 +15150,7 @@
         },
         {
             "id": 495,
-            "iscrowd": 0,
             "image_id": "XDU832",
-            "category_id": 1,
             "keypoints": [
                 260.499968,
                 313.50016,
@@ -16159,9 +15169,7 @@
         },
         {
             "id": 496,
-            "iscrowd": 0,
             "image_id": "XDU834",
-            "category_id": 1,
             "keypoints": [
                 343.499776,
                 480.500224,
@@ -16189,9 +15197,7 @@
         },
         {
             "id": 497,
-            "iscrowd": 0,
             "image_id": "XDU835",
-            "category_id": 1,
             "keypoints": [
                 298.999808,
                 121.999872,
@@ -16210,9 +15216,7 @@
         },
         {
             "id": 498,
-            "iscrowd": 0,
             "image_id": "XDU837",
-            "category_id": 1,
             "keypoints": [
                 185.50016,
                 469.499904,
@@ -16231,9 +15235,7 @@
         },
         {
             "id": 499,
-            "iscrowd": 0,
             "image_id": "XDU838",
-            "category_id": 1,
             "keypoints": [
                 196.499968,
                 149.499904,
@@ -16252,9 +15254,7 @@
         },
         {
             "id": 500,
-            "iscrowd": 0,
             "image_id": "XDU839",
-            "category_id": 1,
             "keypoints": [
                 280.0,
                 115.999744,
@@ -16273,9 +15273,7 @@
         },
         {
             "id": 501,
-            "iscrowd": 0,
             "image_id": "XDU84",
-            "category_id": 1,
             "keypoints": [
                 252.000256,
                 259.500032,
@@ -16294,9 +15292,7 @@
         },
         {
             "id": 502,
-            "iscrowd": 0,
             "image_id": "XDU840",
-            "category_id": 1,
             "keypoints": [
                 110.000128,
                 70.49984,
@@ -16315,9 +15311,7 @@
         },
         {
             "id": 503,
-            "iscrowd": 0,
             "image_id": "XDU841",
-            "category_id": 1,
             "keypoints": [
                 441.999872,
                 344.500224,
@@ -16345,9 +15339,7 @@
         },
         {
             "id": 504,
-            "iscrowd": 0,
             "image_id": "XDU842",
-            "category_id": 1,
             "keypoints": [
                 58.999808,
                 88.0,
@@ -16366,9 +15358,7 @@
         },
         {
             "id": 505,
-            "iscrowd": 0,
             "image_id": "XDU844",
-            "category_id": 1,
             "keypoints": [
                 393.999872,
                 49.50016,
@@ -16387,9 +15377,7 @@
         },
         {
             "id": 506,
-            "iscrowd": 0,
             "image_id": "XDU848",
-            "category_id": 1,
             "keypoints": [
                 418.500096,
                 340.499968,
@@ -16408,9 +15396,7 @@
         },
         {
             "id": 507,
-            "iscrowd": 0,
             "image_id": "XDU854",
-            "category_id": 1,
             "keypoints": [
                 294.49984,
                 96.500224,
@@ -16429,9 +15415,7 @@
         },
         {
             "id": 508,
-            "iscrowd": 0,
             "image_id": "XDU855",
-            "category_id": 1,
             "keypoints": [
                 337.999872,
                 233.999872,
@@ -16450,9 +15434,7 @@
         },
         {
             "id": 509,
-            "iscrowd": 0,
             "image_id": "XDU856",
-            "category_id": 1,
             "keypoints": [
                 350.000128,
                 317.000192,
@@ -16471,9 +15453,7 @@
         },
         {
             "id": 510,
-            "iscrowd": 0,
             "image_id": "XDU857",
-            "category_id": 1,
             "keypoints": [
                 242.500096,
                 266.999808,
@@ -16492,9 +15472,7 @@
         },
         {
             "id": 511,
-            "iscrowd": 0,
             "image_id": "XDU860",
-            "category_id": 1,
             "keypoints": [
                 433.999872,
                 83.999744,
@@ -16513,9 +15491,7 @@
         },
         {
             "id": 512,
-            "iscrowd": 0,
             "image_id": "XDU863",
-            "category_id": 1,
             "keypoints": [
                 340.499968,
                 33.50016,
@@ -16534,9 +15510,7 @@
         },
         {
             "id": 513,
-            "iscrowd": 0,
             "image_id": "XDU864",
-            "category_id": 1,
             "keypoints": [
                 272.0,
                 127.499776,
@@ -16555,9 +15529,7 @@
         },
         {
             "id": 514,
-            "iscrowd": 0,
             "image_id": "XDU865",
-            "category_id": 1,
             "keypoints": [
                 348.499968,
                 444.499968,
@@ -16603,9 +15575,7 @@
         },
         {
             "id": 515,
-            "iscrowd": 0,
             "image_id": "XDU866",
-            "category_id": 1,
             "keypoints": [
                 402.999808,
                 55.000064,
@@ -16624,9 +15594,7 @@
         },
         {
             "id": 516,
-            "iscrowd": 0,
             "image_id": "XDU867",
-            "category_id": 1,
             "keypoints": [
                 186.999808,
                 70.49984,
@@ -16645,9 +15613,7 @@
         },
         {
             "id": 517,
-            "iscrowd": 0,
             "image_id": "XDU868",
-            "category_id": 1,
             "keypoints": [
                 187.500032,
                 339.999744,
@@ -16666,9 +15632,7 @@
         },
         {
             "id": 518,
-            "iscrowd": 0,
             "image_id": "XDU87",
-            "category_id": 1,
             "keypoints": [
                 197.499904,
                 296.999936,
@@ -16687,9 +15651,7 @@
         },
         {
             "id": 519,
-            "iscrowd": 0,
             "image_id": "XDU871",
-            "category_id": 1,
             "keypoints": [
                 450.999808,
                 237.499904,
@@ -16708,9 +15670,7 @@
         },
         {
             "id": 520,
-            "iscrowd": 0,
             "image_id": "XDU873",
-            "category_id": 1,
             "keypoints": [
                 189.000192,
                 280.999936,
@@ -16729,9 +15689,7 @@
         },
         {
             "id": 521,
-            "iscrowd": 0,
             "image_id": "XDU874",
-            "category_id": 1,
             "keypoints": [
                 158.49984,
                 78.000128,
@@ -16759,9 +15717,7 @@
         },
         {
             "id": 522,
-            "iscrowd": 0,
             "image_id": "XDU875",
-            "category_id": 1,
             "keypoints": [
                 103.499776,
                 188.499968,
@@ -16789,9 +15745,7 @@
         },
         {
             "id": 523,
-            "iscrowd": 0,
             "image_id": "XDU876",
-            "category_id": 1,
             "keypoints": [
                 244.499968,
                 330.999808,
@@ -16810,9 +15764,7 @@
         },
         {
             "id": 524,
-            "iscrowd": 0,
             "image_id": "XDU879",
-            "category_id": 1,
             "keypoints": [
                 351.499776,
                 233.999872,
@@ -16831,9 +15783,7 @@
         },
         {
             "id": 525,
-            "iscrowd": 0,
             "image_id": "XDU88",
-            "category_id": 1,
             "keypoints": [
                 165.000192,
                 185.999872,
@@ -16852,9 +15802,7 @@
         },
         {
             "id": 526,
-            "iscrowd": 0,
             "image_id": "XDU883",
-            "category_id": 1,
             "keypoints": [
                 300.000256,
                 245.499904,
@@ -16873,9 +15821,7 @@
         },
         {
             "id": 527,
-            "iscrowd": 0,
             "image_id": "XDU885",
-            "category_id": 1,
             "keypoints": [
                 409.999872,
                 192.0,
@@ -16894,9 +15840,7 @@
         },
         {
             "id": 528,
-            "iscrowd": 0,
             "image_id": "XDU886",
-            "category_id": 1,
             "keypoints": [
                 70.000128,
                 414.49984,
@@ -16915,9 +15859,7 @@
         },
         {
             "id": 529,
-            "iscrowd": 0,
             "image_id": "XDU887",
-            "category_id": 1,
             "keypoints": [
                 243.999744,
                 256.0,
@@ -16945,9 +15887,7 @@
         },
         {
             "id": 530,
-            "iscrowd": 0,
             "image_id": "XDU889",
-            "category_id": 1,
             "keypoints": [
                 140.000256,
                 271.499776,
@@ -16975,9 +15915,7 @@
         },
         {
             "id": 531,
-            "iscrowd": 0,
             "image_id": "XDU89",
-            "category_id": 1,
             "keypoints": [
                 386.500096,
                 131.999744,
@@ -17005,9 +15943,7 @@
         },
         {
             "id": 532,
-            "iscrowd": 0,
             "image_id": "XDU892",
-            "category_id": 1,
             "keypoints": [
                 249.50016,
                 231.499776,
@@ -17035,9 +15971,7 @@
         },
         {
             "id": 533,
-            "iscrowd": 0,
             "image_id": "XDU893",
-            "category_id": 1,
             "keypoints": [
                 186.500096,
                 317.499904,
@@ -17056,9 +15990,7 @@
         },
         {
             "id": 534,
-            "iscrowd": 0,
             "image_id": "XDU894",
-            "category_id": 1,
             "keypoints": [
                 197.499904,
                 307.500032,
@@ -17077,9 +16009,7 @@
         },
         {
             "id": 535,
-            "iscrowd": 0,
             "image_id": "XDU895",
-            "category_id": 1,
             "keypoints": [
                 77.000192,
                 345.999872,
@@ -17107,9 +16037,7 @@
         },
         {
             "id": 536,
-            "iscrowd": 0,
             "image_id": "XDU896",
-            "category_id": 1,
             "keypoints": [
                 413.499904,
                 248.500224,
@@ -17128,9 +16056,7 @@
         },
         {
             "id": 537,
-            "iscrowd": 0,
             "image_id": "XDU897",
-            "category_id": 1,
             "keypoints": [
                 125.000192,
                 82.999808,
@@ -17149,9 +16075,7 @@
         },
         {
             "id": 538,
-            "iscrowd": 0,
             "image_id": "XDU899",
-            "category_id": 1,
             "keypoints": [
                 319.000064,
                 279.000064,
@@ -17179,9 +16103,7 @@
         },
         {
             "id": 539,
-            "iscrowd": 0,
             "image_id": "XDU9",
-            "category_id": 1,
             "keypoints": [
                 332.499968,
                 197.000192,
@@ -17200,9 +16122,7 @@
         },
         {
             "id": 540,
-            "iscrowd": 0,
             "image_id": "XDU900",
-            "category_id": 1,
             "keypoints": [
                 304.999936,
                 326.000128,
@@ -17230,9 +16150,7 @@
         },
         {
             "id": 541,
-            "iscrowd": 0,
             "image_id": "XDU901",
-            "category_id": 1,
             "keypoints": [
                 347.500032,
                 83.999744,
@@ -17251,9 +16169,7 @@
         },
         {
             "id": 542,
-            "iscrowd": 0,
             "image_id": "XDU902",
-            "category_id": 1,
             "keypoints": [
                 279.000064,
                 335.000064,
@@ -17281,9 +16197,7 @@
         },
         {
             "id": 543,
-            "iscrowd": 0,
             "image_id": "XDU904",
-            "category_id": 1,
             "keypoints": [
                 48.999936,
                 108.499968,
@@ -17311,9 +16225,7 @@
         },
         {
             "id": 544,
-            "iscrowd": 0,
             "image_id": "XDU905",
-            "category_id": 1,
             "keypoints": [
                 177.999872,
                 72.0,
@@ -17332,9 +16244,7 @@
         },
         {
             "id": 545,
-            "iscrowd": 0,
             "image_id": "XDU906",
-            "category_id": 1,
             "keypoints": [
                 93.000192,
                 54.49984,
@@ -17353,9 +16263,7 @@
         },
         {
             "id": 546,
-            "iscrowd": 0,
             "image_id": "XDU91",
-            "category_id": 1,
             "keypoints": [
                 257.50016,
                 186.500096,
@@ -17383,9 +16291,7 @@
         },
         {
             "id": 547,
-            "iscrowd": 0,
             "image_id": "XDU911",
-            "category_id": 1,
             "keypoints": [
                 226.500096,
                 408.0,
@@ -17413,9 +16319,7 @@
         },
         {
             "id": 548,
-            "iscrowd": 0,
             "image_id": "XDU912",
-            "category_id": 1,
             "keypoints": [
                 240.999936,
                 289.50016,
@@ -17443,9 +16347,7 @@
         },
         {
             "id": 549,
-            "iscrowd": 0,
             "image_id": "XDU913",
-            "category_id": 1,
             "keypoints": [
                 44.499968,
                 434.999808,
@@ -17464,9 +16366,7 @@
         },
         {
             "id": 550,
-            "iscrowd": 0,
             "image_id": "XDU915",
-            "category_id": 1,
             "keypoints": [
                 181.499904,
                 280.500224,
@@ -17494,9 +16394,7 @@
         },
         {
             "id": 551,
-            "iscrowd": 0,
             "image_id": "XDU917",
-            "category_id": 1,
             "keypoints": [
                 186.999808,
                 194.999808,
@@ -17515,9 +16413,7 @@
         },
         {
             "id": 552,
-            "iscrowd": 0,
             "image_id": "XDU918",
-            "category_id": 1,
             "keypoints": [
                 178.500096,
                 204.000256,
@@ -17536,9 +16432,7 @@
         },
         {
             "id": 553,
-            "iscrowd": 0,
             "image_id": "XDU920",
-            "category_id": 1,
             "keypoints": [
                 413.000192,
                 321.999872,
@@ -17557,9 +16451,7 @@
         },
         {
             "id": 554,
-            "iscrowd": 0,
             "image_id": "XDU922",
-            "category_id": 1,
             "keypoints": [
                 445.000192,
                 48.500224,
@@ -17578,9 +16470,7 @@
         },
         {
             "id": 555,
-            "iscrowd": 0,
             "image_id": "XDU923",
-            "category_id": 1,
             "keypoints": [
                 353.999872,
                 288.999936,
@@ -17599,9 +16489,7 @@
         },
         {
             "id": 556,
-            "iscrowd": 0,
             "image_id": "XDU924",
-            "category_id": 1,
             "keypoints": [
                 257.50016,
                 317.499904,
@@ -17629,9 +16517,7 @@
         },
         {
             "id": 557,
-            "iscrowd": 0,
             "image_id": "XDU925",
-            "category_id": 1,
             "keypoints": [
                 359.000064,
                 100.499968,
@@ -17659,9 +16545,7 @@
         },
         {
             "id": 558,
-            "iscrowd": 0,
             "image_id": "XDU926",
-            "category_id": 1,
             "keypoints": [
                 197.000192,
                 411.500032,
@@ -17680,9 +16564,7 @@
         },
         {
             "id": 559,
-            "iscrowd": 0,
             "image_id": "XDU928",
-            "category_id": 1,
             "keypoints": [
                 64.999936,
                 396.000256,
@@ -17710,9 +16592,7 @@
         },
         {
             "id": 560,
-            "iscrowd": 0,
             "image_id": "XDU929",
-            "category_id": 1,
             "keypoints": [
                 201.50016,
                 147.500032,
@@ -17740,9 +16620,7 @@
         },
         {
             "id": 561,
-            "iscrowd": 0,
             "image_id": "XDU930",
-            "category_id": 1,
             "keypoints": [
                 240.999936,
                 99.999744,
@@ -17761,9 +16639,7 @@
         },
         {
             "id": 562,
-            "iscrowd": 0,
             "image_id": "XDU931",
-            "category_id": 1,
             "keypoints": [
                 196.499968,
                 360.500224,
@@ -17782,9 +16658,7 @@
         },
         {
             "id": 563,
-            "iscrowd": 0,
             "image_id": "XDU932",
-            "category_id": 1,
             "keypoints": [
                 149.499904,
                 354.999808,
@@ -17812,9 +16686,7 @@
         },
         {
             "id": 564,
-            "iscrowd": 0,
             "image_id": "XDU934",
-            "category_id": 1,
             "keypoints": [
                 359.000064,
                 338.500096,
@@ -17833,9 +16705,7 @@
         },
         {
             "id": 565,
-            "iscrowd": 0,
             "image_id": "XDU935",
-            "category_id": 1,
             "keypoints": [
                 279.000064,
                 297.999872,
@@ -17863,9 +16733,7 @@
         },
         {
             "id": 566,
-            "iscrowd": 0,
             "image_id": "XDU936",
-            "category_id": 1,
             "keypoints": [
                 207.000064,
                 422.49984,
@@ -17884,9 +16752,7 @@
         },
         {
             "id": 567,
-            "iscrowd": 0,
             "image_id": "XDU937",
-            "category_id": 1,
             "keypoints": [
                 271.499776,
                 154.500096,
@@ -17905,9 +16771,7 @@
         },
         {
             "id": 568,
-            "iscrowd": 0,
             "image_id": "XDU938",
-            "category_id": 1,
             "keypoints": [
                 431.000064,
                 120.999936,
@@ -17926,9 +16790,7 @@
         },
         {
             "id": 569,
-            "iscrowd": 0,
             "image_id": "XDU94",
-            "category_id": 1,
             "keypoints": [
                 214.000128,
                 84.499968,
@@ -17947,9 +16809,7 @@
         },
         {
             "id": 570,
-            "iscrowd": 0,
             "image_id": "XDU940",
-            "category_id": 1,
             "keypoints": [
                 174.49984,
                 26.500096,
@@ -17968,9 +16828,7 @@
         },
         {
             "id": 571,
-            "iscrowd": 0,
             "image_id": "XDU946",
-            "category_id": 1,
             "keypoints": [
                 214.000128,
                 308.499968,
@@ -17989,9 +16847,7 @@
         },
         {
             "id": 572,
-            "iscrowd": 0,
             "image_id": "XDU947",
-            "category_id": 1,
             "keypoints": [
                 207.499776,
                 261.000192,
@@ -18010,9 +16866,7 @@
         },
         {
             "id": 573,
-            "iscrowd": 0,
             "image_id": "XDU948",
-            "category_id": 1,
             "keypoints": [
                 94.49984,
                 97.999872,
@@ -18040,9 +16894,7 @@
         },
         {
             "id": 574,
-            "iscrowd": 0,
             "image_id": "XDU95",
-            "category_id": 1,
             "keypoints": [
                 135.000064,
                 142.49984,
@@ -18079,9 +16931,7 @@
         },
         {
             "id": 575,
-            "iscrowd": 0,
             "image_id": "XDU952",
-            "category_id": 1,
             "keypoints": [
                 291.500032,
                 250.500096,
@@ -18100,9 +16950,7 @@
         },
         {
             "id": 576,
-            "iscrowd": 0,
             "image_id": "XDU953",
-            "category_id": 1,
             "keypoints": [
                 142.000128,
                 355.999744,
@@ -18121,9 +16969,7 @@
         },
         {
             "id": 577,
-            "iscrowd": 0,
             "image_id": "XDU954",
-            "category_id": 1,
             "keypoints": [
                 124.499968,
                 371.999744,
@@ -18142,9 +16988,7 @@
         },
         {
             "id": 578,
-            "iscrowd": 0,
             "image_id": "XDU955",
-            "category_id": 1,
             "keypoints": [
                 224.500224,
                 154.999808,
@@ -18163,9 +17007,7 @@
         },
         {
             "id": 579,
-            "iscrowd": 0,
             "image_id": "XDU956",
-            "category_id": 1,
             "keypoints": [
                 359.000064,
                 153.50016,
@@ -18184,9 +17026,7 @@
         },
         {
             "id": 580,
-            "iscrowd": 0,
             "image_id": "XDU959",
-            "category_id": 1,
             "keypoints": [
                 290.999808,
                 220.499968,
@@ -18205,9 +17045,7 @@
         },
         {
             "id": 581,
-            "iscrowd": 0,
             "image_id": "XDU96",
-            "category_id": 1,
             "keypoints": [
                 168.999936,
                 41.50016,
@@ -18235,9 +17073,7 @@
         },
         {
             "id": 582,
-            "iscrowd": 0,
             "image_id": "XDU961",
-            "category_id": 1,
             "keypoints": [
                 275.999744,
                 232.500224,
@@ -18256,9 +17092,7 @@
         },
         {
             "id": 583,
-            "iscrowd": 0,
             "image_id": "XDU962",
-            "category_id": 1,
             "keypoints": [
                 241.50016,
                 296.500224,
@@ -18277,9 +17111,7 @@
         },
         {
             "id": 584,
-            "iscrowd": 0,
             "image_id": "XDU963",
-            "category_id": 1,
             "keypoints": [
                 134.000128,
                 101.499904,
@@ -18298,9 +17130,7 @@
         },
         {
             "id": 585,
-            "iscrowd": 0,
             "image_id": "XDU967",
-            "category_id": 1,
             "keypoints": [
                 156.000256,
                 340.499968,
@@ -18319,9 +17149,7 @@
         },
         {
             "id": 586,
-            "iscrowd": 0,
             "image_id": "XDU968",
-            "category_id": 1,
             "keypoints": [
                 391.000064,
                 60.000256,
@@ -18340,9 +17168,7 @@
         },
         {
             "id": 587,
-            "iscrowd": 0,
             "image_id": "XDU971",
-            "category_id": 1,
             "keypoints": [
                 205.499904,
                 258.500096,
@@ -18361,9 +17187,7 @@
         },
         {
             "id": 588,
-            "iscrowd": 0,
             "image_id": "XDU976",
-            "category_id": 1,
             "keypoints": [
                 485.000192,
                 85.499904,
@@ -18382,9 +17206,7 @@
         },
         {
             "id": 589,
-            "iscrowd": 0,
             "image_id": "XDU977",
-            "category_id": 1,
             "keypoints": [
                 319.499776,
                 209.50016,
@@ -18421,9 +17243,7 @@
         },
         {
             "id": 590,
-            "iscrowd": 0,
             "image_id": "XDU979",
-            "category_id": 1,
             "keypoints": [
                 177.50016,
                 268.000256,
@@ -18442,9 +17262,7 @@
         },
         {
             "id": 591,
-            "iscrowd": 0,
             "image_id": "XDU98",
-            "category_id": 1,
             "keypoints": [
                 380.000256,
                 295.499776,
@@ -18472,9 +17290,7 @@
         },
         {
             "id": 592,
-            "iscrowd": 0,
             "image_id": "XDU982",
-            "category_id": 1,
             "keypoints": [
                 152.500224,
                 85.499904,
@@ -18502,9 +17318,7 @@
         },
         {
             "id": 593,
-            "iscrowd": 0,
             "image_id": "XDU983",
-            "category_id": 1,
             "keypoints": [
                 296.500224,
                 258.500096,
@@ -18523,9 +17337,7 @@
         },
         {
             "id": 594,
-            "iscrowd": 0,
             "image_id": "XDU985",
-            "category_id": 1,
             "keypoints": [
                 228.499968,
                 312.0,
@@ -18544,9 +17356,7 @@
         },
         {
             "id": 595,
-            "iscrowd": 0,
             "image_id": "XDU986",
-            "category_id": 1,
             "keypoints": [
                 64.999936,
                 187.500032,
@@ -18574,9 +17384,7 @@
         },
         {
             "id": 596,
-            "iscrowd": 0,
             "image_id": "XDU987",
-            "category_id": 1,
             "keypoints": [
                 289.50016,
                 31.000064,
@@ -18595,9 +17403,7 @@
         },
         {
             "id": 597,
-            "iscrowd": 0,
             "image_id": "XDU989",
-            "category_id": 1,
             "keypoints": [
                 83.999744,
                 456.999936,
@@ -18625,9 +17431,7 @@
         },
         {
             "id": 598,
-            "iscrowd": 0,
             "image_id": "XDU993",
-            "category_id": 1,
             "keypoints": [
                 248.999936,
                 261.499904,
@@ -18655,9 +17459,7 @@
         },
         {
             "id": 599,
-            "iscrowd": 0,
             "image_id": "XDU994",
-            "category_id": 1,
             "keypoints": [
                 146.999808,
                 336.999936,
@@ -18676,9 +17478,7 @@
         },
         {
             "id": 600,
-            "iscrowd": 0,
             "image_id": "XDU997",
-            "category_id": 1,
             "keypoints": [
                 327.499776,
                 257.999872,
@@ -18694,13 +17494,6 @@
                     286.0
                 ]
             ]
-        }
-    ],
-    "categories": [
-        {
-            "supercategory": "person",
-            "id": 1,
-            "name": "person"
         }
     ]
 }
